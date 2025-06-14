@@ -1,11 +1,13 @@
 {
-  "message": "📢 خد بالك يا صاحبي المذكرة دي شديدة وهتلم لك المنحج كله:",
-  "image": "https://h.top4top.io/p_3452k3x8k1.png",
+  "message": "<strong>📢 هام جدًا!</strong><br>تم نشر مراجعة الدراسات النهائية.<br>استخدم الروابط بالأسفل لمتابعتها.",
   "buttons": {
-    "facebook": "https://facebook.com/yourpage",
     "youtube": "https://youtube.com/@yourchannel",
-    "whatsapp": "https://wa.me/201234567890",
-    "telegram": "https://t.me/yourchannel",
-    "website": "https://yourwebsite.com"
+    "telegram": "https://t.me/yourchannel"
+        "facebook": "https://facebook.com/yourpage",
+    "instagram": "https://instagram.com/yourpage",
+    "twitter": "https://twitter.com/yourpage",
+    "snapchat": "https://snapchat.com/add/youruser",
+    "tiktok": "https://tiktok.com/@yourchannel",
   }
 }
+
