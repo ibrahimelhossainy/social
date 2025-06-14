@@ -1,4 +1,8 @@
 {
-  "message": "📢 اختبار الدراسات اليوم الساعة 7 مساءً!",
-  "link": "https://t.me/yourchannel"
+  "message": "📢 تم إضافة مراجعة الدراسات! اختر الوسيلة:",
+  "buttons": {
+    "facebook": "https://facebook.com/yourpage",
+    "youtube": "https://youtube.com/@yourchannel",
+    "whatsapp": "https://wa.me/201234567890"
+  }
 }
