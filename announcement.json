@@ -1,12 +1,12 @@
 {
-  "message": "📢 تم إضافة محتوى جديد! تقدر تشوفه من الروابط التالية:",
+  "message": "📢 تابعنا على منصاتنا المختلفة!",
   "image": "https://yourdomain.com/logo.png",
   "buttons": {
     "facebook": "https://facebook.com/yourpage",
-    "youtube": "https://youtube.com/@yourchannel",
-    "whatsapp": "https://wa.me/201234567890",
-    "telegram": "https://t.me/yourchannel",
-    "website": "https://yourwebsite.com"
+    "instagram": "https://instagram.com/yourpage",
+    "twitter": "https://twitter.com/yourpage",
+    "snapchat": "https://snapchat.com/add/youruser",
+    "tiktok": "https://tiktok.com/@yourchannel",
+    "youtube": "https://youtube.com/@yourchannel"
   }
 }
-
