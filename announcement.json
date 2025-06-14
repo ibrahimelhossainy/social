@@ -1,9 +1,12 @@
 {
-  "message": "<strong>📢 هام جدًا!</strong><br>تم نشر مراجعة الدراسات النهائية.<br>استخدم الروابط بالأسفل لمتابعتها.",
+  "message": "📢 تم إضافة محتوى جديد! تقدر تشوفه من الروابط التالية:",
+  "image": "https://yourdomain.com/logo.png",
   "buttons": {
-    "instagram": "https://instagram.com/yourpage",
-    "twitter": "https://twitter.com/yourpage",
-    "snapchat": "https://snapchat.com/add/youruser",
-    "tiktok": "https://tiktok.com/@yourchannel",
+    "facebook": "https://facebook.com/yourpage",
+    "youtube": "https://youtube.com/@yourchannel",
+    "whatsapp": "https://wa.me/201234567890",
+    "telegram": "https://t.me/yourchannel",
+    "website": "https://yourwebsite.com"
   }
 }
+
