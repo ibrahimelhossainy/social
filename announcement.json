@@ -1,6 +1,6 @@
 {
-  "message": "📢 تم إضافة مراجعة الدراسات! اختر الوسيلة:",
+  "message": "📢 شارك المنشور مع أصدقائك على فيسبوك",
   "buttons": {
-    "youtube": "https://youtube.com/@yourchannel",
+    "facebook": "https://facebook.com/yourpage"
   }
 }
