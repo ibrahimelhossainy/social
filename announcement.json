@@ -1,3 +1,11 @@
 {
-  "message": " "
+  "message": "📢 تم إضافة محتوى جديد! تقدر تشوفه من الروابط التالية:",
+  "image": "https://yourdomain.com/logo.png",
+  "buttons": {
+    "facebook": "https://facebook.com/yourpage",
+    "youtube": "https://youtube.com/@yourchannel",
+    "whatsapp": "https://wa.me/201234567890",
+    "telegram": "https://t.me/yourchannel",
+    "website": "https://yourwebsite.com"
+  }
 }
