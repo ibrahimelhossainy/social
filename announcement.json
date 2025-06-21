@@ -1,20 +1,7 @@
 {
-  "message": "📢 سبحان الله وبحمده!",
-  "image": "https://yourdomain.com/logo.png",
-  "buttons": {
-    "facebook": "https://facebook.com/yourpage",
-    "instagram": "https://instagram.com/yourpage",
-    "twitter": "https://twitter.com/yourpage",
-    "snapchat": "https://snapchat.com/add/youruser",
-    "tiktok": "https://tiktok.com/@yourchannel",
-    "youtube": "https://youtube.com/@yourchannel"
-  }
-}
-
-{
   "allowed": [
     "device_abcd1234",
-    "device_i0zvqlnni",
-    "device_ahmed001"
+    "device_x9f8w2lk",
+    "device_12345678"
   ]
 }
