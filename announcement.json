@@ -1,7 +1,4 @@
+
 {
-  "allowed": [
-    "device_abcd1234",
-    "device_x9f8w2lk",
-    "device_i0zvqlnni"
-  ]
+  "activeUsers": ["MTZ-XXXX1234", "MTZ-TESTCODE"]
 }
