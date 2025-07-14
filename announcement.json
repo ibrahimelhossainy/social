@@ -1,5 +1,32 @@
-{
-  "message": "اشترك الآن وافتح جميع الامتحانات!",
-  "imageUrl": "https://placehold.co/100x100/25D366/FFFFFF?text=عرض",
-  "whatsappText": "مرحبًا، أرغب في شراء التطبيق."
-}
+[
+  {
+    "name": "محمد أحمد",
+    "grade": "الصف الأول الثانوي",
+    "score": "98%",
+    "image": "https://example.com/mohamed.jpg"
+  },
+  {
+    "name": "هنا علي",
+    "grade": "الصف الأول الثانوي",
+    "score": "96%",
+    "image": "https://example.com/hanaa.jpg"
+  },
+  {
+    "name": "كريم مصطفى",
+    "grade": "الصف الأول الثانوي",
+    "score": "95%",
+    "image": "https://example.com/kareem.jpg"
+  },
+  {
+    "name": "سارة محمد",
+    "grade": "الصف الأول الثانوي",
+    "score": "94%",
+    "image": "https://example.com/sara.jpg"
+  },
+  {
+    "name": "علي حسين",
+    "grade": "الصف الأول الثانوي",
+    "score": "93%",
+    "image": "https://example.com/ali.jpg"
+  }
+]
