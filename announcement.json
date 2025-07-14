@@ -1,17 +1,19 @@
 {
-  "title": "قائمة الأبطال 🎓",
-  "description": "الطاب الحائزين على أعلى نقاط بالتطبيق هذا الأسبوع",
+  "type": "honor",
   "students": [
-    { "name": "محمود خالد", "image": "https://f.top4top.io/p_3482c45gs1.jpg" },
-    { "name": "علي محمد", "image": "https://example.com/m2.jpg" },
-    { "name": "سلمى يوسف", "image": "https://example.com/f1.jpg" },
-    { "name": "آدم عصام", "image": "https://example.com/m3.jpg" },
-    { "name": "هنا عمرو", "image": "https://example.com/f2.jpg" }
+    {
+      "name": "محمد خالد",
+      "image": "https://i.imgur.com/abcd123.jpg"
+    },
+    {
+      "name": "سارة علي",
+      "image": "https://i.imgur.com/xyz456.jpg"
+    }
   ],
-  "whatsappMessage": "✨ إليك قائمة أبطالنا هذا الأسبوع من تطبيق المتميز! 🌟 شجعهم واضغط للمشاركة 📚",
-  "contacts": [
-    { "icon": "📘", "link": "https://facebook.com/yourpage" },
-    { "icon": "📸", "link": "https://instagram.com/yourpage" },
-    { "icon": "💬", "link": "https://wa.me/201092321248" }
-  ]
+  "options": {
+    "contacts": {
+      "whatsapp": "https://wa.me/201092321248",
+      "facebook": "https://facebook.com/example"
+    }
+  }
 }
