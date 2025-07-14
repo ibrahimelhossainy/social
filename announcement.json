@@ -1,32 +1,17 @@
-[
-  {
-    "name": "محمد أحمد",
-    "grade": "الصف الأول الثانوي",
-    "score": "98%",
-    "image": "https://example.com/mohamed.jpg"
-  },
-  {
-    "name": "هنا علي",
-    "grade": "الصف الأول الثانوي",
-    "score": "96%",
-    "image": "https://example.com/hanaa.jpg"
-  },
-  {
-    "name": "كريم مصطفى",
-    "grade": "الصف الأول الثانوي",
-    "score": "95%",
-    "image": "https://example.com/kareem.jpg"
-  },
-  {
-    "name": "سارة محمد",
-    "grade": "الصف الأول الثانوي",
-    "score": "94%",
-    "image": "https://example.com/sara.jpg"
-  },
-  {
-    "name": "علي حسين",
-    "grade": "الصف الأول الثانوي",
-    "score": "93%",
-    "image": "https://example.com/ali.jpg"
-  }
-]
+{
+  "title": "قائمة الأبطال 🎓",
+  "description": "أفضل 5 طلاب خلال هذا الأسبوع الدراسي!",
+  "students": [
+    { "name": "محمود خالد", "image": "https://example.com/m1.jpg" },
+    { "name": "علي محمد", "image": "https://example.com/m2.jpg" },
+    { "name": "سلمى يوسف", "image": "https://example.com/f1.jpg" },
+    { "name": "آدم عصام", "image": "https://example.com/m3.jpg" },
+    { "name": "هنا عمرو", "image": "https://example.com/f2.jpg" }
+  ],
+  "whatsappMessage": "✨ إليك قائمة أبطالنا هذا الأسبوع من تطبيق المتميز! 🌟 شجعهم واضغط للمشاركة 📚",
+  "contacts": [
+    { "icon": "📘", "link": "https://facebook.com/yourpage" },
+    { "icon": "📸", "link": "https://instagram.com/yourpage" },
+    { "icon": "💬", "link": "https://wa.me/201092321248" }
+  ]
+}
