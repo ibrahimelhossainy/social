@@ -3,7 +3,7 @@
     {
       "id": "unit_1",
       "unitName": "الوحدة الأولى: أساسيات اللغة",
-      "iconSvg": "ss.svg",
+      "icon": "ss.svg"
       "questions": [
         {
           "questionText": "ما هو جمع كلمة 'كتاب'؟",
