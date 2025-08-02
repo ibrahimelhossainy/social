@@ -1,314 +1,87 @@
 {
-    "subjects": [
+  "units": [
+    {
+      "id": "unit_1",
+      "unitName": "الوحدة الأولى: أساسيات اللغة",
+      "questions": [
         {
-            "id": "arabic",
-            "name": "الوحدة الأولى",
-            "icon": "fas fa-book",
-            "logo": "https://placehold.co/100x100/8d6e63/FFFFFF?text=ع",
-            "units": [
-                {
-                    "id": "arabic_u1",
-                    "unitName": "الوحدة الأولى: النحو",
-                    "questions": [
-                        {
-                            "id": "arabic_u1_q1",
-                            "questionText": "ما هو إعراب كلمة 'السماءُ' في جملة 'السماءُ صافية'؟",
-                            "options": ["خبر", "فاعل", "مبتدأ", "مفعول به"],
-                            "correctAnswer": "مبتدأ",
-                            "points": 10
-                        }
-                    ]
-                },
-                {
-                    "id": "arabic_u2",
-                    "unitName": "الوحدة الثانية: البلاغة",
-                    "questions": []
-                },
-                {
-                    "id": "arabic_u3",
-                    "unitName": "الوحدة الثالثة: الأدب",
-                    "questions": []
-                },
-                {
-                    "id": "arabic_u4",
-                    "unitName": "الوحدة الرابعة: النصوص",
-                    "questions": []
-                },
-                {
-                    "id": "arabic_u5",
-                    "unitName": "الوحدة الخامسة: مراجعة",
-                    "questions": []
-                }
-            ]
+          "questionText": "ما هو جمع كلمة 'كتاب'؟",
+          "options": ["كتب", "كتاتيب", "مكاتب", "مكتبات"],
+          "correctAnswer": "كتب",
+          "points": 10
         },
         {
-            "id": "social",
-            "name": "الدراسات الاجتماعية",
-            "icon": "fas fa-globe-africa",
-            "logo": "https://placehold.co/100x100/3498db/FFFFFF?text=ج",
-            "units": [
-                {
-                    "id": "unit_0",
-                    "unitName": "الحضارة المصرية القديمة",
-                    "questions": [
-                        {
-                            "id": "unit_0_q_0",
-                            "questionText": "من هو الملك الذي وحد القطرين (مملكتي الشمال والجنوب) في مصر القديمة حوالي عام 3200 ق.م؟",
-                            "options": ["رمسيس الثاني", "مينا (نارمر)", "أخناتون", "توت عنخ آمون"],
-                            "correctAnswer": "مينا (نارمر)",
-                            "points": 10
-                        },
-                        {
-                            "id": "unit_0_q_1",
-                            "questionText": "ما هو أشهر بناء معماري ضخم تركه المصريون القدماء ويعد من عجائب الدنيا السبع القديمة؟",
-                            "options": ["معبد الكرنك", "الأهرامات بالجيزة", "مكتبة الإسكندرية", "تمثال أبو الهول"],
-                            "correctAnswer": "الأهرامات بالجيزة",
-                            "points": 10
-                        },
-                        {
-                            "id": "unit_0_q_2",
-                            "questionText": "ما هو اسم حجر كشف أسرار اللغة المصرية القديمة؟",
-                            "options": ["حجر العقيق", "حجر رشيد", "حجر الزمرد", "حجر الملوك"],
-                            "correctAnswer": "حجر رشيد",
-                            "points": 10
-                        },
-                        {
-                            "id": "unit_0_q_3",
-                            "questionText": "ما اسم الكتاب الديني الذي دوّنه المصريون القدماء عن الموت والحياة الأخرى؟",
-                            "options": ["كتاب الحياة", "كتاب الآخرة", "كتاب الموتى", "كتاب الملوك"],
-                            "correctAnswer": "كتاب الموتى",
-                            "points": 10
-                        },
-                        {
-                            "id": "unit_0_q_4",
-                            "questionText": "ما هو نوع الكتابة التي استخدمها المصريون القدماء في المعابد والمقابر؟",
-                            "options": ["الكتابة العربية", "الكتابة الهيروغليفية", "الكتابة الفارسية", "الكتابة اللاتينية"],
-                            "correctAnswer": "الكتابة الهيروغليفية",
-                            "points": 10
-                        },
-                        {
-                            "id": "unit_0_q_5",
-                            "questionText": "في أي منطقة بُنيت الأهرامات الثلاثة الكبرى؟",
-                            "options": ["الأقصر", "أسوان", "الجيزة", "سقارة"],
-                            "correctAnswer": "الجيزة",
-                            "points": 10
-                        },
-                        {
-                            "id": "unit_0_q_6",
-                            "questionText": "ما اسم النهر الذي قامت عليه الحضارة المصرية القديمة؟",
-                            "options": ["نهر دجلة", "نهر الفرات", "نهر النيل", "نهر الأردن"],
-                            "correctAnswer": "نهر النيل",
-                            "points": 10
-                        },
-                        {
-                            "id": "unit_0_q_7",
-                            "questionText": "ما وظيفة الكهنة في مصر القديمة؟",
-                            "options": ["إدارة الجيش", "جمع الضرائب", "رعاية المعابد والشؤون الدينية", "كتابة القوانين"],
-                            "correctAnswer": "رعاية المعابد والشؤون الدينية",
-                            "points": 10
-                        },
-                        {
-                            "id": "unit_0_q_8",
-                            "questionText": "أي من الآلهة كان يُعبد كإله الشمس في مصر القديمة؟",
-                            "options": ["حتحور", "رع", "بتاح", "أنوبيس"],
-                            "correctAnswer": "رع",
-                            "points": 10
-                        },
-                        {
-                            "id": "unit_0_q_9",
-                            "questionText": "ما المادة التي كتب عليها المصريون القدماء معظم كتاباتهم؟",
-                            "options": ["الخزف", "النحاس", "الجلد", "البردي"],
-                            "correctAnswer": "البردي",
-                            "points": 10
-                        },
-                        {
-                            "id": "unit_0_q_10",
-                            "questionText": "ما اسم العاصمة التي أسسها الملك مينا بعد توحيد القطرين؟",
-							"imageUrl": "https://placehold.co/300x300/8d6e63/FFFFFF?text=صورة+أبو+الهول",
-                            "options": ["طيبة", "منف", "الجيزة", "هليوبوليس"],
-                            "correctAnswer": "منف",
-                            "points": 10
-                        },
-                        {
-                            "id": "unit_0_q_11",
-                            "questionText": "من هو المهندس الذي صمم أول هرم مدرج في سقارة؟",
-							"imageUrl": "https://placehold.co/300x300/8d6e63/FFFFFF?text=صورة+أبو+الهول",
-                            "options": ["إمحوتب", "رمسيس الثالث", "تحتمس الأول", "أخناتون"],
-                            "correctAnswer": "إمحوتب",
-                            "points": 10
-                        },
-                        {
-                            "id": "unit_0_q_12",
-                            "questionText": "ما هي اللغة التي كانت تُستخدم في المعاملات اليومية في مصر القديمة؟",
-                            "options": ["القبطية", "الهيروغليفية", "الديموطيقية", "اللاتينية"],
-                            "correctAnswer": "الديموطيقية",
-                            "points": 10
-                        },
-                        {
-                            "id": "unit_0_q_13",
-                            "questionText": "أي مهنة كان يُعتبر خطيرًا عدم أدائها في مصر القديمة لأنها ترتبط بالعقيدة؟",
-                            "options": ["الفلاحة", "التعليم", "التحنيط", "البناء"],
-                            "correctAnswer": "التحنيط",
-                            "points": 10
-                        },
-                        {
-                            "id": "unit_0_q_14",
-                            "questionText": "ما هو الحيوان المقدس الذي كان يرمز للحراسة والحكمة في الحضارة المصرية؟",
-                            "options": ["القط", "الصقر", "الأسد", "الكلب"],
-                            "correctAnswer": "القط",
-                            "points": 10
-                        },
-                        {
-                            "id": "unit_0_q_15",
-                            "questionText": "من أشهر ملوك الدولة الحديثة وبنى معبد أبو سمبل؟",
-							"imageUrl": "https://placehold.co/300x300/8d6e63/FFFFFF?text=صورة+أبو+الهول",
-                            "options": ["تحتمس الثالث", "رمسيس الثاني", "أمنحتب", "توت عنخ آمون"],
-                            "correctAnswer": "رمسيس الثاني",
-                            "points": 10
-                        },
-                        {
-                            "id": "unit_0_q_16",
-                            "questionText": "أين يقع تمثال أبو الهول الشهير؟",
-                            "options": ["أسوان", "الأقصر", "الجيزة", "الفيوم"],
-                            "correctAnswer": "الجيزة",
-                            "points": 10
-                        },
-                        {
-                            "id": "unit_0_q_17",
-                            "questionText": "ماذا يظهر في الصورة؟",
-                            "imageUrl": "https://placehold.co/300x300/8d6e63/FFFFFF?text=صورة+أبو+الهول",
-                            "options": ["تمثال أبو الهول", "هرم خوفو", "معبد الكرنك", "مسلة فرعونية"],
-                            "correctAnswer": "تمثال أبو الهول",
-                            "points": 15
-                        }
-                    ]
-                },
-                {
-                    "id": "unit_1",
-                    "unitName": "صدر الإسلام والخلافة الراشدة",
-                    "questions": [
-                        {
-                            "id": "unit_1_q_0",
-                            "questionText": "أين ولد النبي محمد صلى الله عليه وسلم؟",
-                            "options": ["المدينة المنورة", "مكة المكرمة", "الطائف", "القدس الشريف"],
-                            "correctAnswer": "مكة المكرمة",
-                            "points": 10
-                        }
-                    ]
-                },
-                {
-                    "id": "unit_2",
-                    "unitName": "جغرافيا الوطن العربي",
-                    "questions": [
-                        {
-                            "id": "unit_2_q_0",
-                            "questionText": "ما هو أكبر بلد عربي من حيث المساحة؟",
-                            "options": ["السعودية", "الجزائر", "السودان", "مصر"],
-                            "correctAnswer": "الجزائر",
-                            "points": 10
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": "math",
-            "name": "الرياضيات",
-            "icon": "fas fa-calculator",
-            "logo": "https://placehold.co/100x100/2ecc71/FFFFFF?text=ر",
-            "units": [
-                {
-                    "id": "math_u1",
-                    "unitName": "الوحدة الأولى: الجبر",
-                    "questions": []
-                },
-                {
-                    "id": "math_u2",
-                    "unitName": "الوحدة الثانية: الهندسة",
-                    "questions": []
-                },
-                {
-                    "id": "math_u3",
-                    "unitName": "الوحدة الثالثة: حساب المثلثات",
-                    "questions": []
-                },
-                {
-                    "id": "math_u4",
-                    "unitName": "الوحدة الرابعة: الإحصاء",
-                    "questions": []
-                },
-                {
-                    "id": "math_u5",
-                    "unitName": "الوحدة الخامسة: مراجعة",
-                    "questions": []
-                }
-            ]
-        },
-        {
-            "id": "science",
-            "name": "العلوم",
-            "icon": "fas fa-flask",
-            "logo": "https://placehold.co/100x100/f1c40f/FFFFFF?text=ع",
-            "units": [
-                {
-                    "id": "science_u1",
-                    "unitName": "الوحدة الأولى: الكيمياء",
-                    "questions": []
-                },
-                {
-                    "id": "science_u2",
-                    "unitName": "الوحدة الثانية: الفيزياء",
-                    "questions": []
-                },
-                {
-                    "id": "science_u3",
-                    "unitName": "الوحدة الثالثة: الأحياء",
-                    "questions": []
-                },
-                {
-                    "id": "science_u4",
-                    "unitName": "الوحدة الرابعة: الجيولوجيا",
-                    "questions": []
-                },
-                {
-                    "id": "science_u5",
-                    "unitName": "الوحدة الخامسة: مراجعة",
-                    "questions": []
-                }
-            ]
-        },
-        {
-            "id": "english",
-            "name": "اللغة الإنجليزية",
-            "icon": "fas fa-language",
-            "logo": "https://placehold.co/100x100/e74c3c/FFFFFF?text=E",
-            "units": [
-                {
-                    "id": "english_u1",
-                    "unitName": "Unit 1: Grammar",
-                    "questions": []
-                },
-                {
-                    "id": "english_u2",
-                    "unitName": "Unit 2: Vocabulary",
-                    "questions": []
-                },
-                {
-                    "id": "english_u3",
-                    "unitName": "Unit 3: Reading",
-                    "questions": []
-                },
-                {
-                    "id": "english_u4",
-                    "unitName": "Unit 4: Writing",
-                    "questions": []
-                },
-                {
-                    "id": "english_u5",
-                    "unitName": "Unit 5: Revision",
-                    "questions": []
-                }
-            ]
+          "questionText": "ما هو إعراب 'السماء' في جملة 'السماء صافية'؟",
+          "options": ["مبتدأ مرفوع", "خبر مرفوع", "فاعل مرفوع", "مفعول به"],
+          "correctAnswer": "مبتدأ مرفوع",
+          "points": 10
         }
-    ]
+      ]
+    },
+    {
+      "id": "unit_2",
+      "unitName": "الوحدة الثانية: جغرافيا",
+      "questions": [
+        {
+          "questionText": "أين يقع نهر النيل؟",
+          "options": ["آسيا", "أفريقيا", "أوروبا", "أمريكا"],
+          "correctAnswer": "أفريقيا",
+          "points": 10
+        },
+        {
+          "questionText": "ما هي عاصمة مصر؟",
+          "options": ["الإسكندرية", "الجيزة", "القاهرة", "الأقصر"],
+          "correctAnswer": "القاهرة",
+          "points": 10
+        }
+      ]
+    },
+    {
+      "id": "unit_3",
+      "unitName": "الوحدة الثالثة: حساب",
+      "questions": [
+        {
+          "questionText": "ما هو ناتج 5 * 5؟",
+          "options": ["10", "20", "25", "30"],
+          "correctAnswer": "25",
+          "points": 10
+        },
+        {
+          "questionText": "ما هو ناتج 12 + 8؟",
+          "options": ["18", "20", "22", "24"],
+          "correctAnswer": "20",
+          "points": 10
+        }
+      ]
+    },
+    {
+      "id": "unit_4",
+      "unitName": "الوحدة الرابعة: تاريخ",
+      "questions": [
+        {
+          "questionText": "في أي عام كانت ثورة 1919؟",
+          "options": ["1919", "1923", "1952", "1900"],
+          "correctAnswer": "1919",
+          "points": 15
+        }
+      ]
+    },
+    {
+      "id": "unit_5",
+      "unitName": "الوحدة الخامسة: علوم",
+      "questions": [
+        {
+          "questionText": "ما هو رمز الماء الكيميائي؟",
+          "options": ["CO2", "O2", "H2O", "NaCl"],
+          "correctAnswer": "H2O",
+          "points": 10
+        }
+      ]
+    },
+    {
+      "id": "unit_6",
+      "unitName": "الوحدة السادسة",
+      "questions": []
+    }
+  ]
 }
