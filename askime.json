@@ -7,6 +7,7 @@
       "questions": [
         {
           "questionText": "ما هو جمع كلمة 'كتاب'؟",
+"imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/OSIRIS_Mars_true_color.jpg/800px-OSIRIS_Mars_true_color.jpg",
           "options": ["كتب", "كتاتيب", "مكاتب", "مكتبات"],
           "correctAnswer": "كتب",
           "points": 10
