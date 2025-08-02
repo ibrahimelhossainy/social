@@ -7,7 +7,6 @@
       "questions": [
         {
           "questionText": "ما هو جمع كلمة 'كتاب'؟",
-"imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/OSIRIS_Mars_true_color.jpg/800px-OSIRIS_Mars_true_color.jpg",
           "options": ["كتب", "كتاتيب", "مكاتب", "مكتبات"],
           "correctAnswer": "كتب",
           "points": 10
@@ -29,6 +28,13 @@
           "questionText": "أين يقع نهر النيل؟",
           "options": ["آسيا", "أفريقيا", "أوروبا", "أمريكا"],
           "correctAnswer": "أفريقيا",
+          "points": 10
+        },
+        {
+          "questionText": "ما هي عاصمة مصر؟",
+          "imageUrl": "ime.png",
+          "options": ["الإسكندرية", "الجيزة", "القاهرة", "الأقصر"],
+          "correctAnswer": "القاهرة",
           "points": 10
         }
       ]
