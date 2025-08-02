@@ -3,7 +3,7 @@
     {
       "id": "unit_1",
       "unitName": "الوحدة الأولى: أساسيات اللغة",
-      "iconSvg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='currentColor' width='24' height='24'><path d='M18 2H6c-1.1 0-2 .9-2 2v16c0 1.1.9 2 2 2h12c1.1 0 2-.9 2-2V4c0-1.1-.9-2-2-2zM6 4h12v14H6V4zm2 2h8v2H8V6zm0 3h8v2H8V9z'/></svg>",
+      "iconSvg": "ss.svg",
       "questions": [
         {
           "questionText": "ما هو جمع كلمة 'كتاب'؟",
@@ -32,7 +32,7 @@
         },
         {
           "questionText": "ما هي عاصمة مصر؟",
-          "imageUrl": "ime.png",
+          "imageUrl": "imgs/q.png",
           "options": ["الإسكندرية", "الجيزة", "القاهرة", "الأقصر"],
           "correctAnswer": "القاهرة",
           "points": 10
