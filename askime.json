@@ -3,6 +3,7 @@
     {
       "id": "unit_1",
       "unitName": "الوحدة الأولى: أساسيات اللغة",
+      "iconSvg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='currentColor' width='24' height='24'><path d='M18 2H6c-1.1 0-2 .9-2 2v16c0 1.1.9 2 2 2h12c1.1 0 2-.9 2-2V4c0-1.1-.9-2-2-2zM6 4h12v14H6V4zm2 2h8v2H8V6zm0 3h8v2H8V9z'/></svg>",
       "questions": [
         {
           "questionText": "ما هو جمع كلمة 'كتاب'؟",
@@ -21,17 +22,12 @@
     {
       "id": "unit_2",
       "unitName": "الوحدة الثانية: جغرافيا",
+      "iconSvg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='currentColor' width='24' height='24'><path d='M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-1 17.93c-3.95-.49-7-3.85-7-7.93s3.05-7.44 7-7.93V19.93zm2-17.93v16.99c3.95-.49 7-3.85 7-7.93s-3.05-7.44-7-7.93z'/></svg>",
       "questions": [
         {
           "questionText": "أين يقع نهر النيل؟",
           "options": ["آسيا", "أفريقيا", "أوروبا", "أمريكا"],
           "correctAnswer": "أفريقيا",
-          "points": 10
-        },
-        {
-          "questionText": "ما هي عاصمة مصر؟",
-          "options": ["الإسكندرية", "الجيزة", "القاهرة", "الأقصر"],
-          "correctAnswer": "القاهرة",
           "points": 10
         }
       ]
@@ -39,17 +35,12 @@
     {
       "id": "unit_3",
       "unitName": "الوحدة الثالثة: حساب",
+      "iconSvg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='currentColor' width='24' height='24'><path d='M19 3H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zm-2 10h-4v4h-2v-4H7v-2h4V7h2v4h4v2z'/></svg>",
       "questions": [
         {
           "questionText": "ما هو ناتج 5 * 5؟",
           "options": ["10", "20", "25", "30"],
           "correctAnswer": "25",
-          "points": 10
-        },
-        {
-          "questionText": "ما هو ناتج 12 + 8؟",
-          "options": ["18", "20", "22", "24"],
-          "correctAnswer": "20",
           "points": 10
         }
       ]
@@ -57,6 +48,7 @@
     {
       "id": "unit_4",
       "unitName": "الوحدة الرابعة: تاريخ",
+      "iconSvg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='currentColor' width='24' height='24'><path d='M11.99 2C6.47 2 2 6.48 2 12s4.47 10 9.99 10C17.52 22 22 17.52 22 12S17.52 2 11.99 2zM12 20c-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8-3.58 8-8 8zm.5-13H11v6l5.25 3.15.75-1.23-4.5-2.67z'/></svg>",
       "questions": [
         {
           "questionText": "في أي عام كانت ثورة 1919؟",
@@ -69,6 +61,7 @@
     {
       "id": "unit_5",
       "unitName": "الوحدة الخامسة: علوم",
+      "iconSvg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='currentColor' width='24' height='24'><path d='M12 2c-5.52 0-10 4.48-10 10s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.41 0-8-3.59-8-8s3.59-8 8-8 8 3.59 8 8-3.59 8-8 8zm-1-13h2v6h-2zm0 8h2v2h-2z'/></svg>",
       "questions": [
         {
           "questionText": "ما هو رمز الماء الكيميائي؟",
@@ -77,11 +70,6 @@
           "points": 10
         }
       ]
-    },
-    {
-      "id": "unit_6",
-      "unitName": "الوحدة السادسة",
-      "questions": []
     }
   ]
 }
