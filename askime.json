@@ -6,36 +6,59 @@
       "icon": "icons/unit1.png",
       "questions": [
         {
-          "questionText": "ما اسم هذا الأثر الفرعوني؟",
-          "options": ["أبو الهول", "الهرم الأكبر", "معبد الكرنك", "مقبرة توت عنخ آمون"],
-          "correctAnswer": "أبو الهول",
+          "questionText": "ما اسم هذا الأثر؟",
+          "options": [
+            "الخيار 1",
+            "الخيار 2",
+            "الخيار 3",
+            "الخيار 4"
+          ],
+          "correctAnswer": "الخيار 1",
           "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Great_Sphinx_of_Giza_-_20080716a.jpg",
           "points": 10
         },
         {
-          "questionText": "في أي عصر تم بناء الأهرامات؟",
-          "options": ["العصر اليوناني", "العصر الحديث", "العصر الفرعوني", "العصر الإسلامي"],
-          "correctAnswer": "العصر الفرعوني",
+          "questionText": "متى نشأت هذه الحضارة؟",
+          "options": [
+            "1000 ق.م",
+            "500 ق.م",
+            "2000 ق.م",
+            "3000 ق.م"
+          ],
+          "correctAnswer": "3000 ق.م",
           "points": 10
         },
         {
-          "questionText": "ما اسم هذا التمثال؟",
-          "options": ["رمسيس الثاني", "توت عنخ آمون", "أمنحتب", "أخناتون"],
-          "correctAnswer": "توت عنخ آمون",
-          "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Tutankhamun_Egyptian_Museum.png",
+          "questionText": "من أشهر ملوكها؟",
+          "options": [
+            "الملك 1",
+            "الملك 2",
+            "الملك 3",
+            "الملك 4"
+          ],
+          "correctAnswer": "الملك 2",
           "points": 10
         },
         {
-          "questionText": "من هو أول من وحّد القطرين؟",
-          "options": ["أحمس", "مينا", "خوفو", "رمسيس"],
-          "correctAnswer": "مينا",
+          "questionText": "ما عاصمتها؟",
+          "options": [
+            "القاهرة",
+            "روما",
+            "أثينا",
+            "دمشق"
+          ],
+          "correctAnswer": "القاهرة",
           "points": 10
         },
         {
-          "questionText": "إلى ماذا يرمز النيل؟",
-          "options": ["الحياة", "الحرب", "الدم", "الشمس"],
-          "correctAnswer": "الحياة",
-          "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Nile_River_and_Delta_from_orbit.jpg",
+          "questionText": "ما أبرز إنجازاتها؟",
+          "options": [
+            "الهندسة",
+            "الطب",
+            "الفلك",
+            "جميع ما سبق"
+          ],
+          "correctAnswer": "جميع ما سبق",
           "points": 10
         }
       ]
@@ -46,72 +69,248 @@
       "icon": "icons/unit2.png",
       "questions": [
         {
-          "questionText": "من هو أبو الفلسفة الغربية؟",
-          "options": ["سقراط", "أفلاطون", "أرسطو", "فيثاغورس"],
-          "correctAnswer": "سقراط",
+          "questionText": "ما اسم هذا الأثر؟",
+          "options": [
+            "الخيار 1",
+            "الخيار 2",
+            "الخيار 3",
+            "الخيار 4"
+          ],
+          "correctAnswer": "الخيار 1",
+          "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Great_Sphinx_of_Giza_-_20080716a.jpg",
           "points": 10
         },
         {
-          "questionText": "ما اسم هذا المعلم الشهير؟",
-          "options": ["الأكروبوليس", "البارثينون", "المسرح الدائري", "برج أثينا"],
-          "correctAnswer": "البارثينون",
-          "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/23/Parthenon_from_west.jpg",
+          "questionText": "متى نشأت هذه الحضارة؟",
+          "options": [
+            "1000 ق.م",
+            "500 ق.م",
+            "2000 ق.م",
+            "3000 ق.م"
+          ],
+          "correctAnswer": "3000 ق.م",
           "points": 10
         },
         {
-          "questionText": "من هو تلميذ سقراط؟",
-          "options": ["أفلاطون", "أرسطو", "طاليس", "فيثاغورس"],
-          "correctAnswer": "أفلاطون",
+          "questionText": "من أشهر ملوكها؟",
+          "options": [
+            "الملك 1",
+            "الملك 2",
+            "الملك 3",
+            "الملك 4"
+          ],
+          "correctAnswer": "الملك 2",
           "points": 10
         },
         {
-          "questionText": "ما نظام الحكم في أثينا قديماً؟",
-          "options": ["الديكتاتورية", "الملكية", "الديمقراطية", "الثيوقراطية"],
-          "correctAnswer": "الديمقراطية",
+          "questionText": "ما عاصمتها؟",
+          "options": [
+            "القاهرة",
+            "روما",
+            "أثينا",
+            "دمشق"
+          ],
+          "correctAnswer": "القاهرة",
           "points": 10
         },
         {
-          "questionText": "أين تقع أثينا؟",
-          "options": ["اليونان", "إيطاليا", "مصر", "تركيا"],
-          "correctAnswer": "اليونان",
+          "questionText": "ما أبرز إنجازاتها؟",
+          "options": [
+            "الهندسة",
+            "الطب",
+            "الفلك",
+            "جميع ما سبق"
+          ],
+          "correctAnswer": "جميع ما سبق",
           "points": 10
         }
       ]
     },
     {
       "id": "unit3",
-      "unitName": "الوحدة الثالثة: الحضارة الإسلامية",
+      "unitName": "الوحدة الثالثة: الحضارة الرومانية",
       "icon": "icons/unit3.png",
       "questions": [
         {
-          "questionText": "ما اسم هذا المسجد؟",
-          "options": ["المسجد الحرام", "المسجد النبوي", "المسجد الأقصى", "قبة الصخرة"],
-          "correctAnswer": "قبة الصخرة",
-          "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/59/Dome_of_the_Rock_2020.jpg",
+          "questionText": "ما اسم هذا الأثر؟",
+          "options": [
+            "الخيار 1",
+            "الخيار 2",
+            "الخيار 3",
+            "الخيار 4"
+          ],
+          "correctAnswer": "الخيار 1",
+          "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Great_Sphinx_of_Giza_-_20080716a.jpg",
           "points": 10
         },
         {
-          "questionText": "في أي عام كانت الهجرة النبوية؟",
-          "options": ["622 م", "632 م", "610 م", "571 م"],
-          "correctAnswer": "622 م",
+          "questionText": "متى نشأت هذه الحضارة؟",
+          "options": [
+            "1000 ق.م",
+            "500 ق.م",
+            "2000 ق.م",
+            "3000 ق.م"
+          ],
+          "correctAnswer": "3000 ق.م",
           "points": 10
         },
         {
-          "questionText": "من هو أول الخلفاء الراشدين؟",
-          "options": ["عمر بن الخطاب", "عثمان بن عفان", "علي بن أبي طالب", "أبو بكر الصديق"],
-          "correctAnswer": "أبو بكر الصديق",
+          "questionText": "من أشهر ملوكها؟",
+          "options": [
+            "الملك 1",
+            "الملك 2",
+            "الملك 3",
+            "الملك 4"
+          ],
+          "correctAnswer": "الملك 2",
           "points": 10
         },
         {
-          "questionText": "ما اسم المعركة التي هزم فيها المسلمون الفُرس؟",
-          "options": ["اليرموك", "القادسية", "بدر", "حنين"],
-          "correctAnswer": "القادسية",
+          "questionText": "ما عاصمتها؟",
+          "options": [
+            "القاهرة",
+            "روما",
+            "أثينا",
+            "دمشق"
+          ],
+          "correctAnswer": "القاهرة",
           "points": 10
         },
         {
-          "questionText": "أين تقع مكة المكرمة؟",
-          "options": ["السعودية", "العراق", "مصر", "تركيا"],
-          "correctAnswer": "السعودية",
+          "questionText": "ما أبرز إنجازاتها؟",
+          "options": [
+            "الهندسة",
+            "الطب",
+            "الفلك",
+            "جميع ما سبق"
+          ],
+          "correctAnswer": "جميع ما سبق",
+          "points": 10
+        }
+      ]
+    },
+    {
+      "id": "unit4",
+      "unitName": "الوحدة الرابعة: الحضارة الإسلامية",
+      "icon": "icons/unit4.png",
+      "questions": [
+        {
+          "questionText": "ما اسم هذا الأثر؟",
+          "options": [
+            "الخيار 1",
+            "الخيار 2",
+            "الخيار 3",
+            "الخيار 4"
+          ],
+          "correctAnswer": "الخيار 1",
+          "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Great_Sphinx_of_Giza_-_20080716a.jpg",
+          "points": 10
+        },
+        {
+          "questionText": "متى نشأت هذه الحضارة؟",
+          "options": [
+            "1000 ق.م",
+            "500 ق.م",
+            "2000 ق.م",
+            "3000 ق.م"
+          ],
+          "correctAnswer": "3000 ق.م",
+          "points": 10
+        },
+        {
+          "questionText": "من أشهر ملوكها؟",
+          "options": [
+            "الملك 1",
+            "الملك 2",
+            "الملك 3",
+            "الملك 4"
+          ],
+          "correctAnswer": "الملك 2",
+          "points": 10
+        },
+        {
+          "questionText": "ما عاصمتها؟",
+          "options": [
+            "القاهرة",
+            "روما",
+            "أثينا",
+            "دمشق"
+          ],
+          "correctAnswer": "القاهرة",
+          "points": 10
+        },
+        {
+          "questionText": "ما أبرز إنجازاتها؟",
+          "options": [
+            "الهندسة",
+            "الطب",
+            "الفلك",
+            "جميع ما سبق"
+          ],
+          "correctAnswer": "جميع ما سبق",
+          "points": 10
+        }
+      ]
+    },
+    {
+      "id": "unit5",
+      "unitName": "الوحدة الخامسة: الحضارة الحديثة",
+      "icon": "icons/unit5.png",
+      "questions": [
+        {
+          "questionText": "ما اسم هذا الأثر؟",
+          "options": [
+            "الخيار 1",
+            "الخيار 2",
+            "الخيار 3",
+            "الخيار 4"
+          ],
+          "correctAnswer": "الخيار 1",
+          "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Great_Sphinx_of_Giza_-_20080716a.jpg",
+          "points": 10
+        },
+        {
+          "questionText": "متى نشأت هذه الحضارة؟",
+          "options": [
+            "1000 ق.م",
+            "500 ق.م",
+            "2000 ق.م",
+            "3000 ق.م"
+          ],
+          "correctAnswer": "3000 ق.م",
+          "points": 10
+        },
+        {
+          "questionText": "من أشهر ملوكها؟",
+          "options": [
+            "الملك 1",
+            "الملك 2",
+            "الملك 3",
+            "الملك 4"
+          ],
+          "correctAnswer": "الملك 2",
+          "points": 10
+        },
+        {
+          "questionText": "ما عاصمتها؟",
+          "options": [
+            "القاهرة",
+            "روما",
+            "أثينا",
+            "دمشق"
+          ],
+          "correctAnswer": "القاهرة",
+          "points": 10
+        },
+        {
+          "questionText": "ما أبرز إنجازاتها؟",
+          "options": [
+            "الهندسة",
+            "الطب",
+            "الفلك",
+            "جميع ما سبق"
+          ],
+          "correctAnswer": "جميع ما سبق",
           "points": 10
         }
       ]
