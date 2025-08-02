@@ -1,79 +1,117 @@
 {
   "units": [
     {
-      "id": "unit_1",
-      "unitName": "الوحدة الأولى: أساسيات اللغة",
-      "icon": "ss.svg"
+      "id": "unit1",
+      "unitName": "الوحدة الأولى: الحضارة المصرية",
+      "icon": "icons/unit1.png",
       "questions": [
         {
-          "questionText": "ما هو جمع كلمة 'كتاب'؟",
-          "options": ["كتب", "كتاتيب", "مكاتب", "مكتبات"],
-          "correctAnswer": "كتب",
+          "questionText": "ما اسم هذا الأثر الفرعوني؟",
+          "options": ["أبو الهول", "الهرم الأكبر", "معبد الكرنك", "مقبرة توت عنخ آمون"],
+          "correctAnswer": "أبو الهول",
+          "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Great_Sphinx_of_Giza_-_20080716a.jpg",
           "points": 10
         },
         {
-          "questionText": "ما هو إعراب 'السماء' في جملة 'السماء صافية'؟",
-          "options": ["مبتدأ مرفوع", "خبر مرفوع", "فاعل مرفوع", "مفعول به"],
-          "correctAnswer": "مبتدأ مرفوع",
-          "points": 10
-        }
-      ]
-    },
-    {
-      "id": "unit_2",
-      "unitName": "الوحدة الثانية: جغرافيا",
-      "iconSvg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='currentColor' width='24' height='24'><path d='M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-1 17.93c-3.95-.49-7-3.85-7-7.93s3.05-7.44 7-7.93V19.93zm2-17.93v16.99c3.95-.49 7-3.85 7-7.93s-3.05-7.44-7-7.93z'/></svg>",
-      "questions": [
-        {
-          "questionText": "أين يقع نهر النيل؟",
-          "options": ["آسيا", "أفريقيا", "أوروبا", "أمريكا"],
-          "correctAnswer": "أفريقيا",
+          "questionText": "في أي عصر تم بناء الأهرامات؟",
+          "options": ["العصر اليوناني", "العصر الحديث", "العصر الفرعوني", "العصر الإسلامي"],
+          "correctAnswer": "العصر الفرعوني",
           "points": 10
         },
         {
-          "questionText": "ما هي عاصمة مصر؟",
-          "imageUrl": "imgs/q.png",
-          "options": ["الإسكندرية", "الجيزة", "القاهرة", "الأقصر"],
-          "correctAnswer": "القاهرة",
+          "questionText": "ما اسم هذا التمثال؟",
+          "options": ["رمسيس الثاني", "توت عنخ آمون", "أمنحتب", "أخناتون"],
+          "correctAnswer": "توت عنخ آمون",
+          "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Tutankhamun_Egyptian_Museum.png",
+          "points": 10
+        },
+        {
+          "questionText": "من هو أول من وحّد القطرين؟",
+          "options": ["أحمس", "مينا", "خوفو", "رمسيس"],
+          "correctAnswer": "مينا",
+          "points": 10
+        },
+        {
+          "questionText": "إلى ماذا يرمز النيل؟",
+          "options": ["الحياة", "الحرب", "الدم", "الشمس"],
+          "correctAnswer": "الحياة",
+          "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Nile_River_and_Delta_from_orbit.jpg",
           "points": 10
         }
       ]
     },
     {
-      "id": "unit_3",
-      "unitName": "الوحدة الثالثة: حساب",
-      "iconSvg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='currentColor' width='24' height='24'><path d='M19 3H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zm-2 10h-4v4h-2v-4H7v-2h4V7h2v4h4v2z'/></svg>",
+      "id": "unit2",
+      "unitName": "الوحدة الثانية: الحضارة اليونانية",
+      "icon": "icons/unit2.png",
       "questions": [
         {
-          "questionText": "ما هو ناتج 5 * 5؟",
-          "options": ["10", "20", "25", "30"],
-          "correctAnswer": "25",
+          "questionText": "من هو أبو الفلسفة الغربية؟",
+          "options": ["سقراط", "أفلاطون", "أرسطو", "فيثاغورس"],
+          "correctAnswer": "سقراط",
+          "points": 10
+        },
+        {
+          "questionText": "ما اسم هذا المعلم الشهير؟",
+          "options": ["الأكروبوليس", "البارثينون", "المسرح الدائري", "برج أثينا"],
+          "correctAnswer": "البارثينون",
+          "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/23/Parthenon_from_west.jpg",
+          "points": 10
+        },
+        {
+          "questionText": "من هو تلميذ سقراط؟",
+          "options": ["أفلاطون", "أرسطو", "طاليس", "فيثاغورس"],
+          "correctAnswer": "أفلاطون",
+          "points": 10
+        },
+        {
+          "questionText": "ما نظام الحكم في أثينا قديماً؟",
+          "options": ["الديكتاتورية", "الملكية", "الديمقراطية", "الثيوقراطية"],
+          "correctAnswer": "الديمقراطية",
+          "points": 10
+        },
+        {
+          "questionText": "أين تقع أثينا؟",
+          "options": ["اليونان", "إيطاليا", "مصر", "تركيا"],
+          "correctAnswer": "اليونان",
           "points": 10
         }
       ]
     },
     {
-      "id": "unit_4",
-      "unitName": "الوحدة الرابعة: تاريخ",
-      "iconSvg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='currentColor' width='24' height='24'><path d='M11.99 2C6.47 2 2 6.48 2 12s4.47 10 9.99 10C17.52 22 22 17.52 22 12S17.52 2 11.99 2zM12 20c-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8-3.58 8-8 8zm.5-13H11v6l5.25 3.15.75-1.23-4.5-2.67z'/></svg>",
+      "id": "unit3",
+      "unitName": "الوحدة الثالثة: الحضارة الإسلامية",
+      "icon": "icons/unit3.png",
       "questions": [
         {
-          "questionText": "في أي عام كانت ثورة 1919؟",
-          "options": ["1919", "1923", "1952", "1900"],
-          "correctAnswer": "1919",
-          "points": 15
-        }
-      ]
-    },
-    {
-      "id": "unit_5",
-      "unitName": "الوحدة الخامسة: علوم",
-      "iconSvg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='currentColor' width='24' height='24'><path d='M12 2c-5.52 0-10 4.48-10 10s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.41 0-8-3.59-8-8s3.59-8 8-8 8 3.59 8 8-3.59 8-8 8zm-1-13h2v6h-2zm0 8h2v2h-2z'/></svg>",
-      "questions": [
+          "questionText": "ما اسم هذا المسجد؟",
+          "options": ["المسجد الحرام", "المسجد النبوي", "المسجد الأقصى", "قبة الصخرة"],
+          "correctAnswer": "قبة الصخرة",
+          "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/59/Dome_of_the_Rock_2020.jpg",
+          "points": 10
+        },
         {
-          "questionText": "ما هو رمز الماء الكيميائي؟",
-          "options": ["CO2", "O2", "H2O", "NaCl"],
-          "correctAnswer": "H2O",
+          "questionText": "في أي عام كانت الهجرة النبوية؟",
+          "options": ["622 م", "632 م", "610 م", "571 م"],
+          "correctAnswer": "622 م",
+          "points": 10
+        },
+        {
+          "questionText": "من هو أول الخلفاء الراشدين؟",
+          "options": ["عمر بن الخطاب", "عثمان بن عفان", "علي بن أبي طالب", "أبو بكر الصديق"],
+          "correctAnswer": "أبو بكر الصديق",
+          "points": 10
+        },
+        {
+          "questionText": "ما اسم المعركة التي هزم فيها المسلمون الفُرس؟",
+          "options": ["اليرموك", "القادسية", "بدر", "حنين"],
+          "correctAnswer": "القادسية",
+          "points": 10
+        },
+        {
+          "questionText": "أين تقع مكة المكرمة؟",
+          "options": ["السعودية", "العراق", "مصر", "تركيا"],
+          "correctAnswer": "السعودية",
           "points": 10
         }
       ]
