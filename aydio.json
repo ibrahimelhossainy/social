@@ -1,22 +1,16 @@
 {
-  "tracks": [
+  "audios": [
     {
-      "title": "شرح الدرس الأول: الحملة الفرنسية",
-      "artist": "أ. إبراهيم الحسيني",
+      "title": "المقطع الأول",
+      "artist": "الفنان الأول",
       "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3",
       "coverArt": "https://placehold.co/100x100/6a82fb/FFFFFF?text=درس+1"
     },
     {
-      "title": "مراجعة الوحدة الأولى بالكامل",
-      "artist": "أ. إبراهيم الحسيني",
-      "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3",
-      "coverArt": "https://placehold.co/100x100/fc5c7d/FFFFFF?text=مراجعة"
-    },
-    {
-      "title": "أهم تواريخ المنهج",
-      "artist": "أ. إبراهيم الحسيني",
-      "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3",
-      "coverArt": "https://placehold.co/100x100/8e2de2/FFFFFF?text=تواريخ"
+      "title": "المقطع الثاني",
+      "artist": "الفنان الثاني",
+      "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3",
+      "coverArt": "https://placehold.co/100x100/6a82fb/FFFFFF?text=درس+1"
     }
   ]
 }
