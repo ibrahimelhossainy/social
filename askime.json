@@ -2,7 +2,7 @@
   "units": [
     {
       "id": "unit1",
-      "unitName": "الوحدة الأولى: جغرافيا القارات (1)",
+      "unitName": "الوحدة الأولى: جغرافيا القارات)",
       "icon": "icons/unit1.png",
       "questions": [
         {
@@ -233,7 +233,7 @@
     },
     {
       "id": "unit2",
-      "unitName": "الوحدة الثانية: جغرافيا القارات (2)",
+      "unitName": "الوحدة الثانية: جغرافيا القارات",
       "icon": "icons/unit2.png",
       "questions": [
         {
