@@ -1,7 +1,5 @@
 {
-  "sounds": {
-    "startup": "imesounds/startup.ogg",
-    "buttonClick": "imesounds/toast.ogg",
-    "welcomeMusic": "https://j.top4top.io/m_3508hx2t91.mp3"
-  }
+    "title": "عنوان المقطع الصوتي",
+    "speaker": "اسم المتحدث",
+    "audioUrl": "https://j.top4top.io/m_3508hx2t91.mp3"
 }
