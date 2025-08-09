@@ -3,7 +3,5 @@
     "startup": "imesounds/startup.ogg",
     "buttonClick": "imesounds/toast.ogg",
     "welcomeMusic": "https://j.top4top.io/m_3508hx2t91.mp3"
-    // يمكنك استبدال الرابط أعلاه برابط مباشر لملف صوتي من GitHub الخاص بك
-    // تأكد من أن الرابط هو raw content URL وليس رابط الصفحة
   }
 }
