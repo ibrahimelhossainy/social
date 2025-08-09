@@ -1,18 +1,19 @@
 {
-    "title": "عنوان المقطع الصوتي",
-    "speaker": "اسم المتحدث",
-    "audioUrl": "https://j.top4top.io/m_3508hx2t91.mp3"
-}
-{
     "tracks": [
         {
-            "title": "المقطع الأول",
+            "title": "الدرس الأول - مقدمة",
             "speaker": "الأستاذ إبراهيم الحسيني",
             "audioUrl": "https://j.top4top.io/m_3508hx2t91.mp3",
             "cover": "https://k.top4top.io/p_3508kzbra1.png"
         },
         {
-            "title": "المقطع الثاني",
+            "title": "الدرس الثاني - التوسع في الموضوع",
+            "speaker": "الأستاذ إبراهيم الحسيني",
+            "audioUrl": "https://j.top4top.io/m_3508hx2t91.mp3",
+            "cover": "https://k.top4top.io/p_3508kzbra1.png"
+        },
+        {
+            "title": "الدرس الثالث - الخاتمة",
             "speaker": "الأستاذ إبراهيم الحسيني",
             "audioUrl": "https://j.top4top.io/m_3508hx2t91.mp3",
             "cover": "https://k.top4top.io/p_3508kzbra1.png"
