@@ -1,16 +1,8 @@
 {
-  "audios": [
-    {
-      "title": "المقطع الأول",
-      "artist": "الفنان الأول",
-      "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3",
-      "coverArt": "https://placehold.co/100x100/6a82fb/FFFFFF?text=درس+1"
-    },
-    {
-      "title": "المقطع الثاني",
-      "artist": "الفنان الثاني",
-      "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3",
-      "coverArt": "https://placehold.co/100x100/6a82fb/FFFFFF?text=درس+1"
-    }
-  ]
+  "sounds": {
+    "startup": "imesounds/startup.ogg",
+    "buttonClick": "imesounds/toast.ogg"
+    // يمكنك إضافة المزيد من الأصوات هنا
+    // "anotherSound": "imesounds/another_sound.mp3"
+  }
 }
