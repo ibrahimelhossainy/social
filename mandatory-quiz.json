@@ -2,7 +2,7 @@
   "quizId": "term1-quiz-2025",
   "quizTitle": "اختبار تحديد المستوى",
   "durationMinutes": 30,
-  "questionCount": 20,
+  "questionCount": 3,
   "instructions": [
     "هذا الاختبار إلزامي ويظهر مرة واحدة فقط.",
     "مدة الاختبار 30 دقيقة.",
@@ -27,3 +27,4 @@
     }
   ]
 }
+
