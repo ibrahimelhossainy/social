@@ -1,6 +1,6 @@
 {
   "quizId": "term1-quiz-2025",
-  "isActive": true,
+  "isActive": false,
   "quizTitle": "اختبار شهر 12",
   "durationMinutes": 30,
   "questionCount": 3,
@@ -28,4 +28,5 @@
     }
   ]
 }
+
 
