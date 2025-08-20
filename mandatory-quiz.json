@@ -1,8 +1,8 @@
 {
   "quizId": "term1-quiz-2025-final",
   "isActive": true,
-  "startDate": "2025-08-20T9:27:00",
-  "endDate": "2025-08-20T9:29:00",
+  "startDate": "2025-08-22 011:00 aM",
+  "endDate": "2025-08-23 11:10 aM",
   "quizTitle": "اختبار تحديد المستوى النهائي",
   "durationMinutes": 30,
   "questionCount": 3,
@@ -32,4 +32,3 @@
     }
   ]
 }
-
