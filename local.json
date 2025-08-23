@@ -1,0 +1,46 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "مطاعم",
+      "icon": "https://i.imgur.com/L4a5v5w.png"
+    },
+    {
+      "id": 2,
+      "name": "صحة",
+      "icon": "https://i.imgur.com/O8tJ3dF.png"
+    }
+  ],
+  "places": [
+    {
+      "id": 101,
+      "category_id": 1,
+      "name": "مطعم مشاوي السلطان",
+      "description": "أفضل المشويات الطازجة في المدينة مع جلسات عائلية مميزة.",
+      "images": ["https://i.imgur.com/example1.jpg"],
+      "phone": "+201234567890",
+      "address": "123 شارع النصر، شبين القناطر",
+      "latitude": 30.31,
+      "longitude": 31.31,
+      "working_hours": {
+        "السبت": "12:00 م - 12:00 ص",
+        "الأحد": "12:00 م - 12:00 ص",
+        "الإثنين": "مغلق"
+      },
+      "tags": ["مشويات", "عائلات"]
+    }
+  ],
+  "faq": [
+    {
+      "question": "كيف يمكنني اقتراح مكان جديد؟",
+      "answer": "حاليًا، تتم إضافة الأماكن من قبل فريق التطبيق. يمكنك التواصل معنا عبر البريد الإلكتروني لاقتراح مكان."
+    }
+  ],
+  "about": {
+    "appName": "دليلك",
+    "version": "1.0.0",
+    "logo": "https://i.imgur.com/your-logo.png",
+    "description": "دليلك هو تطبيقك الأول لاستكشاف أفضل الأماكن والخدمات في شبين القناطر.",
+    "contactEmail": "contact@daleelak.app"
+  }
+}
