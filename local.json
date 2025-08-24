@@ -1,139 +1,72 @@
 {
   "categories": [
-    {
-      "id": 1,
-      "name": "مطاعم",
-      "icon": "https://i.imgur.com/L4a5v5w.png"
-    },
-    {
-      "id": 2,
-      "name": "مقاهي",
-      "icon": "https://i.imgur.com/8J6bU07.png"
-    },
-    {
-      "id": 3,
-      "name": "صحة",
-      "icon": "https://i.imgur.com/O8tJ3dF.png"
-    },
-    {
-      "id": 4,
-      "name": "تسوق",
-      "icon": "https://i.imgur.com/sC0fJ9K.png"
-    },
-    {
-      "id": 5,
-      "name": "خدمات",
-      "icon": "https://i.imgur.com/bWqGk4x.png"
-    }
+    { "id": 1, "name": "مطاعم", "icon": "https://i.imgur.com/L4a5v5w.png" },
+    { "id": 2, "name": "تسوق", "icon": "https://i.imgur.com/sC0fJ9K.png" },
+    { "id": 3, "name": "صحة", "icon": "https://i.imgur.com/O8tJ3dF.png" },
+    { "id": 4, "name": "خدمات", "icon": "https://i.imgur.com/bWqGk4x.png" },
+    { "id": 5, "name": "ترفيه", "icon": "https://i.imgur.com/T5b7xG3.png" },
+    { "id": 6, "name": "مقاهي", "icon": "https://i.imgur.com/8J6bU07.png" },
+    { "id": 7, "name": "تعليم", "icon": "https://i.imgur.com/O4f3g3p.png" },
+    { "id": 8, "name": "مواصلات", "icon": "https://i.imgur.com/Y1q2k8a.png" },
+    { "id": 9, "name": "معمار", "icon": "https://i.imgur.com/mJ9Z1aC.png" }
   ],
   "places": [
-    {
-      "id": 101, "category_id": 1, "name": "مطعم مشاوي السلطان", "description": "أفضل المشويات الطازجة في المدينة مع جلسات عائلية مميزة.", "images": ["https://placehold.co/600x400/a3e635/ffffff?text=Mashawy"], "phone": "01234567890", "address": "شارع النصر، شبين القناطر", "working_hours": {"السبت - الجمعة": "12:00 م - 1:00 ص"}, "tags": ["مشويات", "عائلات"]
-    },
-    {
-      "id": 102, "category_id": 1, "name": "بيتزا كينج", "description": "استمتع بأشهى أنواع البيتزا الإيطالية والمخبوزات الطازجة.", "images": ["https://placehold.co/600x400/fb923c/ffffff?text=Pizza"], "phone": "01098765432", "address": "ميدان المحطة، بجوار البنك", "working_hours": {"السبت - الجمعة": "11:00 ص - 2:00 ص"}, "tags": ["بيتزا", "إيطالي"]
-    },
-    {
-      "id": 103, "category_id": 1, "name": "أسماك البحار", "description": "مأكولات بحرية طازجة يومياً، من البحر إلى مائدتك مباشرة.", "images": ["https://placehold.co/600x400/38bdf8/ffffff?text=Seafood"], "phone": "01122334455", "address": "شارع الجمهورية، أمام المستشفى", "working_hours": {"السبت - الجمعة": "1:00 م - 12:00 ص"}, "tags": ["أسماك", "مأكولات بحرية"]
-    },
-    {
-      "id": 104, "category_id": 1, "name": "كشري أبو طارق", "description": "طبق الكشري المصري الأصيل بأفضل جودة وألذ طعم.", "images": ["https://placehold.co/600x400/facc15/ffffff?text=Koshary"], "phone": "01556677889", "address": "شارع ٢٣ يوليو", "working_hours": {"السبت - الجمعة": "10:00 ص - 11:00 م"}, "tags": ["كشري", "شعبي"]
-    },
-    {
-      "id": 201, "category_id": 2, "name": "كافيه روقان", "description": "مكان هادئ ومريح للاستمتاع بقهوتك ومشروباتك المفضلة.", "images": ["https://placehold.co/600x400/c084fc/ffffff?text=Cafe"], "phone": "01211223344", "address": "شارع بورسعيد", "working_hours": {"السبت - الجمعة": "9:00 ص - 1:00 ص"}, "tags": ["قهوة", "هدوء"]
-    },
-    {
-      "id": 202, "category_id": 2, "name": "سيتي درينك", "description": "أفضل العصائر الطازجة والكوكتيلات المنعشة في المدينة.", "images": ["https://placehold.co/600x400/fb7185/ffffff?text=Juice"], "phone": "01001002003", "address": "أمام مدرسة التجارة", "working_hours": {"السبت - الجمعة": "10:00 ص - 12:00 ص"}, "tags": ["عصائر", "طازج"]
-    },
-    {
-      "id": 203, "category_id": 2, "name": "قهوة ومعجنات", "description": "قهوة مختصة مع تشكيلة واسعة من المعجنات والحلويات.", "images": ["https://placehold.co/600x400/f97316/ffffff?text=Bakery"], "phone": "01155566677", "address": "شارع الحرية", "working_hours": {"السبت - الجمعة": "8:00 ص - 10:00 م"}, "tags": ["قهوة", "حلويات"]
-    },
-    {
-      "id": 204, "category_id": 2, "name": "المقهى البلدي", "description": "جلسة عربية أصيلة مع المشروبات التقليدية والشيشة.", "images": ["https://placehold.co/600x400/84cc16/ffffff?text=Ahwa"], "phone": "01288899900", "address": "خلف موقف بنها", "working_hours": {"السبت - الجمعة": "24 ساعة"}, "tags": ["شعبي", "شيشة"]
-    },
-    {
-      "id": 301, "category_id": 3, "name": "صيدلية د.أحمد المصري", "description": "صيدلية متكاملة توفر جميع الأدوية والمستلزمات الطبية.", "images": ["https://placehold.co/600x400/22d3ee/ffffff?text=Pharmacy"], "phone": "0132712345", "address": "ميدان الساعة", "working_hours": {"السبت - الجمعة": "24 ساعة"}, "tags": ["صيدلية", "دواء"]
-    },
-    {
-      "id": 302, "category_id": 3, "name": "عيادة د.سارة لطب الأطفال", "description": "رعاية صحية متكاملة للأطفال وحديثي الولادة.", "images": ["https://placehold.co/600x400/a78bfa/ffffff?text=Clinic"], "phone": "01012345678", "address": "برج الأطباء، شارع المستشفى", "working_hours": {"السبت - الخميس": "5:00 م - 9:00 م"}, "tags": ["أطفال", "عيادة"]
-    },
-    {
-      "id": 303, "category_id": 3, "name": "معمل تحاليل البرج", "description": "أدق التحاليل الطبية باستخدام أحدث الأجهزة.", "images": ["https://placehold.co/600x400/4ade80/ffffff?text=Lab"], "phone": "01198765432", "address": "أمام السنترال", "working_hours": {"السبت - الجمعة": "9:00 ص - 11:00 م"}, "tags": ["تحاليل", "معمل"]
-    },
-    {
-      "id": 304, "category_id": 3, "name": "مركز النور للبصريات", "description": "نظارات طبية وشمسية وعدسات لاصقة من أفضل الماركات.", "images": ["https://placehold.co/600x400/60a5fa/ffffff?text=Optics"], "phone": "01276543210", "address": "شارع الجيش", "working_hours": {"السبت - الجمعة": "11:00 ص - 10:00 م"}, "tags": ["نظارات", "بصريات"]
-    },
-    {
-      "id": 401, "category_id": 4, "name": "سوبر ماركت أولاد رجب", "description": "كل ما يحتاجه منزلك من منتجات غذائية وغير غذائية.", "images": ["https://placehold.co/600x400/ef4444/ffffff?text=Supermarket"], "phone": "01065554443", "address": "شارع المحكمة", "working_hours": {"السبت - الجمعة": "8:00 ص - 1:00 ص"}, "tags": ["سوبر ماركت", "بقالة"]
-    },
-    {
-      "id": 402, "category_id": 4, "name": "محلات ملابس تاون تيم", "description": "أحدث صيحات الموضة للرجال والنساء والأطفال.", "images": ["https://placehold.co/600x400/f472b6/ffffff?text=Fashion"], "phone": "01123232323", "address": "شارع ٢٣ يوليو", "working_hours": {"السبت - الجمعة": "12:00 م - 11:00 م"}, "tags": ["ملابس", "موضة"]
-    },
-    {
-      "id": 403, "category_id": 4, "name": "مكتبة مودرن", "description": "أدوات مدرسية وكتب خارجية وهدايا.", "images": ["https://placehold.co/600x400/3b82f6/ffffff?text=Bookshop"], "phone": "01234343434", "address": "بجوار مدرسة الإعدادية بنات", "working_hours": {"السبت - الجمعة": "9:00 ص - 10:00 م"}, "tags": ["مكتبة", "أدوات مدرسية"]
-    },
-    {
-      "id": 404, "category_id": 4, "name": "معرض موبايلات سمارت فون", "description": "بيع وشراء واستبدال الهواتف المحمولة وجميع اكسسواراتها.", "images": ["https://placehold.co/600x400/8b5cf6/ffffff?text=Mobile"], "phone": "01010101010", "address": "ميدان المحطة", "working_hours": {"السبت - الجمعة": "1:00 م - 12:00 ص"}, "tags": ["هواتف", "صيانة"]
-    },
-    {
-      "id": 501, "category_id": 5, "name": "دراي كلين النجوم", "description": "تنظيف وكي الملابس والسجاد والبطاطين بأعلى جودة.", "images": ["https://placehold.co/600x400/78716c/ffffff?text=Dry+Clean"], "phone": "01112223334", "address": "شارع المركز", "working_hours": {"السبت - الخميس": "10:00 ص - 10:00 م"}, "tags": ["تنظيف", "دراي كلين"]
-    },
-    {
-      "id": 502, "category_id": 5, "name": "جيم فيتنس لايف", "description": "صالة ألعاب رياضية مجهزة بأحدث الأجهزة ومدربين محترفين.", "images": ["https://placehold.co/600x400/14b8a6/ffffff?text=Gym"], "phone": "01200011122", "address": "أعلى سوبر ماركت أولاد رجب", "working_hours": {"السبت - الجمعة": "10:00 ص - 12:00 ص"}, "tags": ["جيم", "رياضة"]
-    },
-    {
-      "id": 503, "category_id": 5, "name": "البنك الأهلي المصري", "description": "فرع شبين القناطر لجميع الخدمات المصرفية.", "images": ["https://placehold.co/600x400/16a34a/ffffff?text=Bank"], "phone": "19623", "address": "ميدان المحطة", "working_hours": {"الأحد - الخميس": "8:30 ص - 3:00 م"}, "tags": ["بنك", "أموال"]
-    },
-    {
-      "id": 504, "category_id": 5, "name": "حلاق بروفيشنال", "description": "أحدث قصات الشعر والعناية بالبشرة للرجال.", "images": ["https://placehold.co/600x400/d97706/ffffff?text=Barber"], "phone": "01099988877", "address": "شارع الجلاء", "working_hours": {"السبت - الجمعة": "1:00 م - 12:00 ص"}, "tags": ["حلاق", "رجال"]
-    }
+    { "id": 101, "category_id": 1, "name": "مشويات الحاتي", "description": "أشهى المشويات على الفحم.", "images": ["https://placehold.co/600x400/ef4444/ffffff?text=Grill"], "phone": "01234567890", "address": "شارع النصر", "latitude": 30.31, "longitude": 31.31, "working_hours": {"يومياً": "12:00 م - 2:00 ص"}, "tags": ["مشويات", "كباب"], "added_date": "2025-08-25T10:00:00Z" },
+    { "id": 102, "category_id": 1, "name": "بيتزا روما", "description": "البيتزا الإيطالية على أصولها.", "images": ["https://placehold.co/600x400/f97316/ffffff?text=Pizza"], "phone": "01098765432", "address": "ميدان المحطة", "latitude": 30.31, "longitude": 31.31, "working_hours": {"يومياً": "11:00 ص - 1:00 ص"}, "tags": ["بيتزا", "إيطالي"], "added_date": "2025-08-25T10:00:00Z" },
+    { "id": 103, "category_id": 1, "name": "أسماك الصياد", "description": "مأكولات بحرية طازجة يومياً.", "images": ["https://placehold.co/600x400/3b82f6/ffffff?text=سيفود"], "phone": "01122334455", "address": "شارع الجمهورية", "latitude": 30.31, "longitude": 31.31, "working_hours": {"يومياً": "1:00 م - 12:00 ص"}, "tags": ["أسماك", "بحري"], "added_date": "2025-08-25T10:00:00Z" },
+    { "id": 104, "category_id": 1, "name": "كشري التحرير", "description": "طعم الكشري المصري الأصيل.", "images": ["https://placehold.co/600x400/eab308/ffffff?text=Koshary"], "phone": "01556677889", "address": "شارع ٢٣ يوليو", "latitude": 30.31, "longitude": 31.31, "working_hours": {"يومياً": "10:00 ص - 11:00 م"}, "tags": ["كشري", "شعبي"], "added_date": "2025-08-25T10:00:00Z" },
+    { "id": 201, "category_id": 2, "name": "سيتي مول", "description": "ملابس عصرية لجميع أفراد الأسرة.", "images": ["https://placehold.co/600x400/ec4899/ffffff?text=Fashion"], "phone": "01211223344", "address": "شارع بورسعيد", "latitude": 30.31, "longitude": 31.31, "working_hours": {"يومياً": "12:00 م - 11:00 م"}, "tags": ["ملابس", "موضة"], "added_date": "2025-08-25T10:00:00Z" },
+    { "id": 202, "category_id": 2, "name": "هايبر المدينة", "description": "كل احتياجات المنزل في مكان واحد.", "images": ["https://placehold.co/600x400/84cc16/ffffff?text=Hyper"], "phone": "01001002003", "address": "الطريق الدائري", "latitude": 30.31, "longitude": 31.31, "working_hours": {"يومياً": "9:00 ص - 1:00 ص"}, "tags": ["سوبر ماركت", "بقالة"], "added_date": "2025-08-25T10:00:00Z" },
+    { "id": 203, "category_id": 2, "name": "مكتبة الأندلس", "description": "أدوات مدرسية وكتب وهدايا.", "images": ["https://placehold.co/600x400/6366f1/ffffff?text=Books"], "phone": "01155566677", "address": "أمام مدرسة الثانوية", "latitude": 30.31, "longitude": 31.31, "working_hours": {"يومياً": "9:00 ص - 10:00 م"}, "tags": ["كتب", "أدوات مدرسية"], "added_date": "2025-08-25T10:00:00Z" },
+    { "id": 204, "category_id": 2, "name": "معرض موبايلي", "description": "أحدث الهواتف واكسسواراتها.", "images": ["https://placehold.co/600x400/8b5cf6/ffffff?text=Mobile"], "phone": "01010101010", "address": "ميدان المحطة", "latitude": 30.31, "longitude": 31.31, "working_hours": {"يومياً": "1:00 م - 12:00 ص"}, "tags": ["هواتف", "صيانة"], "added_date": "2025-08-25T10:00:00Z" },
+    { "id": 301, "category_id": 3, "name": "صيدلية الشفاء", "description": "خدمة 24 ساعة لجميع الأدوية.", "images": ["https://placehold.co/600x400/22d3ee/ffffff?text=Pharmacy"], "phone": "0132712345", "address": "ميدان الساعة", "latitude": 30.31, "longitude": 31.31, "working_hours": {"يومياً": "24 ساعة"}, "tags": ["صيدلية", "دواء"], "added_date": "2025-08-25T10:00:00Z" },
+    { "id": 302, "category_id": 3, "name": "عيادة د.علي لطب الأسنان", "description": "رعاية متكاملة لصحة الفم والأسنان.", "images": ["https://placehold.co/600x400/a78bfa/ffffff?text=Dental"], "phone": "01012345678", "address": "برج الأطباء", "latitude": 30.31, "longitude": 31.31, "working_hours": {"السبت - الخميس": "6:00 م - 10:00 م"}, "tags": ["أسنان", "عيادة"], "added_date": "2025-08-25T10:00:00Z" },
+    { "id": 303, "category_id": 3, "name": "معمل ألفا", "description": "أدق التحاليل الطبية وسرعة في النتائج.", "images": ["https://placehold.co/600x400/4ade80/ffffff?text=Lab"], "phone": "01198765432", "address": "أمام السنترال", "latitude": 30.31, "longitude": 31.31, "working_hours": {"يومياً": "9:00 ص - 11:00 م"}, "tags": ["تحاليل", "معمل"], "added_date": "2025-08-25T10:00:00Z" },
+    { "id": 304, "category_id": 3, "name": "صالون برنسيس", "description": "أحدث قصات الشعر للسيدات.", "images": ["https://placehold.co/600x400/f472b6/ffffff?text=Salon"], "phone": "01276543210", "address": "شارع الجيش", "latitude": 30.31, "longitude": 31.31, "working_hours": {"يومياً": "11:00 ص - 9:00 م"}, "tags": ["تجميل", "سيدات"], "added_date": "2025-08-25T10:00:00Z" },
+    { "id": 401, "category_id": 4, "name": "دراي كلين الأمانة", "description": "تنظيف وكي الملابس بأعلى جودة.", "images": ["https://placehold.co/600x400/78716c/ffffff?text=Dry+Clean"], "phone": "01112223334", "address": "شارع المركز", "latitude": 30.31, "longitude": 31.31, "working_hours": {"السبت - الخميس": "10:00 ص - 10:00 م"}, "tags": ["تنظيف", "ملابس"], "added_date": "2025-08-25T10:00:00Z" },
+    { "id": 402, "category_id": 4, "name": "البنك الأهلي", "description": "جميع الخدمات المصرفية.", "images": ["https://placehold.co/600x400/16a34a/ffffff?text=Bank"], "phone": "19623", "address": "ميدان المحطة", "latitude": 30.31, "longitude": 31.31, "working_hours": {"الأحد - الخميس": "8:30 ص - 3:00 م"}, "tags": ["بنك", "أموال"], "added_date": "2025-08-25T10:00:00Z" },
+    { "id": 403, "category_id": 4, "name": "مكتب بريد شبين", "description": "الخدمات البريدية الحكومية.", "images": ["https://placehold.co/600x400/fbbf24/ffffff?text=Post"], "phone": "0132710001", "address": "بجوار المحكمة", "latitude": 30.31, "longitude": 31.31, "working_hours": {"السبت - الخميس": "8:00 ص - 3:00 م"}, "tags": ["بريد", "حكومة"], "added_date": "2025-08-25T10:00:00Z" },
+    { "id": 404, "category_id": 4, "name": "ورشة الحاج سيد", "description": "صيانة جميع أنواع السيارات.", "images": ["https://placehold.co/600x400/94a3b8/ffffff?text=Mechanic"], "phone": "01287654321", "address": "المنطقة الصناعية", "latitude": 30.31, "longitude": 31.31, "working_hours": {"يومياً": "10:00 ص - 8:00 م"}, "tags": ["سيارات", "صيانة"], "added_date": "2025-08-25T10:00:00Z" },
+    { "id": 501, "category_id": 5, "name": "نادي المدينة الرياضي", "description": "ملاعب وحمامات سباحة وأنشطة اجتماعية.", "images": ["https://placehold.co/600x400/22c55e/ffffff?text=Club"], "phone": "01065432198", "address": "طريق كفر شبين", "latitude": 30.31, "longitude": 31.31, "working_hours": {"يومياً": "8:00 ص - 11:00 م"}, "tags": ["نادي", "رياضة"], "added_date": "2025-08-25T10:00:00Z" },
+    { "id": 502, "category_id": 5, "name": "قاعة أفراح القصر", "description": "لإقامة حفلات الزفاف والمناسبات.", "images": ["https://placehold.co/600x400/f43f5e/ffffff?text=Hall"], "phone": "01111222333", "address": "مدخل المدينة", "latitude": 30.31, "longitude": 31.31, "working_hours": {"للحجز والاستعلام": "12:00 م - 10:00 م"}, "tags": ["أفراح", "مناسبات"], "added_date": "2025-08-25T10:00:00Z" },
+    { "id": 503, "category_id": 5, "name": "جيم فيتنس", "description": "صالة ألعاب رياضية مجهزة بالكامل.", "images": ["https://placehold.co/600x400/14b8a6/ffffff?text=Gym"], "phone": "01200011122", "address": "أعلى سوبر ماركت المدينة", "latitude": 30.31, "longitude": 31.31, "working_hours": {"يومياً": "10:00 ص - 12:00 ص"}, "tags": ["جيم", "رياضة"], "added_date": "2025-08-25T10:00:00Z" },
+    { "id": 504, "category_id": 5, "name": "حديقة الطفل", "description": "مساحات خضراء وألعاب للأطفال.", "images": ["https://placehold.co/600x400/a3e635/ffffff?text=Park"], "phone": "N/A", "address": "بجوار مجلس المدينة", "latitude": 30.31, "longitude": 31.31, "working_hours": {"يومياً": "9:00 ص - 9:00 م"}, "tags": ["حديقة", "أطفال"], "added_date": "2025-08-25T10:00:00Z" },
+    { "id": 601, "category_id": 6, "name": "كافيه روقان", "description": "مكان هادئ ومريح للاستمتاع بقهوتك.", "images": ["https://placehold.co/600x400/c084fc/ffffff?text=Cafe"], "phone": "01211223344", "address": "شارع بورسعيد", "latitude": 30.31, "longitude": 31.31, "working_hours": {"يومياً": "9:00 ص - 1:00 ص"}, "tags": ["قهوة", "هدوء"], "added_date": "2025-08-25T10:00:00Z" },
+    { "id": 602, "category_id": 6, "name": "سيتي درينك", "description": "أفضل العصائر الطازجة والكوكتيلات.", "images": ["https://placehold.co/600x400/fb7185/ffffff?text=Juice"], "phone": "01001002003", "address": "أمام مدرسة التجارة", "latitude": 30.31, "longitude": 31.31, "working_hours": {"يومياً": "10:00 ص - 12:00 ص"}, "tags": ["عصائر", "طازج"], "added_date": "2025-08-25T10:00:00Z" },
+    { "id": 603, "category_id": 6, "name": "قهوة ومعجنات", "description": "قهوة مختصة مع تشكيلة واسعة من المعجنات.", "images": ["https://placehold.co/600x400/f97316/ffffff?text=Bakery"], "phone": "01155566677", "address": "شارع الحرية", "latitude": 30.31, "longitude": 31.31, "working_hours": {"يومياً": "8:00 ص - 10:00 م"}, "tags": ["قهوة", "حلويات"], "added_date": "2025-08-25T10:00:00Z" },
+    { "id": 604, "category_id": 6, "name": "المقهى البلدي", "description": "جلسة عربية أصيلة مع المشروبات التقليدية.", "images": ["https://placehold.co/600x400/84cc16/ffffff?text=Ahwa"], "phone": "01288899900", "address": "خلف موقف بنها", "latitude": 30.31, "longitude": 31.31, "working_hours": {"يومياً": "24 ساعة"}, "tags": ["شعبي", "شيشة"], "added_date": "2025-08-25T10:00:00Z" },
+    { "id": 701, "category_id": 7, "name": "حضانة المستقبل", "description": "رعاية وتعليم الأطفال.", "images": ["https://placehold.co/600x400/2dd4bf/ffffff?text=Nursery"], "phone": "01231231234", "address": "شارع المدارس", "latitude": 30.31, "longitude": 31.31, "working_hours": {"الأحد - الخميس": "7:00 ص - 3:00 م"}, "tags": ["حضانة", "أطفال"], "added_date": "2025-08-25T10:00:00Z" },
+    { "id": 702, "category_id": 7, "name": "سنتر الأوائل", "description": "دروس تقوية لجميع المراحل.", "images": ["https://placehold.co/600x400/60a5fa/ffffff?text=Center"], "phone": "01010203040", "address": "بجوار السنترال", "latitude": 30.31, "longitude": 31.31, "working_hours": {"يومياً": "1:00 م - 9:00 م"}, "tags": ["دروس", "تعليم"], "added_date": "2025-08-25T10:00:00Z" },
+    { "id": 703, "category_id": 7, "name": "مدرسة شبين القناطر الثانوية", "description": "المرحلة الثانوية بنين وبنات.", "images": ["https://placehold.co/600x400/93c5fd/ffffff?text=School"], "phone": "0132710002", "address": "شارع المدرسة الثانوية", "latitude": 30.31, "longitude": 31.31, "working_hours": {"الأحد - الخميس": "7:30 ص - 2:00 م"}, "tags": ["مدرسة", "ثانوي"], "added_date": "2025-08-25T10:00:00Z" },
+    { "id": 704, "category_id": 7, "name": "فصول محو الأمية", "description": "تعليم الكبار القراءة والكتابة.", "images": ["https://placehold.co/600x400/a5b4fc/ffffff?text=Adult+Edu"], "phone": "N/A", "address": "جمعية تنمية المجتمع", "latitude": 30.31, "longitude": 31.31, "working_hours": {"الإثنين والأربعاء": "5:00 م - 7:00 م"}, "tags": ["تعليم كبار", "محو أمية"], "added_date": "2025-08-25T10:00:00Z" },
+    { "id": 801, "category_id": 8, "name": "موقف بنها", "description": "سيارات أجرة إلى مدينة بنها.", "images": ["https://placehold.co/600x400/fcd34d/ffffff?text=Bus+Stop"], "phone": "N/A", "address": "وسط المدينة", "latitude": 30.31, "longitude": 31.31, "working_hours": {"يومياً": "6:00 ص - 10:00 م"}, "tags": ["موقف", "بنها"], "added_date": "2025-08-25T10:00:00Z" },
+    { "id": 802, "category_id": 8, "name": "موقف القاهرة", "description": "سيارات أجرة إلى مدينة القاهرة.", "images": ["https://placehold.co/600x400/fdba74/ffffff?text=Bus+Stop"], "phone": "N/A", "address": "بجوار محطة القطار", "latitude": 30.31, "longitude": 31.31, "working_hours": {"يومياً": "5:00 ص - 9:00 م"}, "tags": ["موقف", "القاهرة"], "added_date": "2025-08-25T10:00:00Z" },
+    { "id": 803, "category_id": 8, "name": "محطة قطار شبين القناطر", "description": "قطارات إلى جميع المحافظات.", "images": ["https://placehold.co/600x400/9ca3af/ffffff?text=Train"], "phone": "N/A", "address": "ميدان المحطة", "latitude": 30.31, "longitude": 31.31, "working_hours": {"يومياً": "24 ساعة"}, "tags": ["قطار", "سفر"], "added_date": "2025-08-25T10:00:00Z" },
+    { "id": 804, "category_id": 8, "name": "مكتب سفريات النور", "description": "حجز تذاكر طيران وسياحة.", "images": ["https://placehold.co/600x400/67e8f9/ffffff?text=Travel"], "phone": "01212121212", "address": "شارع الجمهورية", "latitude": 30.31, "longitude": 31.31, "working_hours": {"السبت - الخميس": "10:00 ص - 8:00 م"}, "tags": ["سياحة", "سفر"], "added_date": "2025-08-25T10:00:00Z" },
+    { "id": 901, "category_id": 9, "name": "مكتب المهندس للاستشارات", "description": "تصميمات ورخص بناء.", "images": ["https://placehold.co/600x400/7dd3fc/ffffff?text=Engineer"], "phone": "01011122233", "address": "برج التجاريين", "latitude": 30.31, "longitude": 31.31, "working_hours": {"السبت - الخميس": "10:00 ص - 6:00 م"}, "tags": ["هندسة", "تصميم"], "added_date": "2025-08-25T10:00:00Z" },
+    { "id": 902, "category_id": 9, "name": "مقاولات العمار", "description": "بناء وتشطيبات متكاملة.", "images": ["https://placehold.co/600x400/53a5f0/ffffff?text=Building"], "phone": "01144455566", "address": "شارع الحرية", "latitude": 30.31, "longitude": 31.31, "working_hours": {"السبت - الخميس": "9:00 ص - 5:00 م"}, "tags": ["مقاولات", "بناء"], "added_date": "2025-08-25T10:00:00Z" },
+    { "id": 903, "category_id": 9, "name": "معرض سيراميك الماسة", "description": "أحدث أنواع السيراميك والبورسلين.", "images": ["https://placehold.co/600x400/d8b4fe/ffffff?text=Ceramics"], "phone": "01222333444", "address": "الطريق الدائري", "latitude": 30.31, "longitude": 31.31, "working_hours": {"يومياً": "10:00 ص - 10:00 م"}, "tags": ["سيراميك", "تشطيب"], "added_date": "2025-08-25T10:00:00Z" },
+    { "id": 904, "category_id": 9, "name": "البركة لمواد البناء", "description": "أسمنت وحديد وطوب ورمل.", "images": ["https://placehold.co/600x400/a1a1aa/ffffff?text=Materials"], "phone": "01555444333", "address": "مدخل المدينة", "latitude": 30.31, "longitude": 31.31, "working_hours": {"يومياً": "8:00 ص - 6:00 م"}, "tags": ["مواد بناء", "أسمنت"], "added_date": "2025-08-25T10:00:00Z" }
   ],
   "featured_places": [
-    {
-      "place_id": 102,
-      "expiry_date": "2025-12-31"
-    },
-    {
-      "place_id": 201,
-      "expiry_date": "2025-10-01"
-    },
-    {
-      "place_id": 502,
-      "expiry_date": "2026-01-15"
-    }
+    { "place_id": 102, "expiry_date": "2025-12-31" },
+    { "place_id": 201, "expiry_date": "2025-10-01" },
+    { "place_id": 502, "expiry_date": "2026-01-15" }
   ],
   "faq": [
-    {
-      "question": "كيف يمكنني اقتراح مكان جديد؟",
-      "answer": "حاليًا، تتم إضافة الأماكن من قبل فريق التطبيق. يمكنك التواصل معنا عبر البريد الإلكتروني لاقتراح مكان."
-    },
-    {
-      "question": "هل البيانات محدثة باستمرار؟",
-      "answer": "نعم، نحن نسعى لتحديث البيانات بشكل دوري لضمان دقتها."
-    }
+    { "question": "كيف يمكنني اقتراح مكان جديد؟", "answer": "حاليًا، تتم إضافة الأماكن من قبل فريق التطبيق. يمكنك التواصل معنا عبر البريد الإلكتروني لاقتراح مكان." },
+    { "question": "هل البيانات محدثة باستمرار؟", "answer": "نعم، نحن نسعى لتحديث البيانات بشكل دوري لضمان دقتها." }
   ],
   "about": {
     "appName": "دليلك",
-    "version": "1.1.0",
+    "version": "1.2.0",
     "logo": "https://i.imgur.com/your-logo.png",
     "description": "دليلك هو تطبيقك الأول لاستكشاف أفضل الأماكن والخدمات في شبين القناطر.",
     "contactEmail": "shibin.guide@gmail.com",
     "social_media": [
-      {
-        "name": "Website",
-        "icon": "globe",
-        "url": "https://www.example.com"
-      },
-      {
-        "name": "Facebook",
-        "icon": "facebook",
-        "url": "https://www.facebook.com/example"
-      },
-      {
-        "name": "Youtube",
-        "icon": "youtube",
-        "url": "https://www.youtube.com/example"
-      }
+      { "name": "Website", "icon": "globe", "url": "https://www.example.com" },
+      { "name": "Facebook", "icon": "facebook", "url": "https://www.facebook.com/example" },
+      { "name": "Youtube", "icon": "youtube", "url": "https://www.youtube.com/example" }
     ]
   }
 }
