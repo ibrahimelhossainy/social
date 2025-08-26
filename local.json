@@ -8,8 +8,12 @@
     { "id": 6, "name": "مقاهي", "icon": "https://i.imgur.com/8J6bU07.png" },
     { "id": 7, "name": "تعليم", "icon": "https://i.imgur.com/O4f3g3p.png" },
     { "id": 8, "name": "مواصلات", "icon": "https://i.imgur.com/Y1q2k8a.png" },
-    { "id": 9, "name": "معمار", "icon": "https://i.imgur.com/mJ9Z1aC.png" }
-  ],
+    { "id": 9, "name": "معمار", "icon": "https://i.imgur.com/mJ9Z1aC.png" },
+    { "id": 10, "name": "سياحة", "icon": "https://i.imgur.com/q2yIbvJ.png" },
+    { "id": 17, "name": "تقنية", "icon": "https://i.imgur.com/DN6Uh8C.png" },
+    { "id": 18, "name": "رياضة", "icon": "https://i.imgur.com/X3k7vqf.png" },
+    { "id": 19, "name": "أنشطة خيرية", "icon": "https://i.imgur.com/FnZrDwS.png" }
+  ]
   "places": [
     { "id": 101, "category_id": 1, "name": "مشويات الحاتي", "description": "أشهى المشويات على الفحم.", "images": ["https://placehold.co/600x400/ef4444/ffffff?text=Grill"], "phone": "01234567890", "address": "شارع النصر", "location_url": "https://maps.app.goo.gl/example", "working_hours": {"يومياً": "12:00 م - 2:00 ص"}, "day_off": "لا يوجد", "tags": ["مشويات", "كباب"], "added_date": "2025-08-25T10:00:00Z" },
     { "id": 102, "category_id": 1, "name": "بيتزا روما", "description": "البيتزا الإيطالية على أصولها.", "images": ["https://placehold.co/600x400/f97316/ffffff?text=Pizza"], "phone": "01098765432", "address": "ميدان المحطة", "location_url": "https://maps.app.goo.gl/example", "working_hours": {"يومياً": "11:00 ص - 1:00 ص"}, "day_off": "لا يوجد", "tags": ["بيتزا", "إيطالي"], "added_date": "2025-08-25T10:00:00Z" },
