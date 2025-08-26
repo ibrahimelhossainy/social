@@ -58,10 +58,10 @@
     { "question": "هل البيانات محدثة باستمرار؟", "answer": "نعم، نحن نسعى لتحديث البيانات بشكل دوري لضمان دقتها." }
   ],
   "about": {
-    "appName": "دليلك",
+    "appName": "دليل شبين القناطر",
     "version": "1.2.0",
     "logo": "https://i.imgur.com/your-logo.png",
-    "description": "دليلك هو تطبيقك الأول لاستكشاف أفضل الأماكن والخدمات في شبين القناطر.",
+    "description": "دليل شبين القناطر هو تطبيق لاستكشاف الأماكن والخدمات في شبين القناطر.",
     "contactEmail": "shibin.guide@gmail.com",
     "social_media": [
       { "name": "Website", "icon": "globe", "url": "https://www.example.com" },
