@@ -1,0 +1,290 @@
+{
+  "categories": [
+    {
+      "category_name": "أمراض الدم",
+      "tests": [
+        {
+          "TestID": "HEM01",
+          "TestName": "صورة دم كاملة (CBC)",
+          "Price": 150,
+          "Notes": "لا يتطلب صيام. يقيس خلايا الدم الحمراء والبيضاء والصفائح الدموية.",
+          "IsVisible": true,
+          "IsFeatured": true
+        },
+        {
+          "TestID": "HEM02",
+          "TestName": "سرعة الترسيب (ESR)",
+          "Price": 60,
+          "Notes": "لا يتطلب صيام. مؤشر للالتهابات في الجسم.",
+          "IsVisible": true,
+          "IsFeatured": false
+        },
+        {
+          "TestID": "HEM03",
+          "TestName": "فصيلة الدم و RH",
+          "Price": 70,
+          "Notes": "لا يتطلب صيام. لتحديد فصيلة الدم.",
+          "IsVisible": true,
+          "IsFeatured": false
+        },
+        {
+          "TestID": "HEM04",
+          "TestName": "تحليل سيولة الدم (PT, PTT, INR)",
+          "Price": 220,
+          "Notes": "لا يتطلب صيام. هام قبل العمليات الجراحية ولمتابعة أدوية السيولة.",
+          "IsVisible": true,
+          "IsFeatured": false
+        },
+        {
+          "TestID": "HEM05",
+          "TestName": "الحديد والقدرة الرابطة (Iron & TIBC)",
+          "Price": 150,
+          "Notes": "يتطلب صيام 8 ساعات. لتقييم حالة الحديد في الجسم.",
+          "IsVisible": true,
+          "IsFeatured": false
+        }
+      ]
+    },
+    {
+      "category_name": "الكيمياء الحيوية",
+      "tests": [
+        {
+          "TestID": "BIO01",
+          "TestName": "سكر صائم (FBS)",
+          "Price": 80,
+          "Notes": "يتطلب صيام من 8 إلى 10 ساعات.",
+          "IsVisible": true,
+          "IsFeatured": true
+        },
+        {
+          "TestID": "BIO02",
+          "TestName": "سكر فاطر بساعتين (PPBS)",
+          "Price": 80,
+          "Notes": "يتم سحب العينة بعد ساعتين من بدء الأكل.",
+          "IsVisible": true,
+          "IsFeatured": false
+        },
+        {
+          "TestID": "BIO03",
+          "TestName": "سكر تراكمي (HbA1c)",
+          "Price": 160,
+          "Notes": "لا يتطلب صيام. يعطي متوسط السكر في آخر 3 شهور.",
+          "IsVisible": true,
+          "IsFeatured": true
+        },
+        {
+          "TestID": "BIO04",
+          "TestName": "وظائف الكلى (Creatinine, Urea)",
+          "Price": 120,
+          "Notes": "يفضل صيام 4 ساعات. لتقييم كفاءة الكلى.",
+          "IsVisible": true,
+          "IsFeatured": true
+        },
+        {
+          "TestID": "BIO05",
+          "TestName": "وظائف الكبد الكاملة (LFT)",
+          "Price": 250,
+          "Notes": "يفضل صيام 8 ساعات. تقييم شامل لصحة الكبد (إنزيمات، بروتين، صفراء).",
+          "IsVisible": true,
+          "IsFeatured": true
+        },
+        {
+          "TestID": "BIO06",
+          "TestName": "ملف الدهون (Lipid Profile)",
+          "Price": 200,
+          "Notes": "يتطلب صيام من 10 إلى 12 ساعة. يقيس الكوليسترول والدهون الثلاثية.",
+          "IsVisible": true,
+          "IsFeatured": true
+        },
+        {
+          "TestID": "BIO07",
+          "TestName": "حمض اليوريك (Uric Acid)",
+          "Price": 70,
+          "Notes": "يفضل صيام 4 ساعات. لتشخيص النقرس.",
+          "IsVisible": true,
+          "IsFeatured": false
+        },
+        {
+          "TestID": "BIO08",
+          "TestName": "الكالسيوم والفوسفور (Ca, Ph)",
+          "Price": 100,
+          "Notes": "لا يتطلب صيام. لتقييم صحة العظام.",
+          "IsVisible": true,
+          "IsFeatured": false
+        },
+        {
+          "TestID": "BIO09",
+          "TestName": "إنزيمات القلب (CK-MB, Troponin I)",
+          "Price": 300,
+          "Notes": "لا يتطلب صيام. يتم عمله في حالات آلام الصدر.",
+          "IsVisible": true,
+          "IsFeatured": false
+        }
+      ]
+    },
+    {
+      "category_name": "الهرمونات",
+      "tests": [
+        {
+          "TestID": "HOR01",
+          "TestName": "ملف الغدة الدرقية (TSH, FT3, FT4)",
+          "Price": 350,
+          "Notes": "لا يتطلب صيام. يفضل سحب العينة صباحاً.",
+          "IsVisible": true,
+          "IsFeatured": true
+        },
+        {
+          "TestID": "HOR02",
+          "TestName": "هرمون الحمل الرقمي (Beta-HCG)",
+          "Price": 200,
+          "Notes": "لا يتطلب صيام. يفضل عينة صباحية.",
+          "IsVisible": true,
+          "IsFeatured": false
+        },
+        {
+          "TestID": "HOR03",
+          "TestName": "فيتامين د (Vitamin D 25-OH)",
+          "Price": 450,
+          "Notes": "لا يتطلب صيام.",
+          "IsVisible": true,
+          "IsFeatured": true
+        },
+        {
+          "TestID": "HOR04",
+          "TestName": "فيتامين ب12 (Vitamin B12)",
+          "Price": 300,
+          "Notes": "لا يتطلب صيام.",
+          "IsVisible": true,
+          "IsFeatured": false
+        },
+        {
+          "TestID": "HOR05",
+          "TestName": "مخزون الحديد (Ferritin)",
+          "Price": 180,
+          "Notes": "لا يتطلب صيام. لتقييم مخزون الحديد بالجسم.",
+          "IsVisible": true,
+          "IsFeatured": false
+        },
+        {
+          "TestID": "HOR06",
+          "TestName": "هرمونات الخصوبة (FSH, LH, Prolactin)",
+          "Price": 400,
+          "Notes": "لها توقيتات معينة حسب الدورة الشهرية للسيدات.",
+          "IsVisible": true,
+          "IsFeatured": false
+        }
+      ]
+    },
+    {
+      "category_name": "دلالات الأورام",
+      "tests": [
+        {
+          "TestID": "TUM01",
+          "TestName": "البروستاتا (Total PSA)",
+          "Price": 250,
+          "Notes": "يفضل الامتناع عن الجماع لمدة 48 ساعة قبل التحليل.",
+          "IsVisible": true,
+          "IsFeatured": false
+        },
+        {
+          "TestID": "TUM02",
+          "TestName": "القولون (CEA)",
+          "Price": 220,
+          "Notes": "لا يتطلب صيام. مؤشر لأورام الجهاز الهضمي.",
+          "IsVisible": true,
+          "IsFeatured": false
+        },
+        {
+          "TestID": "TUM03",
+          "TestName": "المبيض (CA-125)",
+          "Price": 280,
+          "Notes": "لا يتطلب صيام.",
+          "IsVisible": true,
+          "IsFeatured": false
+        }
+      ]
+    },
+    {
+      "category_name": "الفيروسات والمناعة",
+      "tests": [
+        {
+          "TestID": "VIR01",
+          "TestName": "فيروس سي (HCV Ab)",
+          "Price": 180,
+          "Notes": "لا يتطلب صيام. للكشف عن الأجسام المضادة لفيروس سي.",
+          "IsVisible": true,
+          "IsFeatured": false
+        },
+        {
+          "TestID": "VIR02",
+          "TestName": "فيروس بي (HBsAg)",
+          "Price": 170,
+          "Notes": "لا يتطلب صيام. للكشف عن الإصابة بفيروس بي.",
+          "IsVisible": true,
+          "IsFeatured": false
+        },
+        {
+          "TestID": "VIR03",
+          "TestName": "عامل روماتويد (RF)",
+          "Price": 120,
+          "Notes": "لا يتطلب صيام. للمساعدة في تشخيص التهاب المفاصل الروماتويدي.",
+          "IsVisible": true,
+          "IsFeatured": false
+        },
+        {
+          "TestID": "VIR04",
+          "TestName": "بروتين سي التفاعلي (CRP)",
+          "Price": 90,
+          "Notes": "لا يتطلب صيام. مؤشر قوي للالتهابات الحادة.",
+          "IsVisible": true,
+          "IsFeatured": true
+        },
+        {
+          "TestID": "VIR05",
+          "TestName": "جرثومة المعدة (H. Pylori Antigen in Stool)",
+          "Price": 150,
+          "Notes": "يتطلب عينة براز. هو الأدق لتشخيص جرثومة المعدة.",
+          "IsVisible": true,
+          "IsFeatured": false
+        }
+      ]
+    },
+    {
+      "category_name": "تحاليل البول والبراز",
+      "tests": [
+        {
+          "TestID": "URI01",
+          "TestName": "تحليل بول كامل (Complete Urinalysis)",
+          "Price": 60,
+          "Notes": "يفضل أول عينة صباحية بعد تنظيف المنطقة جيداً.",
+          "IsVisible": true,
+          "IsFeatured": true
+        },
+        {
+          "TestID": "URI02",
+          "TestName": "مزرعة بول (Urine Culture & Sensitivity)",
+          "Price": 180,
+          "Notes": "يتطلب عينة بول معقمة في وعاء معقم من المعمل.",
+          "IsVisible": true,
+          "IsFeatured": false
+        },
+        {
+          "TestID": "STO01",
+          "TestName": "تحليل براز كامل (Stool Analysis)",
+          "Price": 70,
+          "Notes": "يجب أن تكون العينة حديثة ولا تزيد عن ساعتين.",
+          "IsVisible": true,
+          "IsFeatured": false
+        },
+        {
+          "TestID": "STO02",
+          "TestName": "دم خفي في البراز (Fecal Occult Blood)",
+          "Price": 90,
+          "Notes": "يتطلب حمية غذائية معينة لمدة 3 أيام قبل التحليل.",
+          "IsVisible": true,
+          "IsFeatured": false
+        }
+      ]
+    }
+  ]
+}
