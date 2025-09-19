@@ -2,7 +2,7 @@
   "units": [
     {
       "id": "unit1",
-      "unitName": "الوحدة الأولى جغرافيا",
+      "unitName": "الوحدة 1 جغرافيا",
       "icon": "icons/unit1.png",
       "questions": [
         {
@@ -1341,7 +1341,7 @@
     },
     {
       "id": "unit2",
-      "unitName": "الوحدة الثانية: جغرافيا سكان العالم",
+      "unitName": "الوحدة 2 جغرافيا سكان العالم",
       "icon": "icons/geography_unit2.png",
       "questions": [
         {
@@ -3746,7 +3746,7 @@
     },
     {
       "id": "unit3",
-      "unitName": "الوحدة الثالثة: مصر تحت الحكم العثماني ومحمد علي وخلفاؤه",
+      "unitName": "الوحدة 3 مصر تحت الحكم العثماني ومحمد علي",
       "icon": "icons/unit3.png",
       "questions": [
         {
