@@ -8820,6 +8820,111 @@
           "correctAnswer": "الشمال",
           "points": 10
         },     
+   {
+      "questionText": "ما اسم البحر رقم (1) في خريطة إفريقيا؟",
+      "options": ["البحر الأحمر", "المحيط الأطلسي", "البحر المتوسط", "المحيط الهندي"],
+      "correctAnswer": "البحر المتوسط",
+      "points": 10,
+      "imageUrl": "imgs\\africa.webp"
+    },
+    {
+      "questionText": "ما اسم البحر رقم (2) على خريطة إفريقيا؟",
+      "options": ["البحر المتوسط", "البحر الأحمر", "الخليج العربي", "المحيط الأطلسي"],
+      "correctAnswer": "البحر الأحمر",
+      "points": 10,
+      "imageUrl": "imgs\\africa.webp"
+    },
+    {
+      "questionText": "ما اسم الجزيرة رقم (3) في شرق إفريقيا؟",
+      "options": ["مدغشقر", "زنجبار", "سيرلانكا", "سيشل"],
+      "correctAnswer": "مدغشقر",
+      "points": 10,
+      "imageUrl": "imgs\\africa.webp"
+    },
+    {
+      "questionText": "ما اسم دولة رقم (4) على الساحل الغربي لإفريقيا؟",
+      "options": ["غانا", "نيجيريا", "الكونغو", "السنغال"],
+      "correctAnswer": "نيجيريا",
+      "points": 10,
+      "imageUrl": "imgs\\africa.webp"
+    },
+    {
+      "questionText": "ما اسم الجزيرة رقم (5) بجوار مدغشقر؟",
+      "options": ["جزر القمر", "المالديف", "سيشل", "موريشيوس"],
+      "correctAnswer": "موريشيوس",
+      "points": 10,
+      "imageUrl": "imgs\\africa.webp"
+    },
+    {
+      "questionText": "ما اسم السلسلة الجبلية رقم (6) في شمال إفريقيا؟",
+      "options": ["جبال أطلس", "جبال دراكنزبرج", "جبال البحر الأحمر", "جبال الكاميرون"],
+      "correctAnswer": "جبال أطلس",
+      "points": 10,
+      "imageUrl": "imgs\\africa.webp"
+    },
+    {
+      "questionText": "ما اسم الصحراء رقم (7) في شمال إفريقيا؟",
+      "options": ["صحراء كلهاري", "صحراء ناميب", "الصحراء الكبرى", "صحراء تنيري"],
+      "correctAnswer": "الصحراء الكبرى",
+      "points": 10,
+      "imageUrl": "imgs\\africa.webp"
+    },
+    {
+      "questionText": "ما اسم الهضبة رقم (8) في شرق إفريقيا؟",
+      "options": ["هضبة البحيرات", "هضبة إثيوبيا", "هضبة الصحراء", "هضبة الكاميرون"],
+      "correctAnswer": "هضبة إثيوبيا",
+      "points": 10,
+      "imageUrl": "imgs\\africa.webp"
+    },
+    {
+      "questionText": "ما اسم البحيرة رقم (9) في شرق إفريقيا؟",
+      "options": ["بحيرة تشاد", "بحيرة فيكتوريا", "بحيرة تنجانيقا", "بحيرة مالاوي"],
+      "correctAnswer": "بحيرة فيكتوريا",
+      "points": 10,
+      "imageUrl": "imgs\\africa.webp"
+    },
+    {
+      "questionText": "ما اسم النهر رقم (10) في جنوب شرق إفريقيا؟",
+      "options": ["نهر النيجر", "نهر الزمبيزي", "نهر الكونغو", "نهر السنغال"],
+      "correctAnswer": "نهر الزمبيزي",
+      "points": 10,
+      "imageUrl": "imgs\\africa.webp"
+    },
+    {
+      "questionText": "ما اسم السلسلة الجبلية رقم (11) في جنوب إفريقيا؟",
+      "options": ["جبال أطلس", "جبال دراكنزبرج", "جبال البحر الأحمر", "جبال الكاميرون"],
+      "correctAnswer": "جبال دراكنزبرج",
+      "points": 10,
+      "imageUrl": "imgs\\africa.webp"
+    },
+    {
+      "questionText": "ما اسم الصحراء رقم (12) في جنوب إفريقيا؟",
+      "options": ["صحراء ناميب", "الصحراء الكبرى", "صحراء كلهاري", "صحراء تنيري"],
+      "correctAnswer": "صحراء كلهاري",
+      "points": 10,
+      "imageUrl": "imgs\\africa.webp"
+    },
+    {
+      "questionText": "ما اسم نهر رقم (13) الذي يصب في المحيط الأطلسي بجنوب إفريقيا؟",
+      "options": ["نهر الأورانج", "نهر النيل", "نهر الكونغو", "نهر النيجر"],
+      "correctAnswer": "نهر الأورانج",
+      "points": 10,
+      "imageUrl": "imgs\\africa.webp"
+    },
+    {
+      "questionText": "ما اسم الغابة رقم (14) في وسط إفريقيا؟",
+      "options": ["غابة الأمازون", "غابة الكونغو", "غابة فيكتوريا", "غابة النيجر"],
+      "correctAnswer": "غابة الكونغو",
+      "points": 10,
+      "imageUrl": "imgs\\africa.webp"
+    },
+    {
+      "questionText": "ما اسم الجزيرة رقم (15) بالقرب من مدغشقر؟",
+      "options": ["جزر القمر", "المالديف", "موريشيوس", "سيشل"],
+      "correctAnswer": "جزر القمر",
+      "points": 10,
+      "imageUrl": "imgs\\africa.webp"
+    }
         {
           "questionText": "أين توجد سهول منشوريا؟",
           "options": ["الهند", "الصين", "اليابان", "إندونيسيا"],
