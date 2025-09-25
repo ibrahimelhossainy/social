@@ -2,7 +2,7 @@
   "units": [
     {
       "id": "unit1",
-      "unitName": "الوحدة الأولى جغرافيا",
+      "unitName": "الوحدة 1 جغرافيا",
       "icon": "icons/unit1.png",
       "questions": [
         {
@@ -1330,7 +1330,7 @@
     },
     {
       "id": "unit2",
-      "unitName": "الوحدة الثانية: جغرافيا سكان العالم",
+      "unitName": "الوحدة 2 جغرافيا",
       "icon": "icons/unit2.png",
       "questions": [
         {
@@ -3735,7 +3735,7 @@
     },
     {
       "id": "unit3",
-      "unitName": "الوحدة الثالثة: مصر تحت الحكم العثماني ومحمد علي وخلفاؤه",
+      "unitName": "الوحدة 3 تاريخ",
       "icon": "icons/unit3.png",
       "questions": [
         {
@@ -6362,7 +6362,7 @@
 	
 	{
       "id": "unit4",
-      "unitName": "وحدة 4 مصر والاستعمار",
+      "unitName": "وحدة 4 تاريخ",
       "icon": "icons/unit4.png",
       "questions": [
         {
@@ -8800,7 +8800,7 @@
     },
     {
       "id": "unit5",
-      "unitName": "خرائط عامة على المنهج",
+      "unitName": "خرائط على المنهج",
       "icon": "icons/unit5.png",
       "questions": [
     {
