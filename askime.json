@@ -3,7 +3,7 @@
     {
       "id": "unit1",
       "unitName": "الوحدة الأولى جغرافيا",
-      "icon": "icons/unit1.webp",
+      "icon": "icons/unit1.png",
       "questions": [
         {
           "questionText": "ما أكبر قارات العالم من حيث المساحة؟",
