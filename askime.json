@@ -9174,153 +9174,153 @@
     "options": ["هضبة استراليا الغربية", "هضبة الدكن", "هضبة التبت", "هضبة الأناضول"],
     "correctAnswer": "هضبة استراليا الغربية",
 	  "points": 10,
-    "imageUrl": "astra.png"
+    "imageUrl": "imgs\astra.png"
   },
   {
     "question": "الجزيرة التي يمثلها الرقم (2)",
     "options": ["جزيرة تسمانيا", "نيوزيلندا", "جزيرة كنجارو", "غينيا الجديدة"],
     "correctAnswer": "جزيرة تسمانيا",
 	"points": 10,
-    "imageUrl": "astra.png"
+    "imageUrl": "imgs\astra.png"
   },
   {
     "question": "مسطح مائي رقم (3)",
     "options": ["المحيط الهادي", "المحيط الهندي", "المحيط الأطلسي", "المحيط المتجمد الجنوبي"],
     "correctAnswer": "المحيط الهادي",
 	  "points": 10,
-    "imageUrl": "astra.png"
+    "imageUrl": "imgs\astra.png"
   },
   {
     "question": "مسطح مائي رقم (4)",
     "options": ["المحيط الهندي", "المحيط الهادي", "بحر تسمان", "بحر المرجان"],
     "correctAnswer": "المحيط الهندي",
 	  "points": 10,
-    "imageUrl": "astra.png"
+    "imageUrl": "imgs\astra.png"
   },
   {
     "question": "مسطح مائي رقم (5)",
     "options": ["الخليج الأسترالي الكبير", "خليج كاربنتاريا", "خليج بوثنيا", "خليج المكسيك"],
     "correctAnswer": "الخليج الأسترالي الكبير",
-    "imageUrl": "astra.png"
+    "imageUrl": "imgs\astra.png"
   },
   {
     "question": "خليج يمثله الرقم (6)",
     "options": ["خليج كاربنتاريا", "الخليج الأسترالي الكبير", "الخليج العربي", "خليج العقبة"],
     "correctAnswer": "خليج كاربنتاريا",
 	  "points": 10,
-    "imageUrl": "astra.png"
+    "imageUrl": "imgs\astra.png"
   },
   {
     "question": "مسطح مائي رقم (7)",
     "options": ["بحر آرافورا", "بحر تسمان", "البحر الأحمر", "بحر العرب"],
     "correctAnswer": "بحر آرافورا",
 	  "points": 10,
-    "imageUrl": "astra.png"
+    "imageUrl": "imgs\astra.png"
   },
   {
     "question": "النهر رقم (8)",
     "options": ["نهر دارلنج", "نهر مري", "نهر اورانج", "نهر ينسي"],
     "correctAnswer": "نهر مري",
 	  "points": 10,
-    "imageUrl": "astra.png"
+    "imageUrl": "imgs\astra.png"
   },
   {
     "question": "النهر رقم (8)",
     "options": ["نهر دارلنج", "نهر مري", "نهر اورانج", "نهر ينسي"],
     "correctAnswer": "نهر دارلنج",
 	  "points": 10,
-    "imageUrl": "astra.png"
+    "imageUrl": "imgs\astra.png"
   },
   {
     "question": "السلسلة الجبلية التي يمثلها الرقم (10)",
     "options": ["جبال الحاجز الكبير", "جبال الأنديز", "جبال روكي", "جبال الألب"],
     "correctAnswer": "جبال الحاجز الكبير",
 	  "points": 10,
-    "imageUrl": "astra.png"
+    "imageUrl": "imgs\astra.png"
   },
   {
     "question": "المسطح المائي الذي يمثله الرقم (1)",
     "options": ["البحر الأبيض المتوسط", "البحر الأسود", "بحر الشمال", "بحر البلطيق"],
     "correctAnswer": "البحر الأبيض المتوسط",
 	  "points": 10,
-    "imageUrl": "uru.png"
+    "imageUrl": "imgs\imgs\uru.png"
   },
   {
     "question": "المسطح المائي الذي يمثله الرقم (2)",
     "options": ["المحيط الأطلنطي", "المحيط الهادي", "المحيط الهندي", "المحيط المتجمد الشمالي"],
     "correctAnswer": "المحيط الأطلنطي",
 	  "points": 10,
-    "imageUrl": "uru.png"
+    "imageUrl": "imgs\imgs\uru.png"
   },
   {
     "question": "المسطح المائي الذي يمثله الرقم (3)",
     "options": ["المحيط الأطلنطي", "المحيط الهادي", "المحيط الهندي", "المحيط القطبي الشمالي"],
     "correctAnswer": "المحيط القطبي الشمالي",
 	  "points": 10,
-    "imageUrl": "uru.png"
+    "imageUrl": "imgs\imgs\uru.png"
   },
   {
     "question": "المسطح المائي الذي يمثله الرقم (4)",
     "options": ["البحر الأسود", "بحر قزوين", "البحر الأدرياتيكي", "بحر إيجة"],
     "correctAnswer": "البحر الأسود",
 	  "points": 10,
-    "imageUrl": "uru.png"
+    "imageUrl": "imgs\uru.png"
   },
   {
     "question": "المسطح المائي الذي يمثله الرقم (5)",
     "options": ["بحر الشمال", "بحر البلطيق", "البحر الأيرلندي", "القناة الإنجليزية"],
     "correctAnswer": "بحر الشمال",
 	  "points": 10,
-    "imageUrl": "uru.png"
+    "imageUrl": "imgs\uru.png"
   },
   {
     "question": "السلسلة الجبلية التي يمثلها الرقم (6)",
     "options": ["الألب الدينارية", "جبال طوروس", "جبال القوقاز", "جبال البرانس"],
     "correctAnswer": "الألب الدينارية",
 	  "points": 10,
-    "imageUrl": "uru.png"
+    "imageUrl": "imgs\uru.png"
   },
   {
     "question": "هضبة يمثلها الرقم (7)",
     "options": ["هضبة الميزيتا", "شبه جزيرة البلقان", "هضبة فرنسا", "شبه جزيرة يوتلاند"],
     "correctAnswer": "هضبة الميزيتا",
 	  "points": 10,
-    "imageUrl": "uru.png"
+    "imageUrl": "imgs\uru.png"
   },
   {
     "question": "هضبة يمثلها الرقم (8)",
     "options": ["هضبة الميزيتا", "شبه جزيرة البلقان", "هضبة فرنسا الوسطى", "شبه جزيرة يوتلاند"],
     "correctAnswer": "هضبة فرنسا الوسطى",
 	  "points": 10,
-    "imageUrl": "uru.png"
+    "imageUrl": "imgs\uru.png"
   },
   {
     "question": "اسم السهل الذي يمثله الرقم (9)",
     "options": ["السهل الأوروبي العظيم", "سهل سيبيريا الغربية", "هضبة الميزيتا", "سهل لومبارديا"],
     "correctAnswer": "السهل الأوروبي العظيم",
 	  "points": 10,
-    "imageUrl": "uru.png"
+    "imageUrl": "imgs\uru.png"
   },
   {
     "question": "السلسلة الجبلية التي يمثلها الرقم (10)",
     "options": ["جبال الأورال", "جبال الهيمالايا", "جبال الأنديز", "جبال روكي"],
     "correctAnswer": "جبال الأورال",
 	  "points": 10,
-    "imageUrl": "uru.png"
+    "imageUrl": "imgs\uru.png"
   },
   {
     "question": "السلسلة الجبلية التي يمثلها الرقم (11)",
     "options": ["جبال القوقاز", "جبال طوروس", "جبال زاجروس", "جبال الألب الدينارية"],
     "correctAnswer": "جبال طوروس",
 	  "points": 10,
-    "imageUrl": "uru.png"
+    "imageUrl": "imgs\uru.png"
   },
   {
     "question": "السلسلة الجبلية التي يمثلها الرقم (12)",
     "options": ["جبال البرانس", "جبال طوروس", "جبال زاجروس", "جبال الألب الدينارية"],
     "correctAnswer": "جبال طوروس",
 	  "points": 10,
-    "imageUrl": "uru.png"
+    "imageUrl": "imgs\uru.png"
   },
   {
     "question": "القارة التي يمثلها الرقم (1)",
