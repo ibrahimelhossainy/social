@@ -8808,77 +8808,77 @@
       "options": ["البحر الأحمر", "المحيط الأطلسي", "البحر المتوسط", "المحيط الهندي"],
       "correctAnswer": "البحر المتوسط",
       "points": 10,
-      "imageUrl": "imgs\africa.png"
+      "imageUrl": "imgs\\africa.png"
     },
     {
       "questionText": "مسطح مائي رقم (2)",
       "options": ["البحر المتوسط", "البحر الأحمر", "الخليج العربي", "المحيط الأطلسي"],
       "correctAnswer": "البحر الأحمر",
       "points": 10,
-      "imageUrl": "imgs\africa.png"
+      "imageUrl": "imgs\\africa.png"
     },
     {
       "questionText": "اسم الجزيرة رقم (5)",
       "options": ["مدغشقر", "زنجبار", "سيرلانكا", "سيشل"],
       "correctAnswer": "مدغشقر",
       "points": 10,
-      "imageUrl": "imgs\africa.png"
+      "imageUrl": "imgs\\africa.png"
     },
     {
       "questionText": "مسطح مائي رقم (4)",
       "options": ["البحر المتوسط", "البحر الأحمر", "الخليج العربي", "المحيط الأطلنطي"],
       "correctAnswer": "المحيط الأطلنطي",
       "points": 10,
-      "imageUrl": "imgs\africa.png"
+      "imageUrl": "imgs\\africa.png"
     },
     {
       "questionText": "مسطح مائي رقم (3)",
       "options": ["المحيط الهندي", "البحر الأحمر", "الخليج العربي", "المحيط الأطلنطي"],
       "correctAnswer": "المحيط الهندي",
       "points": 10,
-      "imageUrl": "imgs\africa.png"
+      "imageUrl": "imgs\\africa.png"
     },
     {
       "questionText": "سلسلة جبلية رقم (6)",
       "options": ["جبال أطلس", "جبال دراكنزبرج", "جبال البحر الأحمر", "جبال الكاميرون"],
       "correctAnswer": "جبال أطلس",
       "points": 10,
-      "imageUrl": "imgs\africa.png"
+      "imageUrl": "imgs\\africa.png"
     },
     {
       "questionText": "اسم الصحراء رقم (7)",
       "options": ["صحراء كلهاري", "صحراء ناميب", "الصحراء الكبرى", "صحراء تنيري"],
       "correctAnswer": "الصحراء الكبرى",
       "points": 10,
-      "imageUrl": "imgs\africa.png"
+      "imageUrl": "imgs\\africa.png"
     },
     {
       "questionText": "اسم الهضبة رقم (8)",
       "options": ["هضبة البحيرات", "هضبة إثيوبيا", "هضبة الصحراء", "هضبة الكاميرون"],
       "correctAnswer": "هضبة إثيوبيا",
       "points": 10,
-      "imageUrl": "imgs\africa.png"
+      "imageUrl": "imgs\\africa.png"
     },
     {
       "questionText": "جبل رقم (9)",
       "options": ["جبال أطلس", "جبال دراكنزبرج", "جبال البحر الأحمر", "جبل كينيا"],
       "correctAnswer": "جبل كينيا",
       "points": 10,
-      "imageUrl": "imgs\africa.png"
+      "imageUrl": "imgs\\africa.png"
     },
     {
       "questionText": "جبل رقم (9)",
       "options": ["جبال أطلس", "جبال دراكنزبرج", "جبال البحر الأحمر", "جبل كينيا"],
       "correctAnswer": "جبل كينيا",
       "points": 10,
-      "imageUrl": "imgs\africa.png"
+      "imageUrl": "imgs\\africa.png"
     },
     {
       "questionText": "جبل رقم (10)",
       "options": ["جبال أطلس", "جبال دراكنزبرج", "جبل كلمنجارو", "جبل كينيا"],
       "correctAnswer": "جبل كلمنجارو",
       "points": 10,
-      "imageUrl": "imgs\africa.png"
+      "imageUrl": "imgs\\africa.png"
     },
 
     {
@@ -8886,580 +8886,580 @@
       "options": ["جبال أطلس", "جبال دراكنزبرج", "جبال البحر الأحمر", "جبال الكاميرون"],
       "correctAnswer": "جبال دراكنزبرج",
       "points": 10,
-      "imageUrl": "imgs\africa.png"
+      "imageUrl": "imgs\\africa.png"
     },
     {
       "questionText": "اسم الصحراء رقم (13)",
       "options": ["صحراء ناميب", "الصحراء الكبرى", "صحراء كلهاري", "صحراء تنيري"],
       "correctAnswer": "صحراء كلهاري",
       "points": 10,
-      "imageUrl": "imgs\africa.png"
+      "imageUrl": "imgs\\africa.png"
     },
     {
       "questionText": "اسم الهضبة رقم (12)",
       "options": ["هضبة جنوب افريقيا", "هضبة الميزيتا", "هضبة شمال افريقيا", "هضبة البحيرات الاستوائية"],
       "correctAnswer": "هضبة جنوب افريقيا",
       "points": 10,
-      "imageUrl": "imgs\africa.png"
+      "imageUrl": "imgs\\africa.png"
     },
     {
       "questionText": "مسطح مائي رقم (14)",
       "options": ["المحيط الهندي", "البحر الأحمر", "خليج غنيا", "المحيط الأطلنطي"],
       "correctAnswer": "خليج غنيا",
       "points": 10,
-      "imageUrl": "imgs\africa.png"
+      "imageUrl": "imgs\\africa.png"
     },
     {
       "questionText": "ما اسم الجزيرة رقم (15)",
       "options": ["جزر القمر", "المالديف", "موريشيوس", "سيشل"],
       "correctAnswer": "جزر القمر",
       "points": 10,
-      "imageUrl": "imgs\africa.png"
+      "imageUrl": "imgs\\africa.png"
     },
     {
       "questionText": "مسطح مائي رقم (1)",
       "options": ["المحيط الهادي", "المحيط الأطلنطي", "المحيط المتجمد الشمالي", "المحيط الهندي"],
       "correctAnswer": "المحيط الأطلنطي",
       "points": 10,
-      "imageUrl": "imgs\amn.png"
+      "imageUrl": "imgs\\amn.png"
     },
     {
       "questionText": "مسطح مائي رقم (2)",
       "options": ["المحيط الأطلسي", "المحيط الهادي", "المحيط الهندي", "المحيط المتجمد الشمالي"],
       "correctAnswer": "المحيط الهادي",
       "points": 10,
-      "imageUrl": "imgs\amn.png"
+      "imageUrl": "imgs\\amn.png"
     },
     {
       "questionText": "مسطح مائي رقم (3)",
       "options": ["المحيط الأطلسي", "المحيط الهندي", "المحيط الهادي", "المحيط القطبي الشمالي"],
       "correctAnswer": "المحيط القطبي الشمالي",
       "points": 10,
-      "imageUrl": "imgs\amn.png"
+      "imageUrl": "imgs\\amn.png"
     },
     {
       "questionText": "مسطح مائي رقم (4)",
       "options": ["خليج المكسيك", "خليج هدسون", "خليج البنغال", "خليج فنلندا"],
       "correctAnswer": "خليج هدسون",
       "points": 10,
-      "imageUrl": "imgs\amn.png"
+      "imageUrl": "imgs\\amn.png"
     },
     {
       "questionText": "هضبة رقم (8)",
       "options": ["لبرادور", "كندا", "المكسيك", "جواتيمالا"],
       "correctAnswer": "المكسيك",
       "points": 10,
-      "imageUrl": "imgs\amn.png"
+      "imageUrl": "imgs\\amn.png"
     },
     {
       "questionText": "ما اسم السلسلة الجبلية رقم (6)",
       "options": ["جبال الأنديز", "جبال الروكي", "جبال الأبلاش", "جبال الأطلس"],
       "correctAnswer": "جبال الروكي",
       "points": 10,
-      "imageUrl": "imgs\amn.png"
+      "imageUrl": "imgs\\amn.png"
     },
     {
       "questionText": "ما اسم السلسلة الجبلية رقم (7)",
       "options": ["جبال الروكي", "جبال الأبلاش", "جبال الكاربات", "جبال الأطلس"],
       "correctAnswer": "جبال الأبلاش",
       "points": 10,
-      "imageUrl": "imgs\amn.png"
+      "imageUrl": "imgs\\amn.png"
     },
     {
       "questionText": "مسطح مائي (5)",
       "options": ["خليج المكسيك", "خليج هدسون", "خليج البنغال", "خليج فنلندا"],
       "correctAnswer": "خليج المكسيك",
       "points": 10,
-      "imageUrl": "imgs\amn.png"
+      "imageUrl": "imgs\\amn.png"
     },
     {
       "questionText": "هضبة رقم (9)",
       "options": ["لبرادور", "كندا", "المكسيك", "جواتيمالا"],
       "correctAnswer": "لبرادور",
       "points": 10,
-      "imageUrl": "imgs\amn.png"
+      "imageUrl": "imgs\\amn.png"
     },
     {
       "questionText": "مسطح مائي رقم (10)",
       "options": ["خليج المكسيك", "خليج هدسون", "خليج سانت لورانس", "خليج فنلندا"],
       "correctAnswer": "خليج سانت لورانس",
       "points": 10,
-      "imageUrl": "imgs\amn.png"
+      "imageUrl": "imgs\\amn.png"
     },
     {
       "questionText": "مسطح مائي رقم (1)",
       "options": ["بحر الكاريبي", "البحر الأحمر", "المحيط الأطلسي", "بحر لابرادور"],
       "correctAnswer": "بحر الكاريبي",
       "points": 10,
-      "imageUrl": "imgs\amsou.png"
+      "imageUrl": "imgs\\amsou.png"
     },
     {
       "questionText": "مسطح مائي رقم (2)",
       "options": ["المحيط الأطلنطي", "المحيط الهادي", "المحيط الهندي", "المحيط المتجمد الجنوبي"],
       "correctAnswer": "المحيط الأطلنطي",
       "points": 10,
-      "imageUrl": "imgs\amsou.png"
+      "imageUrl": "imgs\\amsou.png"
     },
     {
       "questionText": "مسطح مائي رقم (3)",
       "options": ["المحيط الهندي", "المحيط الأطلسي", "المحيط الهادي", "المحيط المتجمد الجنوبي"],
       "correctAnswer": "المحيط الهادي",
       "points": 10,
-      "imageUrl": "imgs\amsou.png"
+      "imageUrl": "imgs\\amsou.png"
     },
     {
       "questionText": "اسم الهضبة رقم (4)",
       "options": ["هضبة البرازيل", "هضبة باتاجونيا", "هضبة المكسيك", "هضبة جيانا"],
       "correctAnswer": "هضبة البرازيل",
       "points": 10,
-      "imageUrl": "imgs\amsou.png"
+      "imageUrl": "imgs\\amsou.png"
     },
     {
       "questionText": "اسم الهضبة رقم (5)",
       "options": ["هضبة البرازيل", "هضبة باتاجونيا", "هضبة المكسيك", "هضبة جيانا"],
       "correctAnswer": "هضبة باتاجونيا",
       "points": 10,
-      "imageUrl": "imgs\amsou.png"
+      "imageUrl": "imgs\\amsou.png"
     },
     {
       "questionText": "اسم الهضبة رقم (6)",
       "options": ["هضبة باتاجونيا", "هضبة البرازيل", "هضبة المكسيك", "هضبة جيانا"],
       "correctAnswer": "هضبة جيانا",
       "points": 10,
-      "imageUrl": "imgs\amsou.png"
+      "imageUrl": "imgs\\amsou.png"
     },
     {
       "questionText": "اسم النهر رقم (7)",
       "options": ["نهر الأمازون", "نهر أورينوكو", "نهر بارانا", "نهر ساو فرانسيسكو"],
       "correctAnswer": "نهر أورينوكو",
       "points": 10,
-      "imageUrl": "imgs\amsou.png"
+      "imageUrl": "imgs\\amsou.png"
     },
     {
       "questionText": "اسم السلسلة الجبلية رقم (8)",
       "options": ["جبال الأبلاش", "جبال الأنديز", "جبال روكي", "جبال الأطلس"],
       "correctAnswer": "جبال الأنديز",
       "points": 10,
-      "imageUrl": "imgs\amsou.png"
+      "imageUrl": "imgs\\amsou.png"
     },
     {
       "questionText": "ما اسم النهر رقم (9) الذي يصب في المحيط الأطلسي؟",
       "options": ["نهر الأمازون", "نهر أورينوكو", "نهر لابلاتا", "نهر نيجرو"],
       "correctAnswer": "نهر لابلاتا",
       "points": 10,
-      "imageUrl": "imgs\amsou.png"
+      "imageUrl": "imgs\\amsou.png"
     },
     {
       "questionText": "سهول رقم (10)",
       "options": ["نهر ساو فرانسيسكو", "نهر الأمازون", "سهول البمباس", "نهر أورينوكو"],
       "correctAnswer": "سهول البمباس",
       "points": 10,
-      "imageUrl": "imgs\amsou.png"
+      "imageUrl": "imgs\\amsou.png"
     },
     {
       "questionText": "سهول نهر رقم (11)",
       "options": ["نهر ساو فرانسيسكو", "نهر الأمازون", "سهول الأمازون", "نهر أورينوكو"],
       "correctAnswer": "سهول البمباس",
       "points": 10,
-      "imageUrl": "imgs\amsou.png"
+      "imageUrl": "imgs\\amsou.png"
     },
   {
     "questionText": "مسطح مائي رقم (1)",
     "options": ["المحيط الهندي", "المحيط الهادي", "المحيط الأطلسي", "المحيط المتجمد الشمالي"],
     "correctAnswer": "المحيط الهادي",
 	 "points": 10, 
-    "imageUrl": "imgs\asia.png"
+    "imageUrl": "imgs\\asia.png"
   },
   {
     "questionText": "مسطح مائي رقم (2)",
     "options": ["المحيط الهندي", "المحيط الأطلسي", "المحيط القطبي الشمالي", "المحيط الهادي"],
     "correctAnswer": "المحيط القطبي الشمالي",
 	  "points": 10,
-    "imageUrl": "imgs\asia.png"
+    "imageUrl": "imgs\\asia.png"
   },
   {
     "questionText": "مسطح مائي رقم (3)",
     "options": ["المحيط الهندي", "المحيط الهادي", "المحيط الأطلسي", "المحيط المتجمد الشمالي"],
     "correctAnswer": "المحيط الهندي",
 	  "points": 10,
-    "imageUrl": "imgs\asia.png"
+    "imageUrl": "imgs\\asia.png"
   },
   {
     "questionText": "مسطح مائي رقم (4)",
     "options": ["بحر قزوين", "البحر الأسود", "بحر اليابان", "البحر الأحمر"],
     "correctAnswer": "بحر قزوين",
 	  "points": 10,
-    "imageUrl": "imgs\asia.png"
+    "imageUrl": "imgs\\asia.png"
   },
   {
     "questionText": "جبال رقم (5)",
     "options": ["جبال اليابان", "جبال الهيمالايا", "جبال زاجروس", "جبال الألب"],
     "correctAnswer": "جبال اليابان",
 	  "points": 10,
-    "imageUrl": "imgs\asia.png"
+    "imageUrl": "imgs\\asia.png"
   },
   {
     "questionText": "السلسلة الجبلية التي تمثل الرقم (6)",
     "options": ["جبال الأورال", "جبال الهيمالايا", "جبال زاجروس", "جبال الألب"],
     "correctAnswer": "جبال الهيمالايا",
 	  "points": 10,
-    "imageUrl": "imgs\asia.png"
+    "imageUrl": "imgs\\asia.png"
   },
   {
     "questionText": "السلسلة الجبلية التي تمثل الرقم (7)",
     "options": ["جبال الأورال", "جبال الهيمالايا", "جبال زاجروس", "جبال البرانس"],
     "correctAnswer": "جبال زاجروس",
 	  "points": 10,
-    "imageUrl": "imgs\asia.png"
+    "imageUrl": "imgs\\asia.png"
   },
   {
     "questionText": "مسطح مائي يمثله الرقم (8)",
     "options": ["بحر قزوين", "خليج البنغال", "الخليج العربي", "بحر العرب"],
     "correctAnswer": "خليج البنغال",
 	  "points": 10,
-    "imageUrl": "imgs\asia.png"
+    "imageUrl": "imgs\\asia.png"
   },
   {
     "questionText": "مسطح مائي يمثله الرقم (9)",
     "options": ["بحر قزوين", "البحر الأحمر", "الخليج العربي", "بحر العرب"],
     "correctAnswer": "بحر العرب",
 	  "points": 10,
-    "imageUrl": "imgs\asia.png"
+    "imageUrl": "imgs\\asia.png"
   },
   {
     "questionText": "سهول رقم (10)",
     "options": ["اليابان", "منشوريا", "سيبريا", "الهند"],
     "correctAnswer": "سيبريا",
 	  "points": 10,
-    "imageUrl": "imgs\asia.png"
+    "imageUrl": "imgs\\asia.png"
   },
   {
     "questionText": "سهول رقم (11)",
     "options": ["اليابان", "منشوريا", "سيبريا", "الهند"],
     "correctAnswer": "منشوريا",
 	  "points": 10,
-    "imageUrl": "imgs\asia.png"
+    "imageUrl": "imgs\\asia.png"
   },
   {
     "questionText": "هضبة تمثلها الرقم (12)",
     "options": ["شبه الجزيرة العربية", "الدكن", "التبت", "الميزيتا"],
     "correctAnswer": "شبه الجزيرة العربية",
 	  "points": 10,
-    "imageUrl": "imgs\asia.png"
+    "imageUrl": "imgs\\asia.png"
   },
   {
     "questionText": "مضيق يمثله الرقم (13)",
     "options": ["بيرنج", "هرمز", "اليابان", "مضيق تسمانيا"],
     "correctAnswer": "بيرنج",
 	  "points": 10,
-    "imageUrl": "imgs\asia.png"
+    "imageUrl": "imgs\\asia.png"
   },
   {
     "questionText": "هضبة تمثلها الرقم (14)",
     "options": ["شبه الجزيرة العربية", "الدكن", "التبت", "الميزيتا"],
     "correctAnswer": "الدكن",
 	  "points": 10,
-    "imageUrl": "imgs\asia.png"
+    "imageUrl": "imgs\\asia.png"
   },
   {
     "questionText": "هضبة تمثلها الرقم (15)",
     "options": ["شبه الجزيرة العربية", "الدكن", "التبت", "الميزيتا"],
     "correctAnswer": "التبت",
 	  "points": 10,
-    "imageUrl": "imgs\asia.png"
+    "imageUrl": "imgs\\asia.png"
   },
   {
     "questionText": "الهضبة التي تمثل الرقم (1)",
     "options": ["هضبة استراليا الغربية", "هضبة الدكن", "هضبة التبت", "هضبة الأناضول"],
     "correctAnswer": "هضبة استراليا الغربية",
 	  "points": 10,
-    "imageUrl": "imgs\astra.png"
+    "imageUrl": "imgs\\astra.png"
   },
   {
     "questionText": "الجزيرة التي يمثلها الرقم (2)",
     "options": ["جزيرة تسمانيا", "نيوزيلندا", "جزيرة كنجارو", "غينيا الجديدة"],
     "correctAnswer": "جزيرة تسمانيا",
 	"points": 10,
-    "imageUrl": "imgs\astra.png"
+    "imageUrl": "imgs\\astra.png"
   },
   {
     "questionText": "مسطح مائي رقم (3)",
     "options": ["المحيط الهادي", "المحيط الهندي", "المحيط الأطلسي", "المحيط المتجمد الجنوبي"],
     "correctAnswer": "المحيط الهادي",
 	  "points": 10,
-    "imageUrl": "imgs\astra.png"
+    "imageUrl": "imgs\\astra.png"
   },
   {
     "questionText": "مسطح مائي رقم (4)",
     "options": ["المحيط الهندي", "المحيط الهادي", "بحر تسمان", "بحر المرجان"],
     "correctAnswer": "المحيط الهندي",
 	  "points": 10,
-    "imageUrl": "imgs\astra.png"
+    "imageUrl": "imgs\\astra.png"
   },
   {
     "questionText": "مسطح مائي رقم (5)",
     "options": ["الخليج الأسترالي الكبير", "خليج كاربنتاريا", "خليج بوثنيا", "خليج المكسيك"],
     "correctAnswer": "الخليج الأسترالي الكبير",
-    "imageUrl": "imgs\astra.png"
+    "imageUrl": "imgs\\astra.png"
   },
   {
     "questionText": "خليج يمثله الرقم (6)",
     "options": ["خليج كاربنتاريا", "الخليج الأسترالي الكبير", "الخليج العربي", "خليج العقبة"],
     "correctAnswer": "خليج كاربنتاريا",
 	  "points": 10,
-    "imageUrl": "imgs\astra.png"
+    "imageUrl": "imgs\\astra.png"
   },
   {
     "questionText": "مسطح مائي رقم (7)",
     "options": ["بحر آرافورا", "بحر تسمان", "البحر الأحمر", "بحر العرب"],
     "correctAnswer": "بحر آرافورا",
 	  "points": 10,
-    "imageUrl": "imgs\astra.png"
+    "imageUrl": "imgs\\astra.png"
   },
   {
     "questionText": "النهر رقم (8)",
     "options": ["نهر دارلنج", "نهر مري", "نهر اورانج", "نهر ينسي"],
     "correctAnswer": "نهر مري",
 	  "points": 10,
-    "imageUrl": "imgs\astra.png"
+    "imageUrl": "imgs\\astra.png"
   },
   {
     "questionText": "النهر رقم (8)",
     "options": ["نهر دارلنج", "نهر مري", "نهر اورانج", "نهر ينسي"],
     "correctAnswer": "نهر دارلنج",
 	  "points": 10,
-    "imageUrl": "imgs\astra.png"
+    "imageUrl": "imgs\\astra.png"
   },
   {
     "questionText": "السلسلة الجبلية التي يمثلها الرقم (10)",
     "options": ["جبال الحاجز الكبير", "جبال الأنديز", "جبال روكي", "جبال الألب"],
     "correctAnswer": "جبال الحاجز الكبير",
 	  "points": 10,
-    "imageUrl": "imgs\astra.png"
+    "imageUrl": "imgs\\astra.png"
   },
   {
     "questionText": "المسطح المائي الذي يمثله الرقم (1)",
     "options": ["البحر الأبيض المتوسط", "البحر الأسود", "بحر الشمال", "بحر البلطيق"],
     "correctAnswer": "البحر الأبيض المتوسط",
 	  "points": 10,
-    "imageUrl": "imgs\imgs\uru.png"
+    "imageUrl": "imgs\\uru.png"
   },
   {
     "questionText": "المسطح المائي الذي يمثله الرقم (2)",
     "options": ["المحيط الأطلنطي", "المحيط الهادي", "المحيط الهندي", "المحيط المتجمد الشمالي"],
     "correctAnswer": "المحيط الأطلنطي",
 	  "points": 10,
-    "imageUrl": "imgs\imgs\uru.png"
+    "imageUrl": "imgs\\uru.png"
   },
   {
     "questionText": "المسطح المائي الذي يمثله الرقم (3)",
     "options": ["المحيط الأطلنطي", "المحيط الهادي", "المحيط الهندي", "المحيط القطبي الشمالي"],
     "correctAnswer": "المحيط القطبي الشمالي",
 	  "points": 10,
-    "imageUrl": "imgs\imgs\uru.png"
+    "imageUrl": "imgs\\uru.png"
   },
   {
     "questionText": "المسطح المائي الذي يمثله الرقم (4)",
     "options": ["البحر الأسود", "بحر قزوين", "البحر الأدرياتيكي", "بحر إيجة"],
     "correctAnswer": "البحر الأسود",
 	  "points": 10,
-    "imageUrl": "imgs\uru.png"
+    "imageUrl": "imgs\\uru.png"
   },
   {
     "questionText": "المسطح المائي الذي يمثله الرقم (5)",
     "options": ["بحر الشمال", "بحر البلطيق", "البحر الأيرلندي", "القناة الإنجليزية"],
     "correctAnswer": "بحر الشمال",
 	  "points": 10,
-    "imageUrl": "imgs\uru.png"
+    "imageUrl": "imgs\\uru.png"
   },
   {
     "questionText": "السلسلة الجبلية التي يمثلها الرقم (6)",
     "options": ["الألب الدينارية", "جبال طوروس", "جبال القوقاز", "جبال البرانس"],
     "correctAnswer": "الألب الدينارية",
 	  "points": 10,
-    "imageUrl": "imgs\uru.png"
+    "imageUrl": "imgs\\uru.png"
   },
   {
     "questionText": "هضبة يمثلها الرقم (7)",
     "options": ["هضبة الميزيتا", "شبه جزيرة البلقان", "هضبة فرنسا", "شبه جزيرة يوتلاند"],
     "correctAnswer": "هضبة الميزيتا",
 	  "points": 10,
-    "imageUrl": "imgs\uru.png"
+    "imageUrl": "imgs\\uru.png"
   },
   {
     "questionText": "هضبة يمثلها الرقم (8)",
     "options": ["هضبة الميزيتا", "شبه جزيرة البلقان", "هضبة فرنسا الوسطى", "شبه جزيرة يوتلاند"],
     "correctAnswer": "هضبة فرنسا الوسطى",
 	  "points": 10,
-    "imageUrl": "imgs\uru.png"
+    "imageUrl": "imgs\\uru.png"
   },
   {
     "questionText": "اسم السهل الذي يمثله الرقم (9)",
     "options": ["السهل الأوروبي العظيم", "سهل سيبيريا الغربية", "هضبة الميزيتا", "سهل لومبارديا"],
     "correctAnswer": "السهل الأوروبي العظيم",
 	  "points": 10,
-    "imageUrl": "imgs\uru.png"
+    "imageUrl": "imgs\\uru.png"
   },
   {
     "questionText": "السلسلة الجبلية التي يمثلها الرقم (10)",
     "options": ["جبال الأورال", "جبال الهيمالايا", "جبال الأنديز", "جبال روكي"],
     "correctAnswer": "جبال الأورال",
 	  "points": 10,
-    "imageUrl": "imgs\uru.png"
+    "imageUrl": "imgs\\uru.png"
   },
   {
     "questionText": "السلسلة الجبلية التي يمثلها الرقم (11)",
     "options": ["جبال القوقاز", "جبال طوروس", "جبال زاجروس", "جبال الألب الدينارية"],
     "correctAnswer": "جبال طوروس",
 	  "points": 10,
-    "imageUrl": "imgs\uru.png"
+    "imageUrl": "imgs\\uru.png"
   },
   {
     "questionText": "السلسلة الجبلية التي يمثلها الرقم (12)",
     "options": ["جبال البرانس", "جبال طوروس", "جبال زاجروس", "جبال الألب الدينارية"],
     "correctAnswer": "جبال طوروس",
 	  "points": 10,
-    "imageUrl": "imgs\uru.png"
+    "imageUrl": "imgs\\uru.png"
   },
   {
     "questionText": "القارة التي يمثلها الرقم (1)",
     "options": ["أفريقيا", "آسيا", "أوروبا", "أمريكا الجنوبية"],
     "correctAnswer": "أفريقيا",
 	  "points": 10,
-    "imageUrl": "world.jpg"
+    "imageUrl": "imgs\\world.jpg"
   },
   {
     "questionText": "القارة التي يمثلها الرقم (2)",
     "options": ["آسيا", "أوروبا", "أفريقيا", "أستراليا"],
     "correctAnswer": "آسيا",
 	  "points": 10,
-    "imageUrl": "world.jpg"
+    "imageUrl": "imgs\\world.jpg"
   },
   {
     "questionText": "القارة التي يمثلها الرقم (3)",
     "options": ["أوروبا", "آسيا", "أمريكا الشمالية", "أفريقيا"],
     "correctAnswer": "أوروبا",
 	  "points": 10,
-    "imageUrl": "world.jpg"
+    "imageUrl": "imgs\\world.jpg"
   },
   {
     "questionText": "القارة التي يمثلها الرقم (4)",
     "options": ["أمريكا الشمالية", "أمريكا الجنوبية", "أفريقيا", "أوروبا"],
     "correctAnswer": "أمريكا الشمالية",
 	  "points": 10,
-    "imageUrl": "world.jpg"
+    "imageUrl": "imgs\\world.jpg"
   },
   {
     "questionText": "القارة التي يمثلها الرقم (5)",
     "options": ["أمريكا الجنوبية", "أمريكا الشمالية", "أستراليا", "آسيا"],
     "correctAnswer": "أمريكا الجنوبية",
 	  "points": 10,
-    "imageUrl": "world.jpg"
+    "imageUrl": "imgs\\world.jpg"
   },
   {
     "questionText": "القارة التي يمثلها الرقم (6)",
     "options": ["أستراليا", "أنتاركتيكا", "آسيا", "أفريقيا"],
     "correctAnswer": "أستراليا",
 	  "points": 10,
-    "imageUrl": "world.jpg"
+    "imageUrl": "imgs\\world.jpg"
   },
   {
     "questionText": "مسطح مائي يمثله الرقم (7)",
     "options": ["المحيط الهندي", "المحيط الهادي", "المحيط الأطلسي", "المحيط المتجمد الجنوبي"],
     "correctAnswer": "المحيط الهندي",
 	  "points": 10,
-    "imageUrl": "world.jpg"
+    "imageUrl": "imgs\\world.jpg"
   },
   {
     "questionText": "مسطح مائي يمثله الرقم (8)",
     "options": ["المحيط الأطلنطي", "المحيط الهادي", "المحيط الهندي", "المحيط المتجمد الشمالي"],
     "correctAnswer": "المحيط الأطلنطي",
 	  "points": 10,
-    "imageUrl": "world.jpg"
+    "imageUrl": "imgs\\world.jpg"
   },
   {
     "questionText": "مسطح مائي يمثله الرقم (9)",
     "options": ["المحيط الهادي", "المحيط الأطلسي", "المحيط الهندي", "المحيط المتجمد الجنوبي"],
     "correctAnswer": "المحيط الهادي",
 	  "points": 10,
-    "imageUrl": "world.jpg"
+    "imageUrl": "imgs\\world.jpg"
   },
   {
     "questionText": "مسطح مائي يمثله الرقم (10)",
     "options": ["المحيط المتجمد الشمالي", "المحيط المتجمد الجنوبي", "المحيط الهندي", "المحيط الأطلسي"],
     "correctAnswer": "المحيط المتجمد الشمالي",
 	  "points": 10,
-    "imageUrl": "world.jpg"
+    "imageUrl": "imgs\\world.jpg"
   },
   {
     "questionText": "إقليم مناخي يمثله اللون الأخضر",
     "options": ["استوائي وشبه استوائي", "مداري", "موسمي", "صيني"],
     "correctAnswer": "استوائي وشبه استوائي",
 	  "points": 10,
-    "imageUrl": "worldc.png"
+    "imageUrl": "imgs\\worldc.png"
   },
    {
     "questionText": "إقليم مناخي يمثله اللون الكحلي",
     "options": ["استوائي وشبه استوائي", "مداري", "موسمي", "صيني"],
     "correctAnswer": "مداري",
 	   "points": 10,
-    "imageUrl": "worldc.png"
+    "imageUrl": "imgs\\worldc.png"
   },
   {
     "questionText": "إقليم مناخي يمثله اللون البني",
     "options": ["استوائي وشبه استوائي", "مداري", "موسمي", "صيني"],
     "correctAnswer": "موسمي",
 	  "points": 10,
-    "imageUrl": "worldc.png"
+    "imageUrl": "imgs\\worldc.png"
   },
   {
     "questionText": "إقليم مناخي يمثله اللون الأزرق",
     "options": ["استوائي وشبه استوائي", "مداري", "موسمي", "صيني"],
     "correctAnswer": "صيني",
 	  "points": 10,
-    "imageUrl": "worldc.png"
+    "imageUrl": "imgs\\worldc.png"
   },
   {
     "questionText": "إقليم مناخي يمثله اللون الأصفر",
     "options": ["تندرا", "لورانسي", "موسمي", "صيني"],
     "correctAnswer": "تندرا",
 	  "points": 10,
-    "imageUrl": "worldc.png"
+    "imageUrl": "imgs\\worldc.png"
   },
   {
     "questionText": "إقليم مناخي يمثله اللون البرتقالي",
     "options": ["تندرا", "لورانسي", "موسمي", "قاري"],
     "correctAnswer": "قاري",
 	  "points": 10,
-    "imageUrl": "worldc.png"
+    "imageUrl": "imgs\\worldc.png"
   },
   {
     "questionText": "إقليم مناخي يمثله اللون الرمادي",
     "options": ["تندرا", "لورانسي", "غرب اوروبا", "جبلي"],
     "correctAnswer": "جبلي",
 	  "points": 10,
-    "imageUrl": "worldc.png"
+    "imageUrl": "imgs\\worldc.png"
   },
   {
     "questionText": "إقليم مناخي يمثله اللون الفوشيا",
     "options": ["بحر متوسط", "لورانسي", "موسمي", "صيني"],
     "correctAnswer": "بحر متوسط",
 	  "points": 10,
-    "imageUrl": "worldc.png"
+    "imageUrl": "imgs\\worldc.png"
   },
   {
     "questionText": "إقليم مناخي يمثله اللون الأزرق",
     "options": ["بحر متوسط", "لورانسي", "موسمي", "صيني"],
     "correctAnswer": "صيني",
 	  "points": 10,
-    "imageUrl": "worldc.png"
+    "imageUrl": "imgs\\worldc.png"
   },
   {
     "questionText": "إقليم مناخي يمثله اللون البنفسجي",
     "options": ["بحر متوسط", "لورانسي", "موسمي", "صيني"],
     "correctAnswer": "لورانسي",
 	  "points": 10,
-    "imageUrl": "worldc.png"
+    "imageUrl": "imgs\\worldc.png"
         }
       ]
     }
