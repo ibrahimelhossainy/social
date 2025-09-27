@@ -9224,7 +9224,7 @@
     "imageUrl": "imgs\\astra.png"
   },
   {
-    "questionText": "النهر رقم (8)",
+    "questionText": "النهر رقم (9)",
     "options": ["نهر دارلنج", "نهر مري", "نهر اورانج", "نهر ينسي"],
     "correctAnswer": "نهر دارلنج",
 	  "points": 10,
@@ -9453,6 +9453,27 @@
     "correctAnswer": "صيني",
 	  "points": 10,
     "imageUrl": "imgs\\worldc.png"
+  },
+  {
+    "questionText": "السلالة البشرية التي يمثلها اللون الأزرق",
+    "options": ["القوقازية", "المغولية", "الاسكيمو", "الزنجية"],
+    "correctAnswer": "القوقازية",
+	  "points": 10,
+    "imageUrl": "imgs\\human.png"
+  },
+  {
+    "questionText": "السلالة البشرية التي يمثلها اللون الأصفر",
+    "options": ["القوقازية", "المغولية", "البوشمن", "الزنجية"],
+    "correctAnswer": "المغولية",
+	  "points": 10,
+    "imageUrl": "imgs\\human.png"
+  },
+  {
+    "questionText": "السلالة البشرية التي يمثلها اللون الأسود",
+    "options": ["القوقازية", "المغولية", "البحر المتوسط", "الزنجية"],
+    "correctAnswer": "الزنجية",
+	  "points": 10,
+    "imageUrl": "imgs\\human.png"
   },
   {
     "questionText": "إقليم مناخي يمثله اللون البنفسجي",
