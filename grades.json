@@ -2,13 +2,19 @@
 "grades": [
 {
 "id": "g1",
-"name": "الصف الأول الإعدادي",
+"name": "الأول الإعدادي",
 "icon": "fas fa-child",
 "jsonUrl": "https://raw.githubusercontent.com/ibrahimelhossainy/social/refs/heads/main/grade1.json"
 },
 {
+"id": "g2",
+"name": "الثاني الإعدادي",
+"icon": "fas fa-child",
+"jsonUrl": "https://raw.githubusercontent.com/ibrahimelhossainy/social/refs/heads/main/grade1.json"
+},  
+{
 "id": "g3",
-"name": "الصف الثالث الإعدادي",
+"name": "الثالث الإعدادي",
 "icon": "fas fa-user-graduate",
 "jsonUrl": "https://raw.githubusercontent.com/ibrahimelhossainy/social/refs/heads/main/grade2.json"
 }
