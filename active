@@ -1,8 +1,10 @@
 {
-  "activeCodes": [
-    "IME-EXAMPLE1",
-    "IME-EXAMPLE2",
-    "IME-A1B2C3D4",
-    "IME-TESTCODE"
-  ]
+"codeMappings": {
+"CODE-G1-001": "g1",
+"CODE-G1-002": "g1",
+"CODE-G1-003": "g1",
+"CODE-G2-TEST": "g2",
+"CODE-G3-VIP": "g3",
+"ANOTHER-G3-CODE": "g3"
+}
 }
