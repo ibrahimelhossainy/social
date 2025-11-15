@@ -3,17 +3,17 @@
 {
 "name": "الصف الأول الإعدادي",
 "icon": "fas fa-child",
-"jsonUrl": "https://www.google.com/search?q=https://raw.githubusercontent.com/ibrahimelhossainy/1second/refs/heads/main/grade1.json"
+"jsonUrl": "https://raw.githubusercontent.com/ibrahimelhossainy/social/refs/heads/main/grade1"
 },
 {
 "name": "الصف الثاني الإعدادي",
 "icon": "fas fa-user",
-"jsonUrl": "https://www.google.com/search?q=https://raw.githubusercontent.com/ibrahimelhossainy/1second/refs/heads/main/grade2.json"
+"jsonUrl": "https://raw.githubusercontent.com/ibrahimelhossainy/social/refs/heads/main/grade1"
 },
 {
 "name": "الصف الثالث الإعدادي",
 "icon": "fas fa-user-graduate",
-"jsonUrl": "https://www.google.com/search?q=https://raw.githubusercontent.com/ibrahimelhossainy/1second/refs/heads/main/grade3.json"
+"jsonUrl": "https://raw.githubusercontent.com/ibrahimelhossainy/social/refs/heads/main/grade1"
 }
 ]
 }
