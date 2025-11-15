@@ -1,37 +1,65 @@
 {
 "units": [
 {
-"id": "g1_u1",
-"unitName": "الوحدة الأولى (مجانية)",
+"id": "g3_u1",
+"unitName": "الوحدة الأولى: الحركة",
 "icon": "ime.png",
 "isFree": true,
 "resources": [
-{ "type": "pdf", "title": "مذكرة الشرح", "url": "..." },
-{ "type": "quiz", "title": "اختبار الوحدة" }
-],
-"questions": [ ... ]
+{
+"type": "pdf",
+"title": "مذكرة شرح الوحدة الأولى (PDF)",
+"url": "https://www.google.com/search?q=https://example.com/path/to/unit1.pdf"
 },
 {
-"id": "g1_u2",
-"unitName": "الوحدة الثانية (مدفوعة)",
+"type": "video",
+"title": "فيديو شرح الوحدة",
+"url": "https://www.google.com/search?q=https://www.youtube.com/watch%3Fv%3Dyour_video_id"
+},
+{
+"type": "quiz",
+"title": "اختبار الوحدة الأولى"
+}
+],
+"questions": [
+{
+"questionText": "ما هي وحدة قياس السرعة؟",
+"options": ["م/ث", "م/ث²", "كجم", "نيوتن"],
+"correctAnswer": "م/ث",
+"points": 10
+},
+{
+"questionText": "العجلة هي التغير في ..... خلال وحدة الزمن.",
+"options": ["السرعة", "المسافة", "الكتلة", "القوة"],
+"correctAnswer": "السرعة",
+"points": 10
+}
+]
+},
+{
+"id": "g3_u2",
+"unitName": "الوحدة الثانية: المرايا والعدسات",
 "icon": "ime.png",
 "isFree": false,
 "resources": [
-{ "type": "pdf", "title": "مذكرة الشرح", "url": "..." },
-{ "type": "quiz", "title": "اختبار الوحدة" }
-],
-"questions": [ ... ]
+{
+"type": "pdf",
+"title": "مذكرة شرح الوحدة الثانية (PDF)",
+"url": "https://www.google.com/search?q=https://example.com/path/to/unit2.pdf"
 },
 {
-"id": "g1_u3",
-"unitName": "الوحدة الثالثة (مدفوعة)",
-"icon": "ime.png",
-"isFree": false,
-"resources": [
-{ "type": "pdf", "title": "مذكرة الشرح", "url": "..." },
-{ "type": "quiz", "title": "اختبار الوحدة" }
+"type": "quiz",
+"title": "اختبار الوحدة الثانية"
+}
 ],
-"questions": [ ... ]
+"questions": [
+{
+"questionText": "ما هي صفات الصورة المتكونة في المرآة المستوية؟",
+"options": ["تقديرية، معتدلة، معكوسة", "حقيقية، مقلوبة، مكبرة", "تقديرية، مقلوبة، مصغرة"],
+"correctAnswer": "تقديرية، معتدلة، معكوسة",
+"points": 10
+}
+]
 }
 ]
 }
