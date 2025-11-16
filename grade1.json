@@ -17,6 +17,12 @@
 "url": "https://www.youtube.com/watch?v=9g2U12SsRns"
 },
 {
+"type": "video",
+"title": "البرية",
+"url": "https://archive.org/download/BigBuckBunny_124/Content/big_buck_bunny_720p_surround.mp4"
+},
+
+{
   "type": "audio",
   "title": "شرح صوتي للوحدة",
   "url": "https://example.com/path/to/audio.mp3"
