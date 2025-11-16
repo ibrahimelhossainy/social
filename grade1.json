@@ -17,6 +17,11 @@
 "url": "https://www.youtube.com/watch?v=9g2U12SsRns"
 },
 {
+  "type": "audio",
+  "title": "شرح صوتي للوحدة",
+  "url": "https://example.com/path/to/audio.mp3"
+},
+{
 "type": "quiz",
 "title": "اختبار الوحدة الأولى"
 }
