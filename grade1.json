@@ -38,12 +38,14 @@
 "options": ["م/ث", "م/ث²", "كجم", "نيوتن"],
 "correctAnswer": "م/ث",
 "points": 10
+"imageUrl": "https://upljpg",
 },
 {
 "questionText": "العجلة هي التغير في ..... خلال وحدة الزمن.",
 "options": ["السرعة", "المسافة", "الكتلة", "القوة"],
 "correctAnswer": "السرعة",
 "points": 10
+"imageUrl": "https://upljpg",
 }
 ]
 },
@@ -69,6 +71,7 @@
 "options": ["تقديرية، معتدلة، معكوسة", "حقيقية، مقلوبة، مكبرة", "تقديرية، مقلوبة، مصغرة"],
 "correctAnswer": "تقديرية، معتدلة، معكوسة",
 "points": 10
+"imageUrl": "https://upljpg",
 }
 ]
 }
