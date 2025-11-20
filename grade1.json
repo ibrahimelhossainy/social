@@ -33,20 +33,156 @@
 }
 ],
 "questions": [
-{
-    "questionText": "ما هو اسم النهر الموجود في الصورة؟",
-    "imageUrl": "https://b.top4top.io/p_3609h5lp01.png",
-    "options": ["النيل", "الفرات", "دجلة", "الأمازون"],
-    "correctAnswer": "النيل",
-    "points": 15
-},
-{
-    "questionText": "ما هو اسم النهر الموجود في الصورة؟",
-    "imageUrl": "https://b.top4top.io/p_3609h5lp01.png",
-    "options": ["النيل", "الفرات", "دجلة", "الأمازون"],
-    "correctAnswer": "النيل",
-    "points": 15
-}
+  {
+    "questionText": "New generation follow ...",
+    "options": ["trends", "emojis", "memes", "balance"],
+    "correctAnswer": "trends"
+  },
+  {
+    "questionText": "We use ... because they express our feelings.",
+    "options": ["trends", "emojis", "balance", "apps"],
+    "correctAnswer": "emojis"
+  },
+  {
+    "questionText": "Much screen time ... our health badly.",
+    "options": ["affects", "trends", "balance", "connects"],
+    "correctAnswer": "affects"
+  },
+  {
+    "questionText": "A ... is a person who grew up with technology.",
+    "options": ["citizen", "digital native", "foreigner", "parent"],
+    "correctAnswer": "digital native"
+  },
+  {
+    "questionText": "... are popular developments in social media.",
+    "options": ["Trends", "Generations", "Natives", "Devices"],
+    "correctAnswer": "Trends"
+  },
+  {
+    "questionText": "... refers to children grown up in digital world.",
+    "options": ["Gen Alpha", "Old generation", "Parents", "Teachers"],
+    "correctAnswer": "Gen Alpha"
+  },
+  {
+    "questionText": "Gen Alpha ... and memes online.",
+    "options": ["share", "sleep", "buy", "eat"],
+    "correctAnswer": "share"
+  },
+  {
+    "questionText": "They always share posts and videos. They ... do that.",
+    "options": ["constantly", "never", "rarely", "hardly"],
+    "correctAnswer": "constantly"
+  },
+  {
+    "questionText": "To change 'courage' into a verb, we add the prefix ...",
+    "options": ["en-", "un-", "dis-", "re-"],
+    "correctAnswer": "en-"
+  },
+  {
+    "questionText": "Ali was born ... a rich family.",
+    "options": ["into", "in", "with", "at"],
+    "correctAnswer": "into"
+  },
+  {
+    "questionText": "I spend much time ... video games.",
+    "options": ["playing", "play", "plays", "played"],
+    "correctAnswer": "playing"
+  },
+  {
+    "questionText": "The two words 'connect' and 'link' are ...",
+    "options": ["synonyms", "antonyms", "opposites", "different"],
+    "correctAnswer": "synonyms"
+  },
+  {
+    "questionText": "Gen Alpha can ... videos and posts easily.",
+    "options": ["share", "balance", "do", "make"],
+    "correctAnswer": "share"
+  },
+  {
+    "questionText": "Technology can ... the future.",
+    "options": ["shape", "make", "share", "create"],
+    "correctAnswer": "shape"
+  },
+  {
+    "questionText": "Today's generations are different ... the past.",
+    "options": ["from", "in", "with", "at"],
+    "correctAnswer": "from"
+  },
+  {
+    "questionText": "Gen Alpha likes to follow the ... trend.",
+    "options": ["latest", "past", "old", "ancient"],
+    "correctAnswer": "latest"
+  },
+  {
+    "questionText": "Look! He ... his homework now.",
+    "options": ["is doing", "does", "do", "did"],
+    "correctAnswer": "is doing"
+  },
+  {
+    "questionText": "We ... watching TV at the moment.",
+    "options": ["are", "is", "am", "were"],
+    "correctAnswer": "are"
+  },
+  {
+    "questionText": "Listen! The baby ...",
+    "options": ["is crying", "cry", "cries", "cried"],
+    "correctAnswer": "is crying"
+  },
+  {
+    "questionText": "What ... you doing now?",
+    "options": ["are", "is", "do", "does"],
+    "correctAnswer": "are"
+  },
+  {
+    "questionText": "Today it ... heavily.",
+    "options": ["is raining", "rain", "rains", "rained"],
+    "correctAnswer": "is raining"
+  },
+  {
+    "questionText": "Mom ... dinner now.",
+    "options": ["is making", "make", "made", "makes"],
+    "correctAnswer": "is making"
+  },
+  {
+    "questionText": "He is ... online games.",
+    "options": ["playing", "play", "plays", "played"],
+    "correctAnswer": "playing"
+  },
+  {
+    "questionText": "Be careful! A car ... the road.",
+    "options": ["is crossing", "crosses", "crossed", "cross"],
+    "correctAnswer": "is crossing"
+  },
+  {
+    "questionText": "You ... my phone. This makes me angry.",
+    "options": ["are always taking", "take", "always take", "took"],
+    "correctAnswer": "are always taking"
+  },
+  {
+    "questionText": "I ... to London next week. It's arranged.",
+    "options": ["am flying", "fly", "will fly", "flew"],
+    "correctAnswer": "am flying"
+  },
+  {
+    "questionText": "We should ... our friends kindly.",
+    "options": ["treat", "include", "common", "think"],
+    "correctAnswer": "treat"
+  },
+  {
+    "questionText": "I live ... but I communicate with my friends.",
+    "options": ["far apart", "common", "close", "near"],
+    "correctAnswer": "far apart"
+  },
+  {
+    "questionText": "We have some interests in ...",
+    "options": ["common", "case", "thought", "digital"],
+    "correctAnswer": "common"
+  },
+  {
+    "questionText": "Technology helps us connect with people who are ...",
+    "options": ["far apart", "close", "friendly", "cats"],
+    "correctAnswer": "far apart"
+  }
 ]
 },
 {
