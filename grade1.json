@@ -8,17 +8,17 @@
 "resources": [
 {
 "type": "pdf",
-"title": "مذكرة شرح الوحدة الأولى (PDF)",
-"url": "https://www.google.com/search?q=https://example.com/path/to/unit1.pdf"
+"title": "Unit PDF",
+"url": "https://files.catbox.moe/3xs6qr.pdf"
 },
 {
 "type": "video",
-"title": "فيديو شرح الوحدة",
-"url": "https://www.youtube.com/watch?v=hZbEf-9sVrQ"
+"title": "YouTube Lesson",
+"url": "https://www.youtube.com/watch?v=1ZbrTflDNm4"
 },
 {
 "type": "video",
-"title": "البرية",
+"title": "our Server Videos",
 "url": "https://archive.org/download/BigBuckBunny_124/Content/big_buck_bunny_720p_surround.mp4"
 },
 
@@ -29,7 +29,7 @@
 },
 {
 "type": "quiz",
-"title": "اختبار الوحدة الأولى"
+"title": "Unit 1 Test"
 }
 ],
 "questions": [
@@ -193,12 +193,12 @@
 "resources": [
 {
 "type": "pdf",
-"title": "مذكرة شرح الوحدة الثانية (PDF)",
+"title": "(PDF)",
 "url": "https://www.google.com/search?q=https://example.com/path/to/unit2.pdf"
 },
 {
 "type": "quiz",
-"title": "اختبار الوحدة الثانية"
+"title": "Unit 2"
 }
 ],
 "questions": [
