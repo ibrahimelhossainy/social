@@ -2,12 +2,12 @@
   "quizId": "term1_final_g1",
   "quizTitle": "اختبار منتصف العام - دراسات اجتماعية",
   "isActive": true,
-  "startDate": "2023-12-25 09:00 AM",
-  "endDate": "2023-12-26 11:00 PM",
+  "startDate": "2024-12-25 09:00 AM",
+  "endDate": "2025-12-26 11:00 PM",
   "durationMinutes": 45,
-  "questionCount": 10,
-  "pointsPerCorrectAnswer": 5,
-  "rewardPoints": 50,
+  "questionCount": 3,
+  "pointsPerCorrectAnswer": 10,
+  "rewardPoints": 10,
 
   "targetGradeIds": ["g1"], 
 
@@ -41,3 +41,4 @@
     }
   ]
 }
+
