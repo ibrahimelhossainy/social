@@ -1863,7 +1863,7 @@
       "id": "g1_u2",
       "unitName": "Unit 2",
       "icon": "ime.png",
-      "isFree": true,
+      "isFree": false,
       "resources": [
         {
           "type": "pdf",
@@ -3493,7 +3493,7 @@
       "id": "g1_u3",
       "unitName": "Unit 3",
       "icon": "ime.png",
-      "isFree": true,
+      "isFree": false,
       "resources": [
         {
           "type": "pdf",
@@ -5134,7 +5134,7 @@
       "id": "g1_u4",
       "unitName": "Unit 4",
       "icon": "ime.png",
-      "isFree": true,
+      "isFree": false,
       "resources": [
         {
           "type": "pdf",
@@ -5928,7 +5928,7 @@
       "positives",
       "goods",
       "rights",
-      "trues"
+      "falses"
     ],
     "correctAnswer": "positives",
     "points": 10
@@ -6181,7 +6181,7 @@
       "id": "g1_u5",
       "unitName": "Unit 5",
       "icon": "ime.png",
-      "isFree": true,
+      "isFree": false,
       "resources": [
         {
           "type": "pdf",
@@ -7745,7 +7745,7 @@
       "id": "g1_u6",
       "unitName": "Unit 6",
       "icon": "ime.png",
-      "isFree": true,
+      "isFree": false,
       "resources": [
        
   {
