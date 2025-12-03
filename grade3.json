@@ -1,7 +1,7 @@
 {
   "units": [
     {
-      "id": "g3_u1",
+      "id": "g2_u1",
       "unitName": "Unit 1",
       "icon": "ime.png",
       "isFree": true,
@@ -23,8 +23,10 @@
         },
         {
           "type": "quiz",
-          "title": "Unit Test",
-          "questions": [
+          "title": "Unit Test"
+        }
+      ],
+      "questions": [
   {
     "questionText": "What is the definition of 'background'?",
     "options": ["Being famous", "Where someone comes from", "Learning about yourself", "One of a kind"],
@@ -1142,11 +1144,9 @@
     "points": 10
   }
 ]
-        }
-      ]
     },
     {
-      "id": "g3_u2",
+      "id": "g2_u2",
       "unitName": "Unit 2",
       "icon": "ime.png",
       "isFree": false,
@@ -1163,8 +1163,10 @@
         },
         {
           "type": "quiz",
-          "title": "Unit Test",
-          "questions": [
+          "title": "Unit Test"
+        }
+      ],
+      "questions": [
   {
     "questionText": "What does 'misunderstanding' mean?",
     "options": ["A strong connection", "Failure to understand correctly", "Sharing ideas", "Being famous"],
@@ -2180,11 +2182,9 @@
     "points": 10
   }
 ]
-        }
-      ]
     },
     {
-      "id": "g3_u3",
+      "id": "g2_u3",
       "unitName": "Unit 3",
       "icon": "ime.png",
       "isFree": false,
@@ -2201,8 +2201,10 @@
         },
         {
           "type": "quiz",
-          "title": "Unit Test",
-          "questions": [
+          "title": "Unit Test"
+        }
+      ],
+      "questions": [
   {
     "questionText": "What do the letters 'AI' stand for?",
     "options": ["Artificial Intelligent", "Artificial Intelligence", "Artistic Intelligence", "Automated Information"],
@@ -3290,11 +3292,9 @@
     "points": 10
   }
 ]
-        }
-      ]
     },
     {
-      "id": "g3_u4",
+      "id": "g2_u4",
       "unitName": "Unit 4",
       "icon": "ime.png",
       "isFree": false,
@@ -3311,8 +3311,10 @@
         },
         {
           "type": "quiz",
-          "title": "Unit Test",
-          "questions": [
+          "title": "Unit Test"
+        }
+      ],
+      "questions": [
   {
     "questionText": "What does 'screen time' mean?",
     "options": ["Time spent sleeping", "Time spent looking at a screen", "Time spent playing outside", "Time spent eating"],
@@ -4274,11 +4276,9 @@
     "points": 10
   }
 ]
-        }
-      ]
     },
     {
-      "id": "g3_u5",
+      "id": "g2_u5",
       "unitName": "Unit 5",
       "icon": "ime.png",
       "isFree": false,
@@ -4295,8 +4295,10 @@
         },
         {
           "type": "quiz",
-          "title": "Unit Test",
-          "questions": [
+          "title": "Unit Test"
+        }
+      ],
+      "questions": [
   {
     "questionText": "What is a 'prototype'?",
     "options": ["A final product", "A simple model of a design", "A problem", "A schedule"],
@@ -5258,11 +5260,9 @@
     "points": 10
   }
 ]
-        }
-      ]
     },
     {
-      "id": "g3_u6",
+      "id": "g2_u6",
       "unitName": "Unit 6",
       "icon": "ime.png",
       "isFree": false,
@@ -5279,8 +5279,10 @@
         },
         {
           "type": "quiz",
-          "title": "Unit Test",
-          "questions": [
+          "title": "Unit Test"
+        }
+      ],
+      "questions": [
   {
     "questionText": "What does 'empathy' mean?",
     "options": ["To ignore others", "The ability to understand and share feelings", "To be selfish", "To write stories"],
@@ -6194,8 +6196,6 @@
     "points": 10
   }
 ]
-        }
-      ]
     }
   ]
 }
