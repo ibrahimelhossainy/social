@@ -1,0 +1,6201 @@
+{
+  "units": [
+    {
+      "id": "g3_u1",
+      "unitName": "Unit 1",
+      "icon": "ime.png",
+      "isFree": true,
+      "resources": [
+        {
+          "type": "pdf",
+          "title": "Unit PDF",
+          "url": "LINK_TO_PDF_HERE"
+        },
+        {
+          "type": "video",
+          "title": "Video Lesson",
+          "url": "LINK_TO_VIDEO_HERE"
+        },
+        {
+          "type": "audio",
+          "title": "Audio Lesson",
+          "url": "LINK_TO_AUDIO_HERE"
+        },
+        {
+          "type": "quiz",
+          "title": "Unit Test",
+          "questions": [
+  {
+    "questionText": "What is the definition of 'background'?",
+    "options": ["Being famous", "Where someone comes from", "Learning about yourself", "One of a kind"],
+    "correctAnswer": "Where someone comes from",
+    "points": 10
+  },
+  {
+    "questionText": "Which word means 'being famous'?",
+    "options": ["Identity", "Background", "Popularity", "Values"],
+    "correctAnswer": "Popularity",
+    "points": 10
+  },
+  {
+    "questionText": "What does 'self-discovery' mean?",
+    "options": ["Learning more about who you are", "Having a high opinion of someone", "Where someone comes from", "Being famous"],
+    "correctAnswer": "Learning more about who you are",
+    "points": 10
+  },
+  {
+    "questionText": "Which word describes something that is 'one of a kind'?",
+    "options": ["Common", "Unique", "Popular", "Simple"],
+    "correctAnswer": "Unique",
+    "points": 10
+  },
+  {
+    "questionText": "To 'value' someone means to:",
+    "options": ["Have a high opinion of them", "Ignore them", "Make them famous", "Teach them"],
+    "correctAnswer": "Have a high opinion of them",
+    "points": 10
+  },
+  {
+    "questionText": "Students often think they must act in a certain way to _______.",
+    "options": ["fit in", "find out", "feel in", "grow up"],
+    "correctAnswer": "fit in",
+    "points": 10
+  },
+  {
+    "questionText": "_______ is where someone comes from.",
+    "options": ["Self-discovery", "Unique", "Self-esteem", "Background"],
+    "correctAnswer": "Background",
+    "points": 10
+  },
+  {
+    "questionText": "_______ is learning more about who you are.",
+    "options": ["To value", "Unique", "Self-discovery", "Popularity"],
+    "correctAnswer": "Self-discovery",
+    "points": 10
+  },
+  {
+    "questionText": "_______ is being famous.",
+    "options": ["Popularity", "Strength", "Value", "Background"],
+    "correctAnswer": "Popularity",
+    "points": 10
+  },
+  {
+    "questionText": "People usually _______ those who do useful things.",
+    "options": ["value", "ignore", "dislike", "leave"],
+    "correctAnswer": "value",
+    "points": 10
+  },
+  {
+    "questionText": "He is _______; he comes from a kind family.",
+    "options": ["polite", "rude", "bad", "evil"],
+    "correctAnswer": "polite",
+    "points": 10
+  },
+  {
+    "questionText": "His _______ grew after he scored three goals.",
+    "options": ["confidence", "strength", "stress", "weakness"],
+    "correctAnswer": "confidence",
+    "points": 10
+  },
+  {
+    "questionText": "So much homework makes students feel _______.",
+    "options": ["relaxed", "comfortable", "stressed", "happy"],
+    "correctAnswer": "stressed",
+    "points": 10
+  },
+  {
+    "questionText": "_______ helps you overcome life's challenges.",
+    "options": ["Resilience", "Beliefs", "Values", "Stress"],
+    "correctAnswer": "Resilience",
+    "points": 10
+  },
+  {
+    "questionText": "We should _______ hard work and kindness.",
+    "options": ["value", "ignore", "dislike", "leave"],
+    "correctAnswer": "value",
+    "points": 10
+  },
+  {
+    "questionText": "Hard work and kindness are important _______.",
+    "options": ["resilience", "confidence", "beliefs", "identity"],
+    "correctAnswer": "beliefs",
+    "points": 10
+  },
+  {
+    "questionText": "Ali has a simple _______; he comes from a kind family.",
+    "options": ["background", "belief", "strength", "value"],
+    "correctAnswer": "background",
+    "points": 10
+  },
+  {
+    "questionText": "Listening to others is one of a person's _______.",
+    "options": ["strengths", "resilience", "stress", "discovery"],
+    "correctAnswer": "strengths",
+    "points": 10
+  },
+  {
+    "questionText": "Some people feel _______ from social media.",
+    "options": ["belief", "value", "pressure", "identity"],
+    "correctAnswer": "pressure",
+    "points": 10
+  },
+  {
+    "questionText": "Through _______, you can find more confidence.",
+    "options": ["unique", "self-discovery", "popularity", "stress"],
+    "correctAnswer": "self-discovery",
+    "points": 10
+  },
+  {
+    "questionText": "Being _______ doesn't mean being strange, but being real.",
+    "options": ["popular", "relaxed", "stressed", "unique"],
+    "correctAnswer": "unique",
+    "points": 10
+  },
+  {
+    "questionText": "Laila _______ a lot of challenges.",
+    "options": ["studied", "faced", "supported", "changed"],
+    "correctAnswer": "faced",
+    "points": 10
+  },
+  {
+    "questionText": "_______ and growth are important.",
+    "options": ["Dishonesty", "Challenge", "Stress", "Individuality"],
+    "correctAnswer": "Individuality",
+    "points": 10
+  },
+  {
+    "questionText": "What is a synonym for 'confidence'?",
+    "options": ["Doubt", "Trust", "Weakness", "Fear"],
+    "correctAnswer": "Trust",
+    "points": 10
+  },
+  {
+    "questionText": "What is an antonym for 'strength'?",
+    "options": ["Power", "Energy", "Weakness", "Force"],
+    "correctAnswer": "Weakness",
+    "points": 10
+  },
+  {
+    "questionText": "Which word is a synonym for 'support'?",
+    "options": ["Encourage", "Ignore", "Leave", "Dislike"],
+    "correctAnswer": "Encourage",
+    "points": 10
+  },
+  {
+    "questionText": "What is an antonym for 'unique'?",
+    "options": ["Rare", "Exotic", "Common", "Special"],
+    "correctAnswer": "Common",
+    "points": 10
+  },
+  {
+    "questionText": "The word 'realness' is closest in meaning to:",
+    "options": ["Fact", "Imagination", "Dream", "Lie"],
+    "correctAnswer": "Fact",
+    "points": 10
+  },
+  {
+    "questionText": "What is the opposite of 'fit' (suitable)?",
+    "options": ["Convenient", "Unfit", "Proper", "Right"],
+    "correctAnswer": "Unfit",
+    "points": 10
+  },
+  {
+    "questionText": "A synonym for 'simple' is:",
+    "options": ["Hard", "Difficult", "Easy", "Complex"],
+    "correctAnswer": "Easy",
+    "points": 10
+  },
+  {
+    "questionText": "The antonym of 'kindness' is:",
+    "options": ["Friendliness", "Cruelty", "Goodness", "Helpfulness"],
+    "correctAnswer": "Cruelty",
+    "points": 10
+  },
+  {
+    "questionText": "Which word means 'famous'?",
+    "options": ["Popular", "Unpopular", "Unknown", "Secret"],
+    "correctAnswer": "Popular",
+    "points": 10
+  },
+  {
+    "questionText": "The opposite of 'strange' is:",
+    "options": ["Rare", "Unusual", "Common", "Weird"],
+    "correctAnswer": "Common",
+    "points": 10
+  },
+  {
+    "questionText": "A synonym for 'resilience' is:",
+    "options": ["Flexibility", "Hardness", "Rigidity", "Weakness"],
+    "correctAnswer": "Flexibility",
+    "points": 10
+  },
+  {
+    "questionText": "The antonym of 'succeed' is:",
+    "options": ["Pass", "Win", "Fail", "Achieve"],
+    "correctAnswer": "Fail",
+    "points": 10
+  },
+  {
+    "questionText": "Which suffix is used to make the noun 'confidence'?",
+    "options": ["-ity", "-ce", "-th", "-ness"],
+    "correctAnswer": "-ce",
+    "points": 10
+  },
+  {
+    "questionText": "Which suffix creates the noun 'identity'?",
+    "options": ["-ce", "-ity", "-th", "-tion"],
+    "correctAnswer": "-ity",
+    "points": 10
+  },
+  {
+    "questionText": "The noun form of 'grow' is created using which suffix?",
+    "options": ["-ness", "-ce", "-th", "-ity"],
+    "correctAnswer": "-th",
+    "points": 10
+  },
+  {
+    "questionText": "Which suffix turns 'kind' into a noun?",
+    "options": ["-ness", "-tion", "-ity", "-ment"],
+    "correctAnswer": "-ness",
+    "points": 10
+  },
+  {
+    "questionText": "The word 'competition' uses which suffix?",
+    "options": ["-ness", "-tion", "-ity", "-th"],
+    "correctAnswer": "-tion",
+    "points": 10
+  },
+  {
+    "questionText": "Which expression means 'to adapt to a group'?",
+    "options": ["Fit in", "Give up", "Stand out", "Turn off"],
+    "correctAnswer": "Fit in",
+    "points": 10
+  },
+  {
+    "questionText": "The phrase 'come from' is used to describe:",
+    "options": ["Future plans", "Origins or background", "Current location", "Hobbies"],
+    "correctAnswer": "Origins or background",
+    "points": 10
+  },
+  {
+    "questionText": "We use the expression 'grew into' to mean:",
+    "options": ["Became smaller", "Changed into", "Stopped growing", "Left"],
+    "correctAnswer": "Changed into",
+    "points": 10
+  },
+  {
+    "questionText": "What does 'self-esteem' mean?",
+    "options": ["Thinking poorly of oneself", "Respect for oneself", "Hating oneself", "Ignoring oneself"],
+    "correctAnswer": "Respect for oneself",
+    "points": 10
+  },
+  {
+    "questionText": "The phrase 'beyond looks' refers to:",
+    "options": ["Only physical appearance", "More than just appearance", "Looking far away", "Ignoring someone"],
+    "correctAnswer": "More than just appearance",
+    "points": 10
+  },
+  {
+    "questionText": "Sama looks _______ her money well.",
+    "options": ["at", "after", "like", "for"],
+    "correctAnswer": "after",
+    "points": 10
+  },
+  {
+    "questionText": "I help my students _______ homework.",
+    "options": ["do", "to do", "with", "all mentioned"],
+    "correctAnswer": "all mentioned",
+    "points": 10
+  },
+  {
+    "questionText": "I teach my children _______ on themselves.",
+    "options": ["depend", "to depend", "dependence", "depending"],
+    "correctAnswer": "to depend",
+    "points": 10
+  },
+  {
+    "questionText": "The word 'belief' is a/an:",
+    "options": ["Verb", "Noun", "Adjective", "Adverb"],
+    "correctAnswer": "Noun",
+    "points": 10
+  },
+  {
+    "questionText": "The word 'unique' means 'one of a kind', while 'unity' means:",
+    "options": ["Being alone", "Being together as one", "Being different", "Being strange"],
+    "correctAnswer": "Being together as one",
+    "points": 10
+  },
+  {
+    "questionText": "To change 'real' into a noun, we add the suffix:",
+    "options": ["-ful", "-ous", "-ness", "-tion"],
+    "correctAnswer": "-ness",
+    "points": 10
+  },
+  {
+    "questionText": "That job fits me. The antonym of 'fit' is:",
+    "options": ["Doubt", "Unfit", "Easy", "Proper"],
+    "correctAnswer": "Unfit",
+    "points": 10
+  },
+  {
+    "questionText": "Africa is home to unique animals. The synonym of 'unique' is:",
+    "options": ["Common", "Usual", "Exotic", "Boring"],
+    "correctAnswer": "Exotic",
+    "points": 10
+  },
+  {
+    "questionText": "The words 'Confidence' and 'trust' are:",
+    "options": ["Antonyms", "Nouns", "Synonyms", "Adverbs"],
+    "correctAnswer": "Synonyms",
+    "points": 10
+  },
+  {
+    "questionText": "Hard work is a point of strength. 'Strength' can be replaced with:",
+    "options": ["Resilience", "Weakness", "Power", "Fear"],
+    "correctAnswer": "Power",
+    "points": 10
+  },
+  {
+    "questionText": "The word 'competition' is a/an:",
+    "options": ["Verb", "Adjective", "Noun", "Adverb"],
+    "correctAnswer": "Noun",
+    "points": 10
+  },
+  {
+    "questionText": "Salah has great ability to _______ goals.",
+    "options": ["do", "score", "feel", "remind"],
+    "correctAnswer": "score",
+    "points": 10
+  },
+  {
+    "questionText": "Hard work helps _______ character.",
+    "options": ["overcome", "shape", "follow", "do"],
+    "correctAnswer": "shape",
+    "points": 10
+  },
+  {
+    "questionText": "Laila could _______ her challenges.",
+    "options": ["come over", "follow", "overcome", "remind"],
+    "correctAnswer": "overcome",
+    "points": 10
+  },
+  {
+    "questionText": "Could you _______ me the time of the match?",
+    "options": ["remember", "remind", "mention", "say"],
+    "correctAnswer": "tell",
+    "points": 10
+  },
+  {
+    "questionText": "He _______ confident by getting good marks.",
+    "options": ["feels", "faces", "has", "does"],
+    "correctAnswer": "feels",
+    "points": 10
+  },
+  {
+    "questionText": "The synonym of _______ is 'flexibility'.",
+    "options": ["realness", "resilience", "strength", "popularity"],
+    "correctAnswer": "resilience",
+    "points": 10
+  },
+  {
+    "questionText": "Nada looks _______ her mother. Both of them are beautiful.",
+    "options": ["after", "like", "at", "for"],
+    "correctAnswer": "like",
+    "points": 10
+  },
+  {
+    "questionText": "Hard work helps you _______.",
+    "options": ["succeeding", "succeed", "succeeded", "success"],
+    "correctAnswer": "succeed",
+    "points": 10
+  },
+  {
+    "questionText": "What is Ahmed's main message in the text 'Who I Am Beyond My Looks'?",
+    "options": ["How to dress at school", "The importance of popularity", "Being true to yourself is what matters", "How to make more friends"],
+    "correctAnswer": "Being true to yourself is what matters",
+    "points": 10
+  },
+  {
+    "questionText": "What does Ahmed say is one of his strengths?",
+    "options": ["Speaking loudly", "Listening", "Dressing well", "Being popular"],
+    "correctAnswer": "Listening",
+    "points": 10
+  },
+  {
+    "questionText": "What helps shape Ahmed's character?",
+    "options": ["His background and beliefs", "Social media", "His friends", "His school teachers"],
+    "correctAnswer": "His background and beliefs",
+    "points": 10
+  },
+  {
+    "questionText": "What does Ahmed say about being unique?",
+    "options": ["It makes you strange", "It means being real", "It helps you fit in", "It's not important"],
+    "correctAnswer": "It means being real",
+    "points": 10
+  },
+  {
+    "questionText": "Why does Ahmed mention self-discovery?",
+    "options": ["To show how he became famous", "To explain how he gained confidence", "To describe his background", "To talk about his looks"],
+    "correctAnswer": "To explain how he gained confidence",
+    "points": 10
+  },
+  {
+    "questionText": "According to Leila, identity is:",
+    "options": ["Just your name", "Where you are from", "Personality, values, and dreams", "How you look"],
+    "correctAnswer": "Personality, values, and dreams",
+    "points": 10
+  },
+  {
+    "questionText": "Leila used to think being quiet was a _______.",
+    "options": ["strength", "weakness", "power", "talent"],
+    "correctAnswer": "weakness",
+    "points": 10
+  },
+  {
+    "questionText": "What influenced Leila's growth the most?",
+    "options": ["Her friends", "Social media", "Her teachers", "Her books"],
+    "correctAnswer": "Her teachers",
+    "points": 10
+  },
+  {
+    "questionText": "Dr. Magdi Yacoub decided to study medicine because:",
+    "options": ["He wanted to be rich", "His father's sister died from heart disease", "He liked biology", "His father was a doctor"],
+    "correctAnswer": "His father's sister died from heart disease",
+    "points": 10
+  },
+  {
+    "questionText": "What was Dr. Magdi Yacoub's true purpose?",
+    "options": ["To travel the world", "To save lives", "To write books", "To be famous"],
+    "correctAnswer": "To save lives",
+    "points": 10
+  },
+  {
+    "questionText": "I _______ my homework.",
+    "options": ["has written", "have written", "am written", "was written"],
+    "correctAnswer": "have written",
+    "points": 10
+  },
+  {
+    "questionText": "She _______ in the pool.",
+    "options": ["has swum", "have swum", "was swum", "is swum"],
+    "correctAnswer": "has swum",
+    "points": 10
+  },
+  {
+    "questionText": "What have you _______ her?",
+    "options": ["tell", "told", "tells", "telling"],
+    "correctAnswer": "told",
+    "points": 10
+  },
+  {
+    "questionText": "I have _______ the email.",
+    "options": ["send", "sent", "sends", "sending"],
+    "correctAnswer": "sent",
+    "points": 10
+  },
+  {
+    "questionText": "The room _______ by my sister. (Passive)",
+    "options": ["swept", "has swept", "has been swept", "swaps"],
+    "correctAnswer": "has been swept",
+    "points": 10
+  },
+  {
+    "questionText": "Which keyword is used in questions with Present Perfect?",
+    "options": ["Ever", "Never", "Just", "Yet"],
+    "correctAnswer": "Ever",
+    "points": 10
+  },
+  {
+    "questionText": "I have _______ travelled by plane. (Negative meaning)",
+    "options": ["ever", "never", "just", "already"],
+    "correctAnswer": "never",
+    "points": 10
+  },
+  {
+    "questionText": "I have _______ met Ali. (A short time ago)",
+    "options": ["just", "yet", "ever", "since"],
+    "correctAnswer": "just",
+    "points": 10
+  },
+  {
+    "questionText": "Have you finished your work _______?",
+    "options": ["just", "already", "ever", "since"],
+    "correctAnswer": "already",
+    "points": 10
+  },
+  {
+    "questionText": "I haven't seen him _______.",
+    "options": ["already", "just", "yet", "ever"],
+    "correctAnswer": "yet",
+    "points": 10
+  },
+  {
+    "questionText": "I have lived in Cairo _______ 2 years.",
+    "options": ["since", "for", "ago", "in"],
+    "correctAnswer": "for",
+    "points": 10
+  },
+  {
+    "questionText": "I have learnt swimming _______ 2022.",
+    "options": ["for", "since", "ago", "when"],
+    "correctAnswer": "since",
+    "points": 10
+  },
+  {
+    "questionText": "He has _______ to the market. (He is there now)",
+    "options": ["been", "gone", "going", "went"],
+    "correctAnswer": "gone",
+    "points": 10
+  },
+  {
+    "questionText": "He has _______ to the market. (He came back)",
+    "options": ["been", "gone", "going", "went"],
+    "correctAnswer": "been",
+    "points": 10
+  },
+  {
+    "questionText": "I've known Ali _______ ages.",
+    "options": ["since", "for", "ago", "in"],
+    "correctAnswer": "for",
+    "points": 10
+  },
+  {
+    "questionText": "We haven't met _______ last week.",
+    "options": ["for", "since", "ago", "when"],
+    "correctAnswer": "since",
+    "points": 10
+  },
+  {
+    "questionText": "Have you _______ seen a snake?",
+    "options": ["never", "ever", "just", "yet"],
+    "correctAnswer": "ever",
+    "points": 10
+  },
+  {
+    "questionText": "He hasn't come back _______.",
+    "options": ["already", "just", "yet", "ever"],
+    "correctAnswer": "yet",
+    "points": 10
+  },
+  {
+    "questionText": "Choose the correct rewrite: 'I have already done my work.' (Negative)",
+    "options": ["I haven't done my work already.", "I haven't done my work yet.", "I didn't do my work yet.", "I don't do my work."],
+    "correctAnswer": "I haven't done my work yet.",
+    "points": 10
+  },
+  {
+    "questionText": "Choose the correct rewrite: 'Sama has cooked lunch.' (Passive)",
+    "options": ["Lunch has cooked by Sama.", "Lunch has been cooked by Sama.", "Lunch was cooked by Sama.", "Lunch is cooked by Sama."],
+    "correctAnswer": "Lunch has been cooked by Sama.",
+    "points": 10
+  },
+  {
+    "questionText": "Choose the correct rewrite: 'He has lived in Cairo for ten years.' (Use: since)",
+    "options": ["He has lived in Cairo since 2013 (assuming current year is 2023).", "He lived in Cairo since ten years.", "He has lived in Cairo since ten years.", "He lives in Cairo since 2013."],
+    "correctAnswer": "He has lived in Cairo since 2013 (assuming current year is 2023).",
+    "points": 10
+  },
+  {
+    "questionText": "Choose the correct rewrite: 'She has studied English since 2020.' (Use: for)",
+    "options": ["She has studied English for 3 years (assuming current year is 2023).", "She studied English for 2020.", "She has studied English for 2020.", "She is studying English for 3 years."],
+    "correctAnswer": "She has studied English for 3 years (assuming current year is 2023).",
+    "points": 10
+  },
+  {
+    "questionText": "I have _______ my homework.",
+    "options": ["complete", "completed", "completing", "completes"],
+    "correctAnswer": "completed",
+    "points": 10
+  },
+  {
+    "questionText": "Correct the mistake: 'She has send the email.'",
+    "options": ["sent", "sends", "sending", "sender"],
+    "correctAnswer": "sent",
+    "points": 10
+  },
+  {
+    "questionText": "Correct the mistake: 'I haven't see Ali for long.'",
+    "options": ["seen", "saw", "seeing", "sees"],
+    "correctAnswer": "seen",
+    "points": 10
+  },
+  {
+    "questionText": "Correct the mistake: 'Have you never seen the pyramids?'",
+    "options": ["ever", "always", "usually", "often"],
+    "correctAnswer": "ever",
+    "points": 10
+  },
+  {
+    "questionText": "Correct the mistake: 'They have arrived yet.'",
+    "options": ["already", "yet", "never", "ever"],
+    "correctAnswer": "already",
+    "points": 10
+  },
+  {
+    "questionText": "Correct the mistake: 'Nadeen has learnt swimming since 2 years.'",
+    "options": ["for", "since", "ago", "in"],
+    "correctAnswer": "for",
+    "points": 10
+  },
+  {
+    "questionText": "Correct the mistake: 'They have sold a car for 2022.'",
+    "options": ["since", "for", "ago", "in"],
+    "correctAnswer": "since",
+    "points": 10
+  },
+  {
+    "questionText": "She stood in front of the mirror to _______ her dress.",
+    "options": ["adjust", "panic", "depress", "confuse"],
+    "correctAnswer": "adjust",
+    "points": 10
+  },
+  {
+    "questionText": "We should throw _______ in bins.",
+    "options": ["strength", "values", "trash", "identity"],
+    "correctAnswer": "trash",
+    "points": 10
+  },
+  {
+    "questionText": "A good journalist should be _______.",
+    "options": ["curious", "weak", "depressing", "afraid"],
+    "correctAnswer": "curious",
+    "points": 10
+  },
+  {
+    "questionText": "One should be _______ of himself to reach their goal.",
+    "options": ["confident", "resilient", "depressing", "weak"],
+    "correctAnswer": "confident",
+    "points": 10
+  },
+  {
+    "questionText": "To be _______ is to be interested in discovering new things.",
+    "options": ["curious", "depressing", "resilient", "honest"],
+    "correctAnswer": "curious",
+    "points": 10
+  },
+  {
+    "questionText": "To be _______ is to be sure about your abilities.",
+    "options": ["confident", "curious", "depressing", "resilient"],
+    "correctAnswer": "confident",
+    "points": 10
+  },
+  {
+    "questionText": "A person who is _______ can adapt to challenging situations.",
+    "options": ["resilient", "depressing", "curious", "weak"],
+    "correctAnswer": "resilient",
+    "points": 10
+  },
+  {
+    "questionText": "The _______ of something is its importance or worth.",
+    "options": ["value", "identity", "integrity", "trash"],
+    "correctAnswer": "value",
+    "points": 10
+  },
+  {
+    "questionText": "_______ means being truthful and fair in all situations.",
+    "options": ["Integrity", "Curiosity", "Confidence", "Resilience"],
+    "correctAnswer": "Integrity",
+    "points": 10
+  },
+  {
+    "questionText": "To change 'depress' into an adjective, we add:",
+    "options": ["-ing", "-ness", "-tion", "-ment"],
+    "correctAnswer": "-ing",
+    "points": 10
+  },
+  {
+    "questionText": "What does 'identity map' mean?",
+    "options": ["A visual representation of who you are", "A map of a country", "A list of friends", "A plan for homework"],
+    "correctAnswer": "A visual representation of who you are",
+    "points": 10
+  },
+  {
+    "questionText": "The synonym of 'adjust' is:",
+    "options": ["Adapt", "Break", "Ignore", "Leave"],
+    "correctAnswer": "Adapt",
+    "points": 10
+  },
+  {
+    "questionText": "The antonym of 'depressing' is:",
+    "options": ["Encouraging", "Frustrating", "Sad", "Bad"],
+    "correctAnswer": "Encouraging",
+    "points": 10
+  },
+  {
+    "questionText": "Which suffix is used to make the adjective 'confident'?",
+    "options": ["-ent", "-ness", "-tion", "-ity"],
+    "correctAnswer": "-ent",
+    "points": 10
+  },
+  {
+    "questionText": "The word 'integrity' ends with which suffix?",
+    "options": ["-ity", "-tion", "-ness", "-ment"],
+    "correctAnswer": "-ity",
+    "points": 10
+  },
+  {
+    "questionText": "Which expression means 'a moment of self-reflection'?",
+    "options": ["Mirror moment", "Trash moment", "Game moment", "Sleep moment"],
+    "correctAnswer": "Mirror moment",
+    "points": 10
+  },
+  {
+    "questionText": "Nour stood in front of the mirror, _______ her blazer.",
+    "options": ["adjusting", "breaking", "losing", "finding"],
+    "correctAnswer": "adjusting",
+    "points": 10
+  },
+  {
+    "questionText": "Unlike the confident students, Nour kept to _______.",
+    "options": ["herself", "himself", "themselves", "itself"],
+    "correctAnswer": "herself",
+    "points": 10
+  },
+  {
+    "questionText": "Ms. Hanan introduced a project: 'Create your _______ Map'.",
+    "options": ["Identity", "School", "Home", "City"],
+    "correctAnswer": "Identity",
+    "points": 10
+  },
+  {
+    "questionText": "Nour showed that being _______ is a strength.",
+    "options": ["different", "same", "popular", "rich"],
+    "correctAnswer": "different",
+    "points": 10
+  },
+  {
+    "questionText": "Parents should be _______ to their children.",
+    "options": ["supportive", "dishonest", "unique", "selfish"],
+    "correctAnswer": "supportive",
+    "points": 10
+  },
+  {
+    "questionText": "Some young people want to be _______ and special.",
+    "options": ["unique", "selfish", "negative", "fair"],
+    "correctAnswer": "unique",
+    "points": 10
+  },
+  {
+    "questionText": "His _______ improved after scoring a goal.",
+    "options": ["confidence", "integrity", "explanation", "difference"],
+    "correctAnswer": "confidence",
+    "points": 10
+  },
+  {
+    "questionText": "It's better to _______ other's difference.",
+    "options": ["accept", "ignore", "hate", "dislike"],
+    "correctAnswer": "accept",
+    "points": 10
+  },
+  {
+    "questionText": "Everyone is _______ and special in their own way.",
+    "options": ["unique", "common", "normal", "same"],
+    "correctAnswer": "unique",
+    "points": 10
+  },
+  {
+    "questionText": "_______ helps us feel confident.",
+    "options": ["Self-discovery", "Dishonesty", "Fear", "Doubt"],
+    "correctAnswer": "Self-discovery",
+    "points": 10
+  },
+  {
+    "questionText": "Accepting yourself helps you improve your _______.",
+    "options": ["self-esteem", "fear", "anger", "sadness"],
+    "correctAnswer": "self-esteem",
+    "points": 10
+  },
+  {
+    "questionText": "_______ helps you face challenges.",
+    "options": ["Resilience", "Dishonesty", "Laziness", "Weakness"],
+    "correctAnswer": "Resilience",
+    "points": 10
+  },
+  {
+    "questionText": "Good teachers _______ their students.",
+    "options": ["support", "destroy", "ignore", "dislike"],
+    "correctAnswer": "support",
+    "points": 10
+  },
+  {
+    "questionText": "It's important to _______ with integrity.",
+    "options": ["act", "stay", "ignore", "sleep"],
+    "correctAnswer": "act",
+    "points": 10
+  },
+  {
+    "questionText": "If you stay true to yourself, people will _______ you.",
+    "options": ["respect", "dislike", "hate", "ignore"],
+    "correctAnswer": "respect",
+    "points": 10
+  },
+  {
+    "questionText": "When people feel accepted, their _______ grows.",
+    "options": ["confidence", "body", "hair", "anger"],
+    "correctAnswer": "confidence",
+    "points": 10
+  },
+  {
+    "questionText": "It's important to be kind and _______.",
+    "options": ["supportive", "unfriendly", "dishonest", "depressed"],
+    "correctAnswer": "supportive",
+    "points": 10
+  },
+  {
+    "questionText": "Kindness and honesty can _______ personal identity.",
+    "options": ["shape", "destroy", "hide", "lose"],
+    "correctAnswer": "shape",
+    "points": 10
+  },
+  {
+    "questionText": "You should be _______ to build trust with others.",
+    "options": ["honest", "depressed", "weak", "sad"],
+    "correctAnswer": "honest",
+    "points": 10
+  },
+  {
+    "questionText": "We _______ notes with others.",
+    "options": ["share", "receive", "take", "hide"],
+    "correctAnswer": "share",
+    "points": 10
+  },
+  {
+    "questionText": "Being _______ and kind makes a difference in life.",
+    "options": ["brave", "weak", "depressed", "sad"],
+    "correctAnswer": "brave",
+    "points": 10
+  },
+  {
+    "questionText": "A synonym for 'confident' is:",
+    "options": ["Trusted", "Doubtful", "Fearful", "Weak"],
+    "correctAnswer": "Trusted",
+    "points": 10
+  },
+  {
+    "questionText": "A synonym for 'unique' is:",
+    "options": ["Special", "Common", "Usual", "Normal"],
+    "correctAnswer": "Special",
+    "points": 10
+  },
+  {
+    "questionText": "The word 'resilience' is similar to:",
+    "options": ["Flexibility", "Hardness", "Rigidity", "Weakness"],
+    "correctAnswer": "Flexibility",
+    "points": 10
+  },
+  {
+    "questionText": "The phrase 'feel confident' translates to:",
+    "options": ["أشعر بالثقة", "أشعر بالحزن", "أشعر بالخوف", "أشعر بالضعف"],
+    "correctAnswer": "أشعر بالثقة",
+    "points": 10
+  },
+  {
+    "questionText": "To 'make a difference' means to:",
+    "options": ["Have a significant effect", "Do nothing", "Be the same", "Copy others"],
+    "correctAnswer": "Have a significant effect",
+    "points": 10
+  },
+  {
+    "questionText": "An antonym for 'respect' is:",
+    "options": ["Belittle", "Esteem", "Honor", "Value"],
+    "correctAnswer": "Belittle",
+    "points": 10
+  },
+  {
+    "questionText": "An antonym for 'improve' is:",
+    "options": ["Worsen", "Make better", "Enhance", "Develop"],
+    "correctAnswer": "Worsen",
+    "points": 10
+  },
+  {
+    "questionText": "To change 'support' into an adjective, we add:",
+    "options": ["-ive", "-tion", "-ment", "-ness"],
+    "correctAnswer": "-ive",
+    "points": 10
+  },
+  {
+    "questionText": "To change 'care' into an adjective, we add:",
+    "options": ["-ing", "-tion", "-ment", "-ity"],
+    "correctAnswer": "-ing",
+    "points": 10
+  },
+  {
+    "questionText": "The word 'honestly' is a/an:",
+    "options": ["Adverb", "Adjective", "Noun", "Verb"],
+    "correctAnswer": "Adverb",
+    "points": 10
+  },
+  {
+    "questionText": "She feels _______ about the test.",
+    "options": ["confident", "confidence", "confidently", "confide"],
+    "correctAnswer": "confident",
+    "points": 10
+  },
+  {
+    "questionText": "Everyone _______ unique in their own way.",
+    "options": ["is", "are", "were", "have"],
+    "correctAnswer": "is",
+    "points": 10
+  },
+  {
+    "questionText": "The word 'experience' as an uncountable noun means:",
+    "options": ["Skill or knowledge", "Events", "Experiments", "Tests"],
+    "correctAnswer": "Skill or knowledge",
+    "points": 10
+  },
+  {
+    "questionText": "Which word means 'showing care for others'?",
+    "options": ["Caring", "Careful", "Careless", "Scared"],
+    "correctAnswer": "Caring",
+    "points": 10
+  },
+  {
+    "questionText": "The word 'evidence' means:",
+    "options": ["Clue", "Clear", "Hidden", "Secret"],
+    "correctAnswer": "Clue",
+    "points": 10
+  },
+  {
+    "questionText": "The word 'trustful' means:",
+    "options": ["Having trust", "Being trusted", "Lying", "Doubting"],
+    "correctAnswer": "Having trust",
+    "points": 10
+  },
+  {
+    "questionText": "The word _______ to 'exotic' is like 'good' to 'positive'.",
+    "options": ["unique", "common", "usual", "normal"],
+    "correctAnswer": "unique",
+    "points": 10
+  },
+  {
+    "questionText": "The word 'care' is the antonym of _______.",
+    "options": ["neglect", "love", "support", "help"],
+    "correctAnswer": "neglect",
+    "points": 10
+  },
+  {
+    "questionText": "To change 'explain' into a noun we add:",
+    "options": ["-tion", "-ment", "-ness", "-ity"],
+    "correctAnswer": "-tion",
+    "points": 10
+  },
+  {
+    "questionText": "I need to _______ trust with others.",
+    "options": ["build", "break", "lose", "hide"],
+    "correctAnswer": "build",
+    "points": 10
+  },
+  {
+    "questionText": "The plan _______ a great difference.",
+    "options": ["made", "did", "said", "took"],
+    "correctAnswer": "made",
+    "points": 10
+  },
+  {
+    "questionText": "He gained much _______ through his work there.",
+    "options": ["experience", "experiments", "experiences", "expert"],
+    "correctAnswer": "experience",
+    "points": 10
+  },
+  {
+    "questionText": "Everyone _______ their opinions.",
+    "options": ["has shared", "have shared", "sharing", "share"],
+    "correctAnswer": "has shared",
+    "points": 10
+  },
+  {
+    "questionText": "He feels _______.",
+    "options": ["honest", "honestly", "honesty", "dishonesty"],
+    "correctAnswer": "honest",
+    "points": 10
+  },
+  {
+    "questionText": "All people respect Ali. He is so _______.",
+    "options": ["respected", "respectful", "respecting", "respect"],
+    "correctAnswer": "respected",
+    "points": 10
+  },
+  {
+    "questionText": "Hala and Omar agree that everyone is _______.",
+    "options": ["different", "same", "bad", "perfect"],
+    "correctAnswer": "different",
+    "points": 10
+  },
+  {
+    "questionText": "Self-discovery has helped Hala feel more _______.",
+    "options": ["confident", "sad", "angry", "weak"],
+    "correctAnswer": "confident",
+    "points": 10
+  },
+  {
+    "questionText": "Respecting personal identity means understanding we all have different _______.",
+    "options": ["experiences", "houses", "cars", "clothes"],
+    "correctAnswer": "experiences",
+    "points": 10
+  },
+  {
+    "questionText": "Salma learned that it's okay to be _______.",
+    "options": ["different", "same", "quiet", "loud"],
+    "correctAnswer": "different",
+    "points": 10
+  },
+  {
+    "questionText": "Geocaching is a special sort of outdoor _______.",
+    "options": ["treasure hunt", "sport", "class", "meal"],
+    "correctAnswer": "treasure hunt",
+    "points": 10
+  },
+  {
+    "questionText": "In geocaching, clues come from an _______ on your phone.",
+    "options": ["app", "book", "person", "map"],
+    "correctAnswer": "app",
+    "points": 10
+  },
+  {
+    "questionText": "Coordinates are pairs of _______.",
+    "options": ["numbers", "letters", "words", "pictures"],
+    "correctAnswer": "numbers",
+    "points": 10
+  },
+  {
+    "questionText": "A _______ sentence is a clear sentence about the main subject.",
+    "options": ["topic", "detailed", "concluding", "supporting"],
+    "correctAnswer": "topic",
+    "points": 10
+  },
+  {
+    "questionText": "The _______ sentence refers back to the topic sentence.",
+    "options": ["concluding", "topic", "first", "title"],
+    "correctAnswer": "concluding",
+    "points": 10
+  },
+  {
+    "questionText": "Have you _______ visited Aswan?",
+    "options": ["ever", "never", "yet", "since"],
+    "correctAnswer": "ever",
+    "points": 10
+  },
+  {
+    "questionText": "I've _______ travelled to London. (I am back now)",
+    "options": ["already", "yet", "ever", "never"],
+    "correctAnswer": "already",
+    "points": 10
+  },
+  {
+    "questionText": "Have you done homework _______? Well done.",
+    "options": ["already", "yet", "ever", "never"],
+    "correctAnswer": "already",
+    "points": 10
+  },
+  {
+    "questionText": "Thanks, I've _______ eaten.",
+    "options": ["just", "yet", "ever", "since"],
+    "correctAnswer": "just",
+    "points": 10
+  },
+  {
+    "questionText": "Real heroes play important roles in _______ their communities.",
+    "options": ["supporting", "destroying", "hating", "ignoring"],
+    "correctAnswer": "supporting",
+    "points": 10
+  },
+  {
+    "questionText": "We should respect the _______ farmer who works hard.",
+    "options": ["active", "lazy", "bad", "cruel"],
+    "correctAnswer": "active",
+    "points": 10
+  },
+  {
+    "questionText": "The _______ soldier is ready to die for his country.",
+    "options": ["brave", "coward", "weak", "fearful"],
+    "correctAnswer": "brave",
+    "points": 10
+  },
+  {
+    "questionText": "The clever doctor works day and night to fight _______.",
+    "options": ["diseases", "health", "happiness", "wealth"],
+    "correctAnswer": "diseases",
+    "points": 10
+  },
+  {
+    "questionText": "The honest teacher prepares his students for a better _______.",
+    "options": ["future", "past", "history", "meal"],
+    "correctAnswer": "future",
+    "points": 10
+  },
+  {
+    "questionText": "The new smartphone became _______ due to its good price.",
+    "options": ["popular", "unknown", "regular", "unpopular"],
+    "correctAnswer": "popular",
+    "points": 10
+  },
+  {
+    "questionText": "_______ means telling the truth.",
+    "options": ["Honest", "Curious", "Confident", "Trash"],
+    "correctAnswer": "Honest",
+    "points": 10
+  },
+  {
+    "questionText": "_______ means something that makes you feel sad.",
+    "options": ["Depressing", "Curious", "Confident", "Funny"],
+    "correctAnswer": "Depressing",
+    "points": 10
+  }
+]
+        }
+      ]
+    },
+    {
+      "id": "g3_u2",
+      "unitName": "Unit 2",
+      "icon": "ime.png",
+      "isFree": false,
+      "resources": [
+        {
+          "type": "pdf",
+          "title": "Unit PDF",
+          "url": "LINK_TO_PDF_HERE"
+        },
+        {
+          "type": "video",
+          "title": "Video Lesson",
+          "url": "LINK_TO_VIDEO_HERE"
+        },
+        {
+          "type": "quiz",
+          "title": "Unit Test",
+          "questions": [
+  {
+    "questionText": "What does 'misunderstanding' mean?",
+    "options": ["A strong connection", "Failure to understand correctly", "Sharing ideas", "Being famous"],
+    "correctAnswer": "Failure to understand correctly",
+    "points": 10
+  },
+  {
+    "questionText": "A _______ is a strong connection between people.",
+    "options": ["bond", "conflict", "mess", "fight"],
+    "correctAnswer": "bond",
+    "points": 10
+  },
+  {
+    "questionText": "To be _______ means showing care and regard for others.",
+    "options": ["selfish", "respectful", "rude", "distracted"],
+    "correctAnswer": "respectful",
+    "points": 10
+  },
+  {
+    "questionText": "Your _______ are your brothers and sisters.",
+    "options": ["parents", "siblings", "cousins", "friends"],
+    "correctAnswer": "siblings",
+    "points": 10
+  },
+  {
+    "questionText": "To _______ is to share thoughts or ideas.",
+    "options": ["communicate", "ignore", "hide", "sleep"],
+    "correctAnswer": "communicate",
+    "points": 10
+  },
+  {
+    "questionText": "_______ means giving help or encouragement.",
+    "options": ["Supportive", "Negative", "Passive", "Weak"],
+    "correctAnswer": "Supportive",
+    "points": 10
+  },
+  {
+    "questionText": "To _______ is to find a solution to a problem or conflict.",
+    "options": ["create", "resolve", "cause", "increase"],
+    "correctAnswer": "resolve",
+    "points": 10
+  },
+  {
+    "questionText": "Good communication is the _______ to strong relationships.",
+    "options": ["door", "key", "lock", "wall"],
+    "correctAnswer": "key",
+    "points": 10
+  },
+  {
+    "questionText": "The way we talk _______ our connection with others.",
+    "options": ["affects", "effects", "effective", "affection"],
+    "correctAnswer": "affects",
+    "points": 10
+  },
+  {
+    "questionText": "Communication includes our _______ of voice.",
+    "options": ["sound", "noise", "tone", "music"],
+    "correctAnswer": "tone",
+    "points": 10
+  },
+  {
+    "questionText": "_______ expressions show how we feel without words.",
+    "options": ["Facial", "Hand", "Leg", "Written"],
+    "correctAnswer": "Facial",
+    "points": 10
+  },
+  {
+    "questionText": "Using body _______ is part of communication.",
+    "options": ["parts", "language", "health", "care"],
+    "correctAnswer": "language",
+    "points": 10
+  },
+  {
+    "questionText": "Social media makes it easy to _______ in touch.",
+    "options": ["stay", "leave", "lose", "miss"],
+    "correctAnswer": "stay",
+    "points": 10
+  },
+  {
+    "questionText": "Messages are sometimes _______, leading to problems.",
+    "options": ["understood", "misunderstood", "clear", "correct"],
+    "correctAnswer": "misunderstood",
+    "points": 10
+  },
+  {
+    "questionText": "Miscommunication can lead to _______ or distance.",
+    "options": ["peace", "conflict", "love", "happiness"],
+    "correctAnswer": "conflict",
+    "points": 10
+  },
+  {
+    "questionText": "It is important to listen _______ to others.",
+    "options": ["carefully", "badly", "quickly", "loudly"],
+    "correctAnswer": "carefully",
+    "points": 10
+  },
+  {
+    "questionText": "Try to understand the other person's _______ of view.",
+    "options": ["point", "mark", "dot", "line"],
+    "correctAnswer": "point",
+    "points": 10
+  },
+  {
+    "questionText": "Being honest helps to _______ the bond between people.",
+    "options": ["break", "strengthen", "weaken", "cut"],
+    "correctAnswer": "strengthen",
+    "points": 10
+  },
+  {
+    "questionText": "The best way to resolve conflicts is through _______ discussion.",
+    "options": ["angry", "calm", "loud", "violent"],
+    "correctAnswer": "calm",
+    "points": 10
+  },
+  {
+    "questionText": "To 'sum up' means to _______.",
+    "options": ["start", "conclude", "continue", "argue"],
+    "correctAnswer": "conclude",
+    "points": 10
+  },
+  {
+    "questionText": "Which word is a synonym for 'connect'?",
+    "options": ["Separate", "Link", "Divide", "Ignore"],
+    "correctAnswer": "Link",
+    "points": 10
+  },
+  {
+    "questionText": "The antonym of 'respectful' is _______.",
+    "options": ["polite", "careful", "unrespectful", "honest"],
+    "correctAnswer": "unrespectful",
+    "points": 10
+  },
+  {
+    "questionText": "A synonym for 'supportive' is _______.",
+    "options": ["discouraging", "encouraging", "ignoring", "hating"],
+    "correctAnswer": "encouraging",
+    "points": 10
+  },
+  {
+    "questionText": "What is the antonym of 'close' (in relationships)?",
+    "options": ["Near", "Distant", "Tight", "Warm"],
+    "correctAnswer": "Distant",
+    "points": 10
+  },
+  {
+    "questionText": "The word 'active' is the opposite of _______.",
+    "options": ["energetic", "lazy", "busy", "lively"],
+    "correctAnswer": "lazy",
+    "points": 10
+  },
+  {
+    "questionText": "To change 'thought' into an adjective meaning 'caring', we add _______.",
+    "options": ["-ful", "-less", "-ing", "-ed"],
+    "correctAnswer": "-ful",
+    "points": 10
+  },
+  {
+    "questionText": "The suffix _______ turns 'expression' into an adjective.",
+    "options": ["-al", "-tion", "-ment", "-ness"],
+    "correctAnswer": "-al",
+    "points": 10
+  },
+  {
+    "questionText": "We add the prefix 'mis-' to 'understand' to mean _______.",
+    "options": ["understand well", "understand wrongly", "not understand", "understand again"],
+    "correctAnswer": "understand wrongly",
+    "points": 10
+  },
+  {
+    "questionText": "To _______ trust is to create confidence in a relationship.",
+    "options": ["build", "break", "lose", "drop"],
+    "correctAnswer": "build",
+    "points": 10
+  },
+  {
+    "questionText": "We should make time _______ our friends.",
+    "options": ["at", "to", "for", "on"],
+    "correctAnswer": "for",
+    "points": 10
+  },
+  {
+    "questionText": "It is better to talk face-_______-face.",
+    "options": ["in", "to", "at", "on"],
+    "correctAnswer": "to",
+    "points": 10
+  },
+  {
+    "questionText": "We need to stay in _______ with our family.",
+    "options": ["touch", "hold", "see", "look"],
+    "correctAnswer": "touch",
+    "points": 10
+  },
+  {
+    "questionText": "Social media helps us stay _______.",
+    "options": ["connected", "connect", "connecting", "connection"],
+    "correctAnswer": "connected",
+    "points": 10
+  },
+  {
+    "questionText": "She felt _______ when her friend didn't reply.",
+    "options": ["happy", "upset", "glad", "pleased"],
+    "correctAnswer": "upset",
+    "points": 10
+  },
+  {
+    "questionText": "_______ means the absence of sound.",
+    "options": ["Noise", "Silence", "Music", "Talk"],
+    "correctAnswer": "Silence",
+    "points": 10
+  },
+  {
+    "questionText": "_______ means uncomfortable or embarrassing.",
+    "options": ["Awkward", "Easy", "Nice", "Good"],
+    "correctAnswer": "Awkward",
+    "points": 10
+  },
+  {
+    "questionText": "A _______ is something that takes attention away.",
+    "options": ["focus", "distraction", "goal", "plan"],
+    "correctAnswer": "distraction",
+    "points": 10
+  },
+  {
+    "questionText": "He felt _______ because he couldn't solve the problem.",
+    "options": ["frustrated", "happy", "calm", "pleased"],
+    "correctAnswer": "frustrated",
+    "points": 10
+  },
+  {
+    "questionText": "A _______ gesture is one that has a deep importance.",
+    "options": ["meaningless", "meaningful", "silly", "funny"],
+    "correctAnswer": "meaningful",
+    "points": 10
+  },
+  {
+    "questionText": "To _______ is to build a relationship again.",
+    "options": ["disconnect", "reconnect", "break", "leave"],
+    "correctAnswer": "reconnect",
+    "points": 10
+  },
+  {
+    "questionText": "We use a _______ to eat food.",
+    "options": ["fork", "book", "pen", "car"],
+    "correctAnswer": "fork",
+    "points": 10
+  },
+  {
+    "questionText": "Their dinners were filled with _______ again.",
+    "options": ["tears", "laughter", "silence", "anger"],
+    "correctAnswer": "laughter",
+    "points": 10
+  },
+  {
+    "questionText": "A synonym for 'silence' is _______.",
+    "options": ["noise", "calmness", "shout", "sound"],
+    "correctAnswer": "calmness",
+    "points": 10
+  },
+  {
+    "questionText": "The antonym of 'distant' is _______.",
+    "options": ["far", "close", "remote", "away"],
+    "correctAnswer": "close",
+    "points": 10
+  },
+  {
+    "questionText": "To be 'frank' means to be _______.",
+    "options": ["open", "closed", "secret", "shy"],
+    "correctAnswer": "open",
+    "points": 10
+  },
+  {
+    "questionText": "We use the prefix 'dis-' to get the antonym of _______.",
+    "options": ["appear", "happy", "connect", "all mentioned"],
+    "correctAnswer": "all mentioned",
+    "points": 10
+  },
+  {
+    "questionText": "Instead _______ eating quietly, Omar spoke.",
+    "options": ["of", "off", "on", "in"],
+    "correctAnswer": "of",
+    "points": 10
+  },
+  {
+    "questionText": "Omar decided _______ try something different.",
+    "options": ["on", "at", "to", "for"],
+    "correctAnswer": "to",
+    "points": 10
+  },
+  {
+    "questionText": "We argued _______ small things.",
+    "options": ["over", "under", "in", "at"],
+    "correctAnswer": "over",
+    "points": 10
+  },
+  {
+    "questionText": "His father nodded _______ head.",
+    "options": ["her", "his", "their", "its"],
+    "correctAnswer": "his",
+    "points": 10
+  },
+  {
+    "questionText": "The room was filled _______ silence.",
+    "options": ["of", "with", "in", "by"],
+    "correctAnswer": "with",
+    "points": 10
+  },
+  {
+    "questionText": "If I _______ studied, I would have succeeded.",
+    "options": ["have", "had", "has", "having"],
+    "correctAnswer": "had",
+    "points": 10
+  },
+  {
+    "questionText": "If she had arrived early, she _______ the bus.",
+    "options": ["will catch", "would catch", "would have caught", "caught"],
+    "correctAnswer": "would have caught",
+    "points": 10
+  },
+  {
+    "questionText": "We would have lost if our team _______ scored.",
+    "options": ["hadn't", "hasn't", "didn't", "haven't"],
+    "correctAnswer": "hadn't",
+    "points": 10
+  },
+  {
+    "questionText": "What _______ if you had had money?",
+    "options": ["would you buy", "will you buy", "would you have bought", "did you buy"],
+    "correctAnswer": "would you have bought",
+    "points": 10
+  },
+  {
+    "questionText": "If I _______ you were coming, I would have waited.",
+    "options": ["know", "knew", "had known", "have known"],
+    "correctAnswer": "had known",
+    "points": 10
+  },
+  {
+    "questionText": "She _______ passed the exam if she had studied.",
+    "options": ["will have", "would have", "would has", "had"],
+    "correctAnswer": "would have",
+    "points": 10
+  },
+  {
+    "questionText": "If it _______ heavily, I wouldn't have gone out.",
+    "options": ["rains", "rained", "had rained", "has rained"],
+    "correctAnswer": "had rained",
+    "points": 10
+  },
+  {
+    "questionText": "I _______ have helped her if she had asked.",
+    "options": ["will", "can", "would", "may"],
+    "correctAnswer": "would",
+    "points": 10
+  },
+  {
+    "questionText": "If he had been taller, he _______ a basketball player.",
+    "options": ["would become", "will become", "would have become", "became"],
+    "correctAnswer": "would have become",
+    "points": 10
+  },
+  {
+    "questionText": "Correct the mistake: 'If I have money, I would have bought a car.'",
+    "options": ["had", "had had", "has", "having"],
+    "correctAnswer": "had had",
+    "points": 10
+  },
+  {
+    "questionText": "Correct the mistake: 'If you had studied you would succeed.'",
+    "options": ["will succeed", "would have succeeded", "succeeded", "succeeding"],
+    "correctAnswer": "would have succeeded",
+    "points": 10
+  },
+  {
+    "questionText": "Amal didn't come because she missed the bus. Rewrite using 'If'.",
+    "options": ["If Amal had come, she would have missed the bus.", "If Amal hadn't missed the bus, she would have come.", "If Amal didn't miss the bus, she came.", "If Amal misses the bus, she will come."],
+    "correctAnswer": "If Amal hadn't missed the bus, she would have come.",
+    "points": 10
+  },
+  {
+    "questionText": "Ali failed the test as he didn't study hard. Rewrite using 'If'.",
+    "options": ["If Ali had studied hard, he wouldn't have failed.", "If Ali studied hard, he wouldn't fail.", "If Ali studies hard, he won't fail.", "If Ali hadn't studied hard, he would have failed."],
+    "correctAnswer": "If Ali had studied hard, he wouldn't have failed.",
+    "points": 10
+  },
+  {
+    "questionText": "I would have bought a car if I had had money. This sentence expresses:",
+    "options": ["Future possibility", "Past regret/imaginary past", "Present habit", "General truth"],
+    "correctAnswer": "Past regret/imaginary past",
+    "points": 10
+  },
+  {
+    "questionText": "Communication isn't only about _______.",
+    "options": ["words", "silence", "food", "money"],
+    "correctAnswer": "words",
+    "points": 10
+  },
+  {
+    "questionText": "When people feel heard and respected, they are more likely to _______.",
+    "options": ["fight", "forgive", "leave", "shout"],
+    "correctAnswer": "forgive",
+    "points": 10
+  },
+  {
+    "questionText": "To 'move forward' in a relationship means to _______.",
+    "options": ["end it", "continue positively", "go back", "stop talking"],
+    "correctAnswer": "continue positively",
+    "points": 10
+  },
+  {
+    "questionText": "Mariam prefers to talk _______ when something is serious.",
+    "options": ["online", "face-to-face", "by text", "by email"],
+    "correctAnswer": "face-to-face",
+    "points": 10
+  },
+  {
+    "questionText": "Listening is just as important as _______.",
+    "options": ["eating", "sleeping", "talking", "running"],
+    "correctAnswer": "talking",
+    "points": 10
+  },
+  {
+    "questionText": "Omar pushed his food around with a _______.",
+    "options": ["spoon", "fork", "knife", "hand"],
+    "correctAnswer": "fork",
+    "points": 10
+  },
+  {
+    "questionText": "Omar's family communication had almost _______.",
+    "options": ["improved", "disappeared", "increased", "started"],
+    "correctAnswer": "disappeared",
+    "points": 10
+  },
+  {
+    "questionText": "Omar's mother said they had been too _______ to talk.",
+    "options": ["happy", "relaxed", "busy", "free"],
+    "correctAnswer": "busy",
+    "points": 10
+  },
+  {
+    "questionText": "That small act of communication helped them _______.",
+    "options": ["reconnect", "fight", "leave", "sleep"],
+    "correctAnswer": "reconnect",
+    "points": 10
+  },
+  {
+    "questionText": "Naglaa had a _______ with her cousin.",
+    "options": ["party", "misunderstanding", "trip", "game"],
+    "correctAnswer": "misunderstanding",
+    "points": 10
+  },
+  {
+    "questionText": "If Naglaa had communicated better, they _______ argued.",
+    "options": ["would have", "wouldn't have", "will have", "won't have"],
+    "correctAnswer": "wouldn't have",
+    "points": 10
+  },
+  {
+    "questionText": "Talking openly makes it easier to _______ the bond.",
+    "options": ["break", "rebuild", "lose", "hide"],
+    "correctAnswer": "rebuild",
+    "points": 10
+  },
+  {
+    "questionText": "The word 'tough' is similar in meaning to _______.",
+    "options": ["easy", "hard", "soft", "simple"],
+    "correctAnswer": "hard",
+    "points": 10
+  },
+  {
+    "questionText": "A 'proposal' is a _______.",
+    "options": ["rejection", "suggestion", "fight", "game"],
+    "correctAnswer": "suggestion",
+    "points": 10
+  },
+  {
+    "questionText": "We use _______ to emphasize a negative addition at the end of a sentence.",
+    "options": ["too", "either", "also", "neither"],
+    "correctAnswer": "either",
+    "points": 10
+  },
+  {
+    "questionText": "Don't argue _______ people who are stubborn.",
+    "options": ["to", "with", "at", "for"],
+    "correctAnswer": "with",
+    "points": 10
+  },
+  {
+    "questionText": "I avoid _______ with my friends.",
+    "options": ["misunderstanding", "misunderstand", "misunderstood", "understand"],
+    "correctAnswer": "misunderstanding",
+    "points": 10
+  },
+  {
+    "questionText": "The word 'courage' is a _______.",
+    "options": ["verb", "adjective", "noun", "adverb"],
+    "correctAnswer": "noun",
+    "points": 10
+  },
+  {
+    "questionText": "The adjective form of 'courage' is _______.",
+    "options": ["courageous", "encourage", "couraging", "couraged"],
+    "correctAnswer": "courageous",
+    "points": 10
+  },
+  {
+    "questionText": "Which word means 'feeling sure about your abilities'?",
+    "options": ["Confused", "Confident", "Shy", "Scared"],
+    "correctAnswer": "Confident",
+    "points": 10
+  },
+  {
+    "questionText": "To 'assist' means to _______.",
+    "options": ["help", "stop", "prevent", "harm"],
+    "correctAnswer": "help",
+    "points": 10
+  },
+  {
+    "questionText": "The 'elderly' are _______ people.",
+    "options": ["young", "old", "child", "baby"],
+    "correctAnswer": "old",
+    "points": 10
+  },
+  {
+    "questionText": "To 'recognize' means to _______.",
+    "options": ["ignore", "identify", "forget", "lose"],
+    "correctAnswer": "identify",
+    "points": 10
+  },
+  {
+    "questionText": "Creativity involves _______ new ideas.",
+    "options": ["copying", "innovating", "stealing", "hiding"],
+    "correctAnswer": "innovating",
+    "points": 10
+  },
+  {
+    "questionText": "Something 'powerful' is _______.",
+    "options": ["weak", "strong", "small", "tiny"],
+    "correctAnswer": "strong",
+    "points": 10
+  },
+  {
+    "questionText": "To 'involve' means to _______.",
+    "options": ["exclude", "include", "reject", "remove"],
+    "correctAnswer": "include",
+    "points": 10
+  },
+  {
+    "questionText": "I am able to _______ the problem.",
+    "options": ["solve", "solving", "solved", "solves"],
+    "correctAnswer": "solve",
+    "points": 10
+  },
+  {
+    "questionText": "I hear a lot _______ AI.",
+    "options": ["from", "about", "to", "at"],
+    "correctAnswer": "about",
+    "points": 10
+  },
+  {
+    "questionText": "Smart robots will be _______ to help in homes.",
+    "options": ["customized", "broken", "lost", "forgotten"],
+    "correctAnswer": "customized",
+    "points": 10
+  },
+  {
+    "questionText": "People will grow _______ to AI.",
+    "options": ["close", "closer", "closest", "closed"],
+    "correctAnswer": "closer",
+    "points": 10
+  },
+  {
+    "questionText": "What does 'bond' mean?",
+    "options": ["A connection", "A band", "A fight", "A game"],
+    "correctAnswer": "A connection",
+    "points": 10
+  },
+  {
+    "questionText": "A 'nephew' is the son of your _______.",
+    "options": ["brother or sister", "uncle", "aunt", "friend"],
+    "correctAnswer": "brother or sister",
+    "points": 10
+  },
+  {
+    "questionText": "A 'niece' is the daughter of your _______.",
+    "options": ["brother or sister", "uncle", "aunt", "friend"],
+    "correctAnswer": "brother or sister",
+    "points": 10
+  },
+  {
+    "questionText": "If we don't leave now, we won't _______ the train.",
+    "options": ["catch", "lose", "miss", "drop"],
+    "correctAnswer": "catch",
+    "points": 10
+  },
+  {
+    "questionText": "Honesty is the key _______ building strong relationships.",
+    "options": ["in", "to", "at", "on"],
+    "correctAnswer": "to",
+    "points": 10
+  },
+  {
+    "questionText": "What would have happened if you _______ your passport?",
+    "options": ["lose", "had lost", "have lost", "losing"],
+    "correctAnswer": "had lost",
+    "points": 10
+  },
+  {
+    "questionText": "Walaa _______ missed the bus if she hadn't woken up late.",
+    "options": ["wouldn't have", "would have", "will have", "won't have"],
+    "correctAnswer": "wouldn't have",
+    "points": 10
+  },
+  {
+    "questionText": "He showed _______ by speaking loudly.",
+    "options": ["courage", "fear", "shyness", "silence"],
+    "correctAnswer": "courage",
+    "points": 10
+  },
+  {
+    "questionText": "My proposal is to spend the weekend on the _______.",
+    "options": ["farm", "firm", "form", "frame"],
+    "correctAnswer": "farm",
+    "points": 10
+  },
+  {
+    "questionText": "People who are _______ are kind and friendly.",
+    "options": ["frank", "distant", "awkward", "dishonest"],
+    "correctAnswer": "frank",
+    "points": 10
+  },
+  {
+    "questionText": "I felt _______ after the defeat.",
+    "options": ["frustrated", "cheerful", "happy", "glad"],
+    "correctAnswer": "frustrated",
+    "points": 10
+  },
+  {
+    "questionText": "The story I have read is _______; it is important.",
+    "options": ["meaningful", "meaningless", "nonsense", "silly"],
+    "correctAnswer": "meaningful",
+    "points": 10
+  },
+  {
+    "questionText": "To change 'meaning' into an adjective, we add _______.",
+    "options": ["-ful", "-less", "-ness", "-tion"],
+    "correctAnswer": "-ful",
+    "points": 10
+  },
+  {
+    "questionText": "The word 'distract' can be an adjective by adding _______.",
+    "options": ["-ed", "-tion", "-ment", "-ness"],
+    "correctAnswer": "-ed",
+    "points": 10
+  },
+  {
+    "questionText": "To get the antonym of 'appear', we add the prefix _______.",
+    "options": ["dis-", "un-", "im-", "in-"],
+    "correctAnswer": "dis-",
+    "points": 10
+  },
+  {
+    "questionText": "She sat _______ the table for lunch.",
+    "options": ["at", "on", "in", "to"],
+    "correctAnswer": "at",
+    "points": 10
+  },
+  {
+    "questionText": "Sama used to _______ hard.",
+    "options": ["work", "working", "worked", "works"],
+    "correctAnswer": "work",
+    "points": 10
+  },
+  {
+    "questionText": "My phone is connected _______ electricity.",
+    "options": ["to", "with", "at", "by"],
+    "correctAnswer": "to",
+    "points": 10
+  },
+  {
+    "questionText": "Always _______ connected with your friends.",
+    "options": ["stay", "leave", "go", "move"],
+    "correctAnswer": "stay",
+    "points": 10
+  },
+  {
+    "questionText": "We need to _______ close relations.",
+    "options": ["build", "destroy", "break", "cut"],
+    "correctAnswer": "build",
+    "points": 10
+  },
+  {
+    "questionText": "Good communication _______ relations well.",
+    "options": ["affects", "effects", "affection", "effective"],
+    "correctAnswer": "affects",
+    "points": 10
+  },
+  {
+    "questionText": "I have good relations with all my family _______.",
+    "options": ["members", "organs", "parts", "items"],
+    "correctAnswer": "members",
+    "points": 10
+  },
+  {
+    "questionText": "Salt and sugar _______ in water.",
+    "options": ["dissolve", "resolve", "solve", "melt"],
+    "correctAnswer": "dissolve",
+    "points": 10
+  },
+  {
+    "questionText": "We should avoid _______ problems.",
+    "options": ["making", "solving", "fixing", "resolving"],
+    "correctAnswer": "making",
+    "points": 10
+  },
+  {
+    "questionText": "We argued _______ an important subject.",
+    "options": ["about", "with", "to", "for"],
+    "correctAnswer": "about",
+    "points": 10
+  },
+  {
+    "questionText": "What would you have done if you _______ missed the bus?",
+    "options": ["had", "have", "has", "having"],
+    "correctAnswer": "had",
+    "points": 10
+  },
+  {
+    "questionText": "If she _______ listened to her parents, she wouldn't have had this problem.",
+    "options": ["had", "has", "have", "having"],
+    "correctAnswer": "had",
+    "points": 10
+  },
+  {
+    "questionText": "The ground _______ wet if it had rained yesterday.",
+    "options": ["would have been", "will be", "is", "was"],
+    "correctAnswer": "would have been",
+    "points": 10
+  },
+  {
+    "questionText": "Adel would _______ to many countries if he had been a pilot.",
+    "options": ["have travelled", "travel", "travelled", "travelling"],
+    "correctAnswer": "have travelled",
+    "points": 10
+  },
+  {
+    "questionText": "If you _______ to my advice, you wouldn't have made that mistake.",
+    "options": ["had listened", "listened", "listen", "have listened"],
+    "correctAnswer": "had listened",
+    "points": 10
+  },
+  {
+    "questionText": "The synonym of 'reconnect' is _______.",
+    "options": ["communicate again", "disconnect", "separate", "divide"],
+    "correctAnswer": "communicate again",
+    "points": 10
+  },
+  {
+    "questionText": "The antonym of 'upset' is _______.",
+    "options": ["cheerful", "sad", "angry", "worried"],
+    "correctAnswer": "cheerful",
+    "points": 10
+  },
+  {
+    "questionText": "To get the antonym of 'understand', we add the prefix _______.",
+    "options": ["mis-", "dis-", "un-", "in-"],
+    "correctAnswer": "mis-",
+    "points": 10
+  },
+  {
+    "questionText": "Communication makes a big _______.",
+    "options": ["difference", "problem", "mistake", "noise"],
+    "correctAnswer": "difference",
+    "points": 10
+  },
+  {
+    "questionText": "We should stay _______ bad situations.",
+    "options": ["away from", "close to", "in", "on"],
+    "correctAnswer": "away from",
+    "points": 10
+  },
+  {
+    "questionText": "I'm glad to help you. The antonym of 'glad' is _______.",
+    "options": ["sad", "happy", "pleased", "delighted"],
+    "correctAnswer": "sad",
+    "points": 10
+  },
+  {
+    "questionText": "I couldn't find a _______ place to study quietly.",
+    "options": ["proper", "tough", "noisy", "busy"],
+    "correctAnswer": "proper",
+    "points": 10
+  },
+  {
+    "questionText": "If you hurt someone's feelings, you should _______.",
+    "options": ["apologize", "fight", "ignore", "laugh"],
+    "correctAnswer": "apologize",
+    "points": 10
+  },
+  {
+    "questionText": "If we had looked after our plants, they _______ faster.",
+    "options": ["would have grown", "will grow", "grow", "grew"],
+    "correctAnswer": "would have grown",
+    "points": 10
+  },
+  {
+    "questionText": "If they'd remembered the tickets, we _______ missed the show.",
+    "options": ["wouldn't have", "didn't have", "haven't", "won't have"],
+    "correctAnswer": "wouldn't have",
+    "points": 10
+  },
+  {
+    "questionText": "If she _______ her keys, she wouldn't have got back in time.",
+    "options": ["hadn't found", "has found", "finds", "found"],
+    "correctAnswer": "hadn't found",
+    "points": 10
+  },
+  {
+    "questionText": "If he _______ too much, he wouldn't have gone to hospital.",
+    "options": ["hadn't eaten", "hasn't eaten", "didn't eat", "doesn't eat"],
+    "correctAnswer": "hadn't eaten",
+    "points": 10
+  },
+  {
+    "questionText": "I _______ you if you hadn't traveled abroad.",
+    "options": ["would have met", "will meet", "meet", "met"],
+    "correctAnswer": "would have met",
+    "points": 10
+  },
+  {
+    "questionText": "Would Sara have finished the project if she _______ more time?",
+    "options": ["had had", "has had", "have had", "having"],
+    "correctAnswer": "had had",
+    "points": 10
+  },
+  {
+    "questionText": "He would have _______ the train if he had run faster.",
+    "options": ["caught", "catch", "catches", "catching"],
+    "correctAnswer": "caught",
+    "points": 10
+  },
+  {
+    "questionText": "Zeina showed _______ when she spoke at the student council meeting.",
+    "options": ["courage", "fear", "shyness", "hesitation"],
+    "correctAnswer": "courage",
+    "points": 10
+  },
+  {
+    "questionText": "Zeina wrote a _______ after she researched school gardens.",
+    "options": ["proposal", "story", "poem", "song"],
+    "correctAnswer": "proposal",
+    "points": 10
+  },
+  {
+    "questionText": "The young man felt hurt, but he showed _______ and continued.",
+    "options": ["resilience", "weakness", "sadness", "anger"],
+    "correctAnswer": "resilience",
+    "points": 10
+  },
+  {
+    "questionText": "To be emotionally or physically not close means to be _______.",
+    "options": ["distant", "near", "connected", "attached"],
+    "correctAnswer": "distant",
+    "points": 10
+  },
+  {
+    "questionText": "We need to _______ good communication with our family.",
+    "options": ["maintain", "destroy", "ignore", "avoid"],
+    "correctAnswer": "maintain",
+    "points": 10
+  },
+  {
+    "questionText": "It is important to _______ respect for everyone.",
+    "options": ["show", "hide", "lose", "break"],
+    "correctAnswer": "show",
+    "points": 10
+  },
+  {
+    "questionText": "Our conversation was _______; we understood each other.",
+    "options": ["meaningful", "useless", "boring", "long"],
+    "correctAnswer": "meaningful",
+    "points": 10
+  },
+  {
+    "questionText": "We should use a _______ tone of voice.",
+    "options": ["calm", "loud", "angry", "rude"],
+    "correctAnswer": "calm",
+    "points": 10
+  },
+  {
+    "questionText": "_______ helps us to solve problems quickly.",
+    "options": ["Understanding", "Fighting", "Ignoring", "Shouting"],
+    "correctAnswer": "Understanding",
+    "points": 10
+  },
+  {
+    "questionText": "We can _______ feelings through body language.",
+    "options": ["express", "hide", "lose", "forget"],
+    "correctAnswer": "express",
+    "points": 10
+  },
+  {
+    "questionText": "A _______ is a disagreement or argument.",
+    "options": ["conflict", "peace", "agreement", "harmony"],
+    "correctAnswer": "conflict",
+    "points": 10
+  },
+  {
+    "questionText": "To _______ is to say sorry.",
+    "options": ["apologize", "complain", "shout", "cry"],
+    "correctAnswer": "apologize",
+    "points": 10
+  },
+  {
+    "questionText": "_______ are things that stop you from focusing.",
+    "options": ["Distractions", "Books", "Lessons", "Goals"],
+    "correctAnswer": "Distractions",
+    "points": 10
+  },
+  {
+    "questionText": "If you are _______, you are not close to others.",
+    "options": ["distant", "social", "friendly", "kind"],
+    "correctAnswer": "distant",
+    "points": 10
+  },
+  {
+    "questionText": "We should treat everyone with _______.",
+    "options": ["respect", "anger", "hate", "fear"],
+    "correctAnswer": "respect",
+    "points": 10
+  },
+  {
+    "questionText": "My friend and I share a strong _______.",
+    "options": ["bond", "wall", "distance", "conflict"],
+    "correctAnswer": "bond",
+    "points": 10
+  },
+  {
+    "questionText": "Using technology helps us stay _______.",
+    "options": ["connected", "alone", "sad", "tired"],
+    "correctAnswer": "connected",
+    "points": 10
+  },
+  {
+    "questionText": "We should explain our _______ of view clearly.",
+    "options": ["point", "mark", "sign", "note"],
+    "correctAnswer": "point",
+    "points": 10
+  },
+  {
+    "questionText": "_______ creates stronger relationships.",
+    "options": ["Communication", "Silence", "Distance", "Anger"],
+    "correctAnswer": "Communication",
+    "points": 10
+  },
+  {
+    "questionText": "It takes _______ to say sorry.",
+    "options": ["courage", "fear", "time", "money"],
+    "correctAnswer": "courage",
+    "points": 10
+  },
+  {
+    "questionText": "If we had stayed close, life _______ been happier.",
+    "options": ["would have", "will have", "can have", "may have"],
+    "correctAnswer": "would have",
+    "points": 10
+  },
+  {
+    "questionText": "Zeina researched school gardens _______.",
+    "options": ["online", "offline", "in a book", "in a newspaper"],
+    "correctAnswer": "online",
+    "points": 10
+  },
+  {
+    "questionText": "Zeina felt _______ when she spoke at the meeting.",
+    "options": ["brave", "cowardly", "shy", "weak"],
+    "correctAnswer": "brave",
+    "points": 10
+  },
+  {
+    "questionText": "Proper communication can _______ almost anything.",
+    "options": ["fix", "break", "worsen", "destroy"],
+    "correctAnswer": "fix",
+    "points": 10
+  },
+  {
+    "questionText": "Misunderstandings might _______ in any relationship.",
+    "options": ["happen", "stop", "finish", "end"],
+    "correctAnswer": "happen",
+    "points": 10
+  },
+  {
+    "questionText": "Sharing true feelings doesn't make you _______.",
+    "options": ["weak", "strong", "brave", "happy"],
+    "correctAnswer": "weak",
+    "points": 10
+  },
+  {
+    "questionText": "It _______ courage to speak openly.",
+    "options": ["takes", "gives", "makes", "does"],
+    "correctAnswer": "takes",
+    "points": 10
+  },
+  {
+    "questionText": "If he _______ spoken openly, we would have solved it.",
+    "options": ["had", "has", "have", "having"],
+    "correctAnswer": "had",
+    "points": 10
+  },
+  {
+    "questionText": "Later, he apologized and everything _______ better.",
+    "options": ["got", "get", "getting", "gets"],
+    "correctAnswer": "got",
+    "points": 10
+  }
+]
+        }
+      ]
+    },
+    {
+      "id": "g3_u3",
+      "unitName": "Unit 3",
+      "icon": "ime.png",
+      "isFree": false,
+      "resources": [
+        {
+          "type": "pdf",
+          "title": "Unit PDF",
+          "url": "LINK_TO_PDF_HERE"
+        },
+        {
+          "type": "video",
+          "title": "Video Lesson",
+          "url": "LINK_TO_VIDEO_HERE"
+        },
+        {
+          "type": "quiz",
+          "title": "Unit Test",
+          "questions": [
+  {
+    "questionText": "What do the letters 'AI' stand for?",
+    "options": ["Artificial Intelligent", "Artificial Intelligence", "Artistic Intelligence", "Automated Information"],
+    "correctAnswer": "Artificial Intelligence",
+    "points": 10
+  },
+  {
+    "questionText": "A _______ is a machine that can move and do tasks.",
+    "options": ["human", "robot", "brain", "program"],
+    "correctAnswer": "robot",
+    "points": 10
+  },
+  {
+    "questionText": "_______ allows robots to make decisions and learn.",
+    "options": ["AI", "A battery", "A wheel", "A screen"],
+    "correctAnswer": "AI",
+    "points": 10
+  },
+  {
+    "questionText": "Robots with AI are used in _______ to help during surgery.",
+    "options": ["schools", "hospitals", "factories", "parks"],
+    "correctAnswer": "hospitals",
+    "points": 10
+  },
+  {
+    "questionText": "Robots can't truly understand _______ like humans.",
+    "options": ["math", "tasks", "emotions", "orders"],
+    "correctAnswer": "emotions",
+    "points": 10
+  },
+  {
+    "questionText": "Some writers use AI to write the first _______ of a story.",
+    "options": ["draft", "book", "cover", "paper"],
+    "correctAnswer": "draft",
+    "points": 10
+  },
+  {
+    "questionText": "AI learns by finding _______ in data.",
+    "options": ["colors", "patterns", "sounds", "errors"],
+    "correctAnswer": "patterns",
+    "points": 10
+  },
+  {
+    "questionText": "AI can be like a _______ artist, creating new images.",
+    "options": ["real", "virtual", "human", "lazy"],
+    "correctAnswer": "virtual",
+    "points": 10
+  },
+  {
+    "questionText": "To _______ means to make something better.",
+    "options": ["worsen", "enhance", "reduce", "destroy"],
+    "correctAnswer": "enhance",
+    "points": 10
+  },
+  {
+    "questionText": "_______ means invention and improvement.",
+    "options": ["Imitation", "Innovation", "Tradition", "Copying"],
+    "correctAnswer": "Innovation",
+    "points": 10
+  },
+  {
+    "questionText": "To _______ is to create and produce music or poetry.",
+    "options": ["compose", "diagnose", "predict", "solve"],
+    "correctAnswer": "compose",
+    "points": 10
+  },
+  {
+    "questionText": "Something _______ is very modern or developed.",
+    "options": ["ancient", "advanced", "basic", "simple"],
+    "correctAnswer": "advanced",
+    "points": 10
+  },
+  {
+    "questionText": "_______ are people (men, women, and children).",
+    "options": ["Robots", "Humans", "Machines", "Aliens"],
+    "correctAnswer": "Humans",
+    "points": 10
+  },
+  {
+    "questionText": "_______ are jobs or work people do.",
+    "options": ["Tasks", "Hobbies", "Fun", "Limits"],
+    "correctAnswer": "Tasks",
+    "points": 10
+  },
+  {
+    "questionText": "_______ is the way someone acts or responds.",
+    "options": ["Shape", "Behavior", "Color", "Size"],
+    "correctAnswer": "Behavior",
+    "points": 10
+  },
+  {
+    "questionText": "A synonym for 'artificial' is _______.",
+    "options": ["natural", "man-made", "real", "genuine"],
+    "correctAnswer": "man-made",
+    "points": 10
+  },
+  {
+    "questionText": "An antonym for 'advanced' is _______.",
+    "options": ["developed", "modern", "backward", "new"],
+    "correctAnswer": "backward",
+    "points": 10
+  },
+  {
+    "questionText": "The word 'incredible' is closest in meaning to _______.",
+    "options": ["fantastic", "terrible", "bad", "ugly"],
+    "correctAnswer": "fantastic",
+    "points": 10
+  },
+  {
+    "questionText": "The antonym of 'reduce' is _______.",
+    "options": ["decrease", "increase", "lessen", "cut"],
+    "correctAnswer": "increase",
+    "points": 10
+  },
+  {
+    "questionText": "To turn 'automate' into an adjective, we add _______.",
+    "options": ["-ing", "-tion", "-ment", "-ness"],
+    "correctAnswer": "-ing",
+    "points": 10
+  },
+  {
+    "questionText": "The noun 'replacement' comes from the verb _______.",
+    "options": ["place", "replace", "placing", "placed"],
+    "correctAnswer": "replace",
+    "points": 10
+  },
+  {
+    "questionText": "Which suffix forms the noun 'education'?",
+    "options": ["-ness", "-tion", "-ment", "-ity"],
+    "correctAnswer": "-tion",
+    "points": 10
+  },
+  {
+    "questionText": "AI can _______ diseases.",
+    "options": ["diagnose", "make", "build", "write"],
+    "correctAnswer": "diagnose",
+    "points": 10
+  },
+  {
+    "questionText": "Robots follow _______.",
+    "options": ["orders", "patterns", "dreams", "feelings"],
+    "correctAnswer": "orders",
+    "points": 10
+  },
+  {
+    "questionText": "We must _______ decisions carefully.",
+    "options": ["do", "make", "say", "tell"],
+    "correctAnswer": "make",
+    "points": 10
+  },
+  {
+    "questionText": "AI helps to _______ human errors.",
+    "options": ["increase", "reduce", "make", "create"],
+    "correctAnswer": "reduce",
+    "points": 10
+  },
+  {
+    "questionText": "Dad allowed me _______ his phone.",
+    "options": ["use", "using", "to use", "used"],
+    "correctAnswer": "to use",
+    "points": 10
+  },
+  {
+    "questionText": "AI makes life _______.",
+    "options": ["easy", "easily", "ease", "easier"],
+    "correctAnswer": "easy",
+    "points": 10
+  },
+  {
+    "questionText": "You should learn the _______ of AI.",
+    "options": ["base", "basics", "basis", "based"],
+    "correctAnswer": "basics",
+    "points": 10
+  },
+  {
+    "questionText": "Egypt is a _______ country.",
+    "options": ["develop", "developing", "development", "developer"],
+    "correctAnswer": "developing",
+    "points": 10
+  },
+  {
+    "questionText": "We will visit the factory. 'Factory' is a place where things are _______.",
+    "options": ["sold", "made", "bought", "grown"],
+    "correctAnswer": "made",
+    "points": 10
+  },
+  {
+    "questionText": "We need to _______ our English.",
+    "options": ["improve", "prove", "approve", "proof"],
+    "correctAnswer": "improve",
+    "points": 10
+  },
+  {
+    "questionText": "Nader _______ his phone tomorrow.",
+    "options": ["will change", "change", "changed", "changes"],
+    "correctAnswer": "will change",
+    "points": 10
+  },
+  {
+    "questionText": "We _______ driverless cars in the future.",
+    "options": ["use", "used", "will use", "using"],
+    "correctAnswer": "will use",
+    "points": 10
+  },
+  {
+    "questionText": "I expect Ali _______ the game.",
+    "options": ["win", "will win", "winning", "wins"],
+    "correctAnswer": "will win",
+    "points": 10
+  },
+  {
+    "questionText": "I hope Nadeen _______ her exams.",
+    "options": ["pass", "will pass", "passing", "passes"],
+    "correctAnswer": "will pass",
+    "points": 10
+  },
+  {
+    "questionText": "I think AI _______ in the future.",
+    "options": ["will be used", "will use", "uses", "used"],
+    "correctAnswer": "will be used",
+    "points": 10
+  },
+  {
+    "questionText": "A new school _______ next year.",
+    "options": ["will build", "will be built", "builds", "built"],
+    "correctAnswer": "will be built",
+    "points": 10
+  },
+  {
+    "questionText": "Big projects _______ in the next decade.",
+    "options": ["will create", "will be created", "create", "created"],
+    "correctAnswer": "will be created",
+    "points": 10
+  },
+  {
+    "questionText": "What _______ tomorrow?",
+    "options": ["will you do", "you will do", "will you doing", "do you will"],
+    "correctAnswer": "will you do",
+    "points": 10
+  },
+  {
+    "questionText": "I _______ travel to Aswan; I will travel to Luxor.",
+    "options": ["will", "won't", "don't", "didn't"],
+    "correctAnswer": "won't",
+    "points": 10
+  },
+  {
+    "questionText": "The car will _______ by a mechanic.",
+    "options": ["mend", "be mended", "mending", "mended"],
+    "correctAnswer": "be mended",
+    "points": 10
+  },
+  {
+    "questionText": "_______ AI be used in the future?",
+    "options": ["Is", "Will", "Does", "Has"],
+    "correctAnswer": "Will",
+    "points": 10
+  },
+  {
+    "questionText": "Tomorrow Adam _______ to you.",
+    "options": ["talk", "will talk", "talked", "talking"],
+    "correctAnswer": "will talk",
+    "points": 10
+  },
+  {
+    "questionText": "Where _______ your next vacation be spent?",
+    "options": ["will", "do", "are", "have"],
+    "correctAnswer": "will",
+    "points": 10
+  },
+  {
+    "questionText": "New factories _______ in 2030.",
+    "options": ["will build", "will be built", "built", "building"],
+    "correctAnswer": "will be built",
+    "points": 10
+  },
+  {
+    "questionText": "The homework _______ by the teacher.",
+    "options": ["will check", "will be checked", "checked", "checking"],
+    "correctAnswer": "will be checked",
+    "points": 10
+  },
+  {
+    "questionText": "The window _______ next week.",
+    "options": ["will repair", "won't be repaired", "repairing", "repairs"],
+    "correctAnswer": "won't be repaired",
+    "points": 10
+  },
+  {
+    "questionText": "She looks _______; she can't speak clearly.",
+    "options": ["confused", "shiny", "happy", "bright"],
+    "correctAnswer": "confused",
+    "points": 10
+  },
+  {
+    "questionText": "The result of the match was _______.",
+    "options": ["surprised", "surprising", "surprise", "surprises"],
+    "correctAnswer": "surprising",
+    "points": 10
+  },
+  {
+    "questionText": "I felt _______ when our team lost the match.",
+    "options": ["happy", "disappointed", "excited", "proud"],
+    "correctAnswer": "disappointed",
+    "points": 10
+  },
+  {
+    "questionText": "We usually ask local communities for _______.",
+    "options": ["donations", "climate", "weather", "air"],
+    "correctAnswer": "donations",
+    "points": 10
+  },
+  {
+    "questionText": "The teacher checked homework _______.",
+    "options": ["instantly", "instant", "instance", "later"],
+    "correctAnswer": "instantly",
+    "points": 10
+  },
+  {
+    "questionText": "_______ means without any delay.",
+    "options": ["Instantly", "Slowly", "Late", "Never"],
+    "correctAnswer": "Instantly",
+    "points": 10
+  },
+  {
+    "questionText": "To _______ is to change something to make it the way you want.",
+    "options": ["customize", "buy", "sell", "break"],
+    "correctAnswer": "customize",
+    "points": 10
+  },
+  {
+    "questionText": "An _______ is taking action without waiting for others.",
+    "options": ["initiative", "accident", "incident", "end"],
+    "correctAnswer": "initiative",
+    "points": 10
+  },
+  {
+    "questionText": "_______ is money or gifts given to help others.",
+    "options": ["Donation", "Debt", "Loan", "Tax"],
+    "correctAnswer": "Donation",
+    "points": 10
+  },
+  {
+    "questionText": "Farmers build a watering _______ to grow plants.",
+    "options": ["system", "problem", "idea", "thought"],
+    "correctAnswer": "system",
+    "points": 10
+  },
+  {
+    "questionText": "Certain plants grow in certain _______.",
+    "options": ["climate", "weather", "time", "hour"],
+    "correctAnswer": "climate",
+    "points": 10
+  },
+  {
+    "questionText": "We shouldn't give _______; you should have determination.",
+    "options": ["up", "in", "out", "off"],
+    "correctAnswer": "up",
+    "points": 10
+  },
+  {
+    "questionText": "The synonym of 'shiny' is _______.",
+    "options": ["bright", "dark", "cloudy", "gloomy"],
+    "correctAnswer": "bright",
+    "points": 10
+  },
+  {
+    "questionText": "The antonym of 'confused' is _______.",
+    "options": ["calm", "puzzled", "worried", "lost"],
+    "correctAnswer": "calm",
+    "points": 10
+  },
+  {
+    "questionText": "We need to care _______ our health.",
+    "options": ["for", "at", "in", "on"],
+    "correctAnswer": "for",
+    "points": 10
+  },
+  {
+    "questionText": "Nada was sitting _______ the front row.",
+    "options": ["in", "at", "on", "to"],
+    "correctAnswer": "at",
+    "points": 10
+  },
+  {
+    "questionText": "I will _______ after I finish my task.",
+    "options": ["quit", "quiet", "quite", "quietly"],
+    "correctAnswer": "quit",
+    "points": 10
+  },
+  {
+    "questionText": "Robots can't _______ man completely.",
+    "options": ["replace", "place", "placed", "placing"],
+    "correctAnswer": "replace",
+    "points": 10
+  },
+  {
+    "questionText": "Local communities should help. 'Local' means _______.",
+    "options": ["national", "international", "global", "foreign"],
+    "correctAnswer": "national",
+    "points": 10
+  },
+  {
+    "questionText": "Sara walked into her classroom and saw something _______.",
+    "options": ["surprising", "ordinary", "boring", "usual"],
+    "correctAnswer": "surprising",
+    "points": 10
+  },
+  {
+    "questionText": "The robot teacher said lessons would be _______.",
+    "options": ["customized", "random", "hard", "boring"],
+    "correctAnswer": "customized",
+    "points": 10
+  },
+  {
+    "questionText": "The students _______ their real teacher.",
+    "options": ["missed", "hated", "forgot", "left"],
+    "correctAnswer": "missed",
+    "points": 10
+  },
+  {
+    "questionText": "We understand that AI can't _______ replace humans.",
+    "options": ["completely", "hardly", "never", "scarcely"],
+    "correctAnswer": "completely",
+    "points": 10
+  },
+  {
+    "questionText": "The teacher gave us helpful _______.",
+    "options": ["feedback", "food", "back", "pack"],
+    "correctAnswer": "feedback",
+    "points": 10
+  },
+  {
+    "questionText": "A party _______ by the school next Friday.",
+    "options": ["will be held", "will hold", "held", "holding"],
+    "correctAnswer": "will be held",
+    "points": 10
+  },
+  {
+    "questionText": "A new bridge _______ over the river next year.",
+    "options": ["will be built", "will build", "built", "building"],
+    "correctAnswer": "will be built",
+    "points": 10
+  },
+  {
+    "questionText": "The winning team will _______ medals.",
+    "options": ["be given", "give", "giving", "gave"],
+    "correctAnswer": "be given",
+    "points": 10
+  },
+  {
+    "questionText": "Will all the questions _______?",
+    "options": ["be answered", "answer", "answering", "answered"],
+    "correctAnswer": "be answered",
+    "points": 10
+  },
+  {
+    "questionText": "To 'assist' means to _______.",
+    "options": ["help", "leave", "ignore", "stop"],
+    "correctAnswer": "help",
+    "points": 10
+  },
+  {
+    "questionText": "Doing exercise makes you _______ and fit.",
+    "options": ["powerful", "weak", "lazy", "tired"],
+    "correctAnswer": "powerful",
+    "points": 10
+  },
+  {
+    "questionText": "AI has become _______ these days.",
+    "options": ["advanced", "old", "slow", "weak"],
+    "correctAnswer": "advanced",
+    "points": 10
+  },
+  {
+    "questionText": "Robots will be _______ used in the future.",
+    "options": ["safely", "safety", "safe", "save"],
+    "correctAnswer": "safely",
+    "points": 10
+  },
+  {
+    "questionText": "AI will improve to _______ emotions.",
+    "options": ["recognize", "ignore", "forget", "lose"],
+    "correctAnswer": "recognize",
+    "points": 10
+  },
+  {
+    "questionText": "We should use technology _______.",
+    "options": ["carefully", "careless", "badly", "wrongly"],
+    "correctAnswer": "carefully",
+    "points": 10
+  },
+  {
+    "questionText": "Although AI is _______, it can be controlled by humans.",
+    "options": ["powerful", "weak", "small", "tiny"],
+    "correctAnswer": "powerful",
+    "points": 10
+  },
+  {
+    "questionText": "AI will _______ our future.",
+    "options": ["change", "destroy", "stop", "end"],
+    "correctAnswer": "change",
+    "points": 10
+  },
+  {
+    "questionText": "In the future, AI will be _______ by humans.",
+    "options": ["controlled", "forgotten", "lost", "broken"],
+    "correctAnswer": "controlled",
+    "points": 10
+  },
+  {
+    "questionText": "A synonym for 'assist' is _______.",
+    "options": ["support", "abandon", "leave", "neglect"],
+    "correctAnswer": "support",
+    "points": 10
+  },
+  {
+    "questionText": "The antonym of 'elderly' is _______.",
+    "options": ["young", "old", "aged", "ancient"],
+    "correctAnswer": "young",
+    "points": 10
+  },
+  {
+    "questionText": "The word 'creativity' is a/an _______.",
+    "options": ["noun", "verb", "adjective", "adverb"],
+    "correctAnswer": "noun",
+    "points": 10
+  },
+  {
+    "questionText": "The suffix '-ful' makes the word 'power' into a/an _______.",
+    "options": ["adjective", "noun", "verb", "adverb"],
+    "correctAnswer": "adjective",
+    "points": 10
+  },
+  {
+    "questionText": "We can add '-ly' to 'careful' to make it an _______.",
+    "options": ["adverb", "adjective", "noun", "verb"],
+    "correctAnswer": "adverb",
+    "points": 10
+  },
+  {
+    "questionText": "I am able _______ the AI.",
+    "options": ["to use", "use", "using", "used"],
+    "correctAnswer": "to use",
+    "points": 10
+  },
+  {
+    "questionText": "I hear a lot _______ AI.",
+    "options": ["about", "to", "with", "at"],
+    "correctAnswer": "about",
+    "points": 10
+  },
+  {
+    "questionText": "Smart robots will be customized _______ in homes.",
+    "options": ["to help", "help", "helping", "helped"],
+    "correctAnswer": "to help",
+    "points": 10
+  },
+  {
+    "questionText": "People will grow _______ to AI.",
+    "options": ["closer", "close", "closed", "closing"],
+    "correctAnswer": "closer",
+    "points": 10
+  },
+  {
+    "questionText": "Don't forget to send the email. The antonym of 'forget' is _______.",
+    "options": ["remember", "remind", "lose", "miss"],
+    "correctAnswer": "remember",
+    "points": 10
+  },
+  {
+    "questionText": "AI rarely _______ mistakes.",
+    "options": ["makes", "does", "says", "tells"],
+    "correctAnswer": "makes",
+    "points": 10
+  },
+  {
+    "questionText": "AI is _______ new medicines.",
+    "options": ["discovering", "inventing", "making", "doing"],
+    "correctAnswer": "discovering",
+    "points": 10
+  },
+  {
+    "questionText": "Technology helps _______ good job chances.",
+    "options": ["create", "destroy", "lose", "miss"],
+    "correctAnswer": "create",
+    "points": 10
+  },
+  {
+    "questionText": "Robots will _______ emotions in the future.",
+    "options": ["recognize", "ignore", "forget", "lose"],
+    "correctAnswer": "recognize",
+    "points": 10
+  },
+  {
+    "questionText": "I enjoy reading _______ because it has beautiful words.",
+    "options": ["poetry", "science", "math", "history"],
+    "correctAnswer": "poetry",
+    "points": 10
+  },
+  {
+    "questionText": "She will _______ help us if we ask her kindly.",
+    "options": ["definitely", "never", "rarely", "hardly"],
+    "correctAnswer": "definitely",
+    "points": 10
+  },
+  {
+    "questionText": "She _______ the rules before the test tomorrow.",
+    "options": ["will explain", "explains", "explained", "explaining"],
+    "correctAnswer": "will explain",
+    "points": 10
+  },
+  {
+    "questionText": "The students _______ the essay at home next week.",
+    "options": ["will write", "wrote", "writing", "writes"],
+    "correctAnswer": "will write",
+    "points": 10
+  },
+  {
+    "questionText": "We _______ a new movie soon.",
+    "options": ["will watch", "watched", "watching", "watch"],
+    "correctAnswer": "will watch",
+    "points": 10
+  },
+  {
+    "questionText": "The medicine _______ after meals tomorrow.",
+    "options": ["will be taken", "will take", "takes", "took"],
+    "correctAnswer": "will be taken",
+    "points": 10
+  },
+  {
+    "questionText": "The documents _______ to the manager tomorrow.",
+    "options": ["will be sent", "will send", "sent", "sending"],
+    "correctAnswer": "will be sent",
+    "points": 10
+  },
+  {
+    "questionText": "The new mall _______ next year.",
+    "options": ["will be built", "built", "building", "builds"],
+    "correctAnswer": "will be built",
+    "points": 10
+  },
+  {
+    "questionText": "The car _______ by the mechanic next Monday.",
+    "options": ["will be fixed", "will fix", "fixed", "fixing"],
+    "correctAnswer": "will be fixed",
+    "points": 10
+  },
+  {
+    "questionText": "The test _______ by the teacher soon.",
+    "options": ["will be prepared", "will prepare", "prepared", "preparing"],
+    "correctAnswer": "will be prepared",
+    "points": 10
+  },
+  {
+    "questionText": "Many people think robots and AI are the _______.",
+    "options": ["same", "different", "opposite", "far"],
+    "correctAnswer": "same",
+    "points": 10
+  },
+  {
+    "questionText": "AI is the _______ that can go inside a robot.",
+    "options": ["brain", "heart", "leg", "arm"],
+    "correctAnswer": "brain",
+    "points": 10
+  },
+  {
+    "questionText": "A robot vacuum cleaner can learn the _______ of your room.",
+    "options": ["shape", "color", "smell", "taste"],
+    "correctAnswer": "shape",
+    "points": 10
+  },
+  {
+    "questionText": "Without AI, the robot can only follow _______ orders.",
+    "options": ["basic", "complex", "hard", "smart"],
+    "correctAnswer": "basic",
+    "points": 10
+  },
+  {
+    "questionText": "Making smart robots can be very _______.",
+    "options": ["expensive", "cheap", "free", "easy"],
+    "correctAnswer": "expensive",
+    "points": 10
+  },
+  {
+    "questionText": "Not all AI is in _______.",
+    "options": ["robots", "computers", "phones", "books"],
+    "correctAnswer": "robots",
+    "points": 10
+  },
+  {
+    "questionText": "AI uses a special _______ to turn words into images.",
+    "options": ["algorithm", "camera", "pen", "paper"],
+    "correctAnswer": "algorithm",
+    "points": 10
+  },
+  {
+    "questionText": "Adham says AI learns by studying thousands of _______ songs.",
+    "options": ["human-made", "robot-made", "alien", "animal"],
+    "correctAnswer": "human-made",
+    "points": 10
+  },
+  {
+    "questionText": "Lina asks if AI can feel _______.",
+    "options": ["emotions", "pain", "hunger", "thirst"],
+    "correctAnswer": "emotions",
+    "points": 10
+  },
+  {
+    "questionText": "Deliveries will be made by _______.",
+    "options": ["drones", "birds", "planes", "kites"],
+    "correctAnswer": "drones",
+    "points": 10
+  },
+  {
+    "questionText": "Information will be _______ by special programs.",
+    "options": ["protected", "lost", "broken", "sold"],
+    "correctAnswer": "protected",
+    "points": 10
+  },
+  {
+    "questionText": "Some people think mistakes will be made if humans are not _______.",
+    "options": ["involved", "absent", "away", "asleep"],
+    "correctAnswer": "involved",
+    "points": 10
+  },
+  {
+    "questionText": "Rules will be created so AI is used _______.",
+    "options": ["safely", "badly", "wrongly", "dangerously"],
+    "correctAnswer": "safely",
+    "points": 10
+  },
+  {
+    "questionText": "AI must be controlled by humans' _______.",
+    "options": ["creativity", "laziness", "fear", "anger"],
+    "correctAnswer": "creativity",
+    "points": 10
+  },
+  {
+    "questionText": "Heavy clothes protect us _______ cold weather.",
+    "options": ["from", "of", "to", "at"],
+    "correctAnswer": "from",
+    "points": 10
+  },
+  {
+    "questionText": "Showing our _______ can help others understand us.",
+    "options": ["emotions", "money", "cars", "houses"],
+    "correctAnswer": "emotions",
+    "points": 10
+  },
+  {
+    "questionText": "He won a prize for his _______ in clean energy.",
+    "options": ["innovation", "imitation", "copying", "stealing"],
+    "correctAnswer": "innovation",
+    "points": 10
+  },
+  {
+    "questionText": "The problem _______ soon.",
+    "options": ["will be solved", "will solve", "solves", "solved"],
+    "correctAnswer": "will be solved",
+    "points": 10
+  },
+  {
+    "questionText": "Lunch _______ by the hotel staff tomorrow.",
+    "options": ["will be served", "will serve", "serves", "served"],
+    "correctAnswer": "will be served",
+    "points": 10
+  },
+  {
+    "questionText": "The synonym of 'confused' is _______.",
+    "options": ["puzzled", "clear", "sure", "certain"],
+    "correctAnswer": "puzzled",
+    "points": 10
+  },
+  {
+    "questionText": "The word 'motivated' means having a _______.",
+    "options": ["reason", "pain", "fear", "sleep"],
+    "correctAnswer": "reason",
+    "points": 10
+  },
+  {
+    "questionText": "To 'quit' means to _______ doing something.",
+    "options": ["stop", "start", "begin", "continue"],
+    "correctAnswer": "stop",
+    "points": 10
+  },
+  {
+    "questionText": "AI can help students _______ new languages.",
+    "options": ["learn", "forget", "lose", "break"],
+    "correctAnswer": "learn",
+    "points": 10
+  },
+  {
+    "questionText": "We need to care _______ the environment.",
+    "options": ["for", "at", "in", "on"],
+    "correctAnswer": "for",
+    "points": 10
+  },
+  {
+    "questionText": "The weather was _______; the sun was shining.",
+    "options": ["shiny", "rainy", "cloudy", "stormy"],
+    "correctAnswer": "shiny",
+    "points": 10
+  },
+  {
+    "questionText": "Zeina showed _______ by creating the garden.",
+    "options": ["initiative", "fear", "laziness", "doubt"],
+    "correctAnswer": "initiative",
+    "points": 10
+  },
+  {
+    "questionText": "The garden project started with an _______.",
+    "options": ["idea", "accident", "error", "end"],
+    "correctAnswer": "idea",
+    "points": 10
+  },
+  {
+    "questionText": "Zeina felt _______ when the plants died.",
+    "options": ["disappointed", "happy", "excited", "proud"],
+    "correctAnswer": "disappointed",
+    "points": 10
+  },
+  {
+    "questionText": "Instead of _______, Zeina tried again.",
+    "options": ["quitting", "winning", "succeeding", "starting"],
+    "correctAnswer": "quitting",
+    "points": 10
+  },
+  {
+    "questionText": "The team worked with _______ to fix the garden.",
+    "options": ["determination", "fear", "anger", "sadness"],
+    "correctAnswer": "determination",
+    "points": 10
+  },
+  {
+    "questionText": "They used _______ fertilizers.",
+    "options": ["natural", "chemical", "harmful", "bad"],
+    "correctAnswer": "natural",
+    "points": 10
+  },
+  {
+    "questionText": "The garden became a _______ of success.",
+    "options": ["symbol", "problem", "waste", "loss"],
+    "correctAnswer": "symbol",
+    "points": 10
+  },
+  {
+    "questionText": "Zeina became the student council _______.",
+    "options": ["president", "cleaner", "visitor", "enemy"],
+    "correctAnswer": "president",
+    "points": 10
+  },
+  {
+    "questionText": "Real leadership involves _______ others.",
+    "options": ["helping", "ignoring", "hurting", "stopping"],
+    "correctAnswer": "helping",
+    "points": 10
+  },
+  {
+    "questionText": "Small ideas can lead to _______ changes.",
+    "options": ["big", "small", "tiny", "no"],
+    "correctAnswer": "big",
+    "points": 10
+  },
+  {
+    "questionText": "Zeina learned that growth happens in _______ too.",
+    "options": ["people", "rocks", "walls", "cars"],
+    "correctAnswer": "people",
+    "points": 10
+  },
+  {
+    "questionText": "What helps us solve problems?",
+    "options": ["Teamwork", "Fighting", "Sleeping", "Eating"],
+    "correctAnswer": "Teamwork",
+    "points": 10
+  },
+  {
+    "questionText": "A leader should not _______ others for mistakes.",
+    "options": ["blame", "praise", "thank", "help"],
+    "correctAnswer": "blame",
+    "points": 10
+  },
+  {
+    "questionText": "Using eco-friendly methods helps protect the _______.",
+    "options": ["environment", "house", "car", "money"],
+    "correctAnswer": "environment",
+    "points": 10
+  },
+  {
+    "questionText": "Zeina was _______ about how the money would be used.",
+    "options": ["honest", "dishonest", "secretive", "quiet"],
+    "correctAnswer": "honest",
+    "points": 10
+  },
+  {
+    "questionText": "We should _______ our mistakes.",
+    "options": ["learn from", "repeat", "ignore", "love"],
+    "correctAnswer": "learn from",
+    "points": 10
+  },
+  {
+    "questionText": "The garden was _______ by vegetables.",
+    "options": ["surrounded", "covered", "filled", "made"],
+    "correctAnswer": "surrounded",
+    "points": 10
+  },
+  {
+    "questionText": "The students felt _______ of their work.",
+    "options": ["proud", "shameful", "sad", "angry"],
+    "correctAnswer": "proud",
+    "points": 10
+  },
+  {
+    "questionText": "To 'innovate' is to _______ something new.",
+    "options": ["create", "destroy", "break", "stop"],
+    "correctAnswer": "create",
+    "points": 10
+  },
+  {
+    "questionText": "The future with AI will be _______.",
+    "options": ["interesting", "boring", "bad", "dark"],
+    "correctAnswer": "interesting",
+    "points": 10
+  },
+  {
+    "questionText": "Robots can _______ tasks.",
+    "options": ["automate", "feel", "think", "love"],
+    "correctAnswer": "automate",
+    "points": 10
+  },
+  {
+    "questionText": "Personalizing learning means customizing it for each _______.",
+    "options": ["student", "robot", "class", "school"],
+    "correctAnswer": "student",
+    "points": 10
+  },
+  {
+    "questionText": "AI can analyze data to find _______.",
+    "options": ["patterns", "friends", "food", "toys"],
+    "correctAnswer": "patterns",
+    "points": 10
+  },
+  {
+    "questionText": "We must ensure AI is _______.",
+    "options": ["safe", "dangerous", "bad", "evil"],
+    "correctAnswer": "safe",
+    "points": 10
+  },
+  {
+    "questionText": "A robot _______ cleaner helps in the house.",
+    "options": ["vacuum", "wash", "cook", "play"],
+    "correctAnswer": "vacuum",
+    "points": 10
+  },
+  {
+    "questionText": "AI can improve customer _______.",
+    "options": ["service", "servant", "serve", "serving"],
+    "correctAnswer": "service",
+    "points": 10
+  },
+  {
+    "questionText": "Self-driving cars are _______ cars.",
+    "options": ["driverless", "flying", "broken", "old"],
+    "correctAnswer": "driverless",
+    "points": 10
+  },
+  {
+    "questionText": "AI helps robots change their _______ based on learning.",
+    "options": ["behavior", "color", "name", "price"],
+    "correctAnswer": "behavior",
+    "points": 10
+  },
+  {
+    "questionText": "Robots can bring _______ to patients.",
+    "options": ["medicine", "pizza", "games", "homework"],
+    "correctAnswer": "medicine",
+    "points": 10
+  },
+  {
+    "questionText": "In schools, robots can help with _______ problems.",
+    "options": ["math", "life", "family", "sleep"],
+    "correctAnswer": "math",
+    "points": 10
+  },
+  {
+    "questionText": "Robots often need _______ to program them.",
+    "options": ["humans", "animals", "plants", "rocks"],
+    "correctAnswer": "humans",
+    "points": 10
+  },
+  {
+    "questionText": "The word 'virtual' relates to _______.",
+    "options": ["computers", "nature", "space", "water"],
+    "correctAnswer": "computers",
+    "points": 10
+  },
+  {
+    "questionText": "AI can write _______.",
+    "options": ["poems", "food", "clothes", "shoes"],
+    "correctAnswer": "poems",
+    "points": 10
+  },
+  {
+    "questionText": "AI finds patterns in human-made _______.",
+    "options": ["art", "cars", "trees", "sky"],
+    "correctAnswer": "art",
+    "points": 10
+  },
+  {
+    "questionText": "Will you _______ the zoo?",
+    "options": ["visit", "visited", "visiting", "visits"],
+    "correctAnswer": "visit",
+    "points": 10
+  },
+  {
+    "questionText": "Next week, we _______ to the beach.",
+    "options": ["will go", "went", "go", "gone"],
+    "correctAnswer": "will go",
+    "points": 10
+  },
+  {
+    "questionText": "The house _______ by the workers.",
+    "options": ["will be painted", "will paint", "paints", "painted"],
+    "correctAnswer": "will be painted",
+    "points": 10
+  },
+  {
+    "questionText": "The homework _______ tomorrow.",
+    "options": ["will be done", "will do", "does", "did"],
+    "correctAnswer": "will be done",
+    "points": 10
+  },
+  {
+    "questionText": "The letters _______ next month.",
+    "options": ["will be sent", "will send", "sent", "sending"],
+    "correctAnswer": "will be sent",
+    "points": 10
+  },
+  {
+    "questionText": "The party _______ next Friday.",
+    "options": ["will be organized", "will organize", "organized", "organizes"],
+    "correctAnswer": "will be organized",
+    "points": 10
+  },
+  {
+    "questionText": "The winner _______ a prize.",
+    "options": ["will be given", "will give", "giving", "gave"],
+    "correctAnswer": "will be given",
+    "points": 10
+  },
+  {
+    "questionText": "Will the game _______?",
+    "options": ["be played", "play", "playing", "played"],
+    "correctAnswer": "be played",
+    "points": 10
+  },
+  {
+    "questionText": "The food _______ soon.",
+    "options": ["will be cooked", "will cook", "cooks", "cooked"],
+    "correctAnswer": "will be cooked",
+    "points": 10
+  },
+  {
+    "questionText": "A new road _______ here.",
+    "options": ["will be built", "will build", "builds", "built"],
+    "correctAnswer": "will be built",
+    "points": 10
+  },
+  {
+    "questionText": "The book _______ by millions.",
+    "options": ["will be read", "will read", "reads", "reading"],
+    "correctAnswer": "will be read",
+    "points": 10
+  },
+  {
+    "questionText": "The problem _______ by the expert.",
+    "options": ["will be solved", "will solve", "solves", "solved"],
+    "correctAnswer": "will be solved",
+    "points": 10
+  },
+  {
+    "questionText": "The computer _______ tomorrow.",
+    "options": ["will be fixed", "will fix", "fixed", "fixing"],
+    "correctAnswer": "will be fixed",
+    "points": 10
+  }
+]
+        }
+      ]
+    },
+    {
+      "id": "g3_u4",
+      "unitName": "Unit 4",
+      "icon": "ime.png",
+      "isFree": false,
+      "resources": [
+        {
+          "type": "pdf",
+          "title": "Unit PDF",
+          "url": "LINK_TO_PDF_HERE"
+        },
+        {
+          "type": "video",
+          "title": "Video Lesson",
+          "url": "LINK_TO_VIDEO_HERE"
+        },
+        {
+          "type": "quiz",
+          "title": "Unit Test",
+          "questions": [
+  {
+    "questionText": "What does 'screen time' mean?",
+    "options": ["Time spent sleeping", "Time spent looking at a screen", "Time spent playing outside", "Time spent eating"],
+    "correctAnswer": "Time spent looking at a screen",
+    "points": 10
+  },
+  {
+    "questionText": "An _______ is a person who knows a lot about a subject.",
+    "options": ["expert", "amateur", "enemy", "actor"],
+    "correctAnswer": "expert",
+    "points": 10
+  },
+  {
+    "questionText": "_______ means related to the body.",
+    "options": ["Mental", "Physical", "Emotional", "Digital"],
+    "correctAnswer": "Physical",
+    "points": 10
+  },
+  {
+    "questionText": "To _______ is to keep things equal or in the right amount.",
+    "options": ["break", "balance", "scroll", "waste"],
+    "correctAnswer": "balance",
+    "points": 10
+  },
+  {
+    "questionText": "Something _______ is useful or helpful for work.",
+    "options": ["productive", "useless", "bad", "harmful"],
+    "correctAnswer": "productive",
+    "points": 10
+  },
+  {
+    "questionText": "_______ means uses technology wisely.",
+    "options": ["Stupid", "Smart", "Lazy", "Slow"],
+    "correctAnswer": "Smart",
+    "points": 10
+  },
+  {
+    "questionText": "Being _______ means not easily distracted.",
+    "options": ["focused", "bored", "confused", "lost"],
+    "correctAnswer": "focused",
+    "points": 10
+  },
+  {
+    "questionText": "A _______ is something that takes attention away.",
+    "options": ["focus", "distraction", "goal", "plan"],
+    "correctAnswer": "distraction",
+    "points": 10
+  },
+  {
+    "questionText": "_______ activities like games are for fun.",
+    "options": ["Entertainment", "Work", "Sleep", "Stress"],
+    "correctAnswer": "Entertainment",
+    "points": 10
+  },
+  {
+    "questionText": "Something _______ is new and advanced.",
+    "options": ["old", "cutting-edge", "broken", "ancient"],
+    "correctAnswer": "cutting-edge",
+    "points": 10
+  },
+  {
+    "questionText": "Teenagers usually _______ through social media.",
+    "options": ["run", "scroll", "jump", "fly"],
+    "correctAnswer": "scroll",
+    "points": 10
+  },
+  {
+    "questionText": "Screen time affects us physically and _______.",
+    "options": ["mentally", "happily", "badly", "sadly"],
+    "correctAnswer": "mentally",
+    "points": 10
+  },
+  {
+    "questionText": "Too much screen time can cause a _______.",
+    "options": ["headache", "joy", "strength", "wealth"],
+    "correctAnswer": "headache",
+    "points": 10
+  },
+  {
+    "questionText": "We should _______ our time wisely.",
+    "options": ["waste", "manage", "lose", "forget"],
+    "correctAnswer": "manage",
+    "points": 10
+  },
+  {
+    "questionText": "A good _______ serves his country.",
+    "options": ["citizen", "enemy", "tourist", "guest"],
+    "correctAnswer": "citizen",
+    "points": 10
+  },
+  {
+    "questionText": "The _______ is a new transport project in Egypt.",
+    "options": ["bus", "monorail", "car", "bike"],
+    "correctAnswer": "monorail",
+    "points": 10
+  },
+  {
+    "questionText": "We should turn _______ distractions to focus.",
+    "options": ["on", "off", "up", "in"],
+    "correctAnswer": "off",
+    "points": 10
+  },
+  {
+    "questionText": "You should take a _______ from screens.",
+    "options": ["break", "broke", "breaking", "broken"],
+    "correctAnswer": "break",
+    "points": 10
+  },
+  {
+    "questionText": "_______ are things we do regularly.",
+    "options": ["Habits", "Accidents", "Mistakes", "Surprises"],
+    "correctAnswer": "Habits",
+    "points": 10
+  },
+  {
+    "questionText": "Spending time on a phone is called _______ time.",
+    "options": ["screen", "paper", "book", "food"],
+    "correctAnswer": "screen",
+    "points": 10
+  },
+  {
+    "questionText": "We should _______ side effects of too much screen time.",
+    "options": ["avoid", "seek", "love", "want"],
+    "correctAnswer": "avoid",
+    "points": 10
+  },
+  {
+    "questionText": "Using phones too much can make you feel _______.",
+    "options": ["stressed", "relaxed", "calm", "peaceful"],
+    "correctAnswer": "stressed",
+    "points": 10
+  },
+  {
+    "questionText": "We need _______ habits for a better future.",
+    "options": ["weak", "strong", "bad", "lazy"],
+    "correctAnswer": "strong",
+    "points": 10
+  },
+  {
+    "questionText": "Young people are tomorrow's _______.",
+    "options": ["leaders", "followers", "babies", "toys"],
+    "correctAnswer": "leaders",
+    "points": 10
+  },
+  {
+    "questionText": "Synonym of 'productive' is _______.",
+    "options": ["fruitful", "fruitless", "useless", "bad"],
+    "correctAnswer": "fruitful",
+    "points": 10
+  },
+  {
+    "questionText": "Antonym of 'useful' is _______.",
+    "options": ["helpful", "beneficial", "useless", "good"],
+    "correctAnswer": "useless",
+    "points": 10
+  },
+  {
+    "questionText": "Synonym of 'manage' is _______.",
+    "options": ["control", "ignore", "lose", "miss"],
+    "correctAnswer": "control",
+    "points": 10
+  },
+  {
+    "questionText": "Antonym of 'focused' is _______.",
+    "options": ["concentrated", "distracted", "attentive", "careful"],
+    "correctAnswer": "distracted",
+    "points": 10
+  },
+  {
+    "questionText": "To turn 'distract' into a noun, add _______.",
+    "options": ["-tion", "-ment", "-ness", "-ity"],
+    "correctAnswer": "-tion",
+    "points": 10
+  },
+  {
+    "questionText": "To turn 'entertainment' into a noun, we use _______.",
+    "options": ["-ment", "-tion", "-ness", "-ity"],
+    "correctAnswer": "-ment",
+    "points": 10
+  },
+  {
+    "questionText": "The word 'mental' becomes an adverb by adding _______.",
+    "options": ["-ly", "-ness", "-ity", "-ful"],
+    "correctAnswer": "-ly",
+    "points": 10
+  },
+  {
+    "questionText": "Prefix 'mono-' means _______.",
+    "options": ["one", "two", "three", "many"],
+    "correctAnswer": "one",
+    "points": 10
+  },
+  {
+    "questionText": "I spend time _______ through websites.",
+    "options": ["scrolling", "scroll", "scrolled", "scrolls"],
+    "correctAnswer": "scrolling",
+    "points": 10
+  },
+  {
+    "questionText": "Screen time may _______ eyes.",
+    "options": ["affect", "effect", "effective", "affection"],
+    "correctAnswer": "affect",
+    "points": 10
+  },
+  {
+    "questionText": "Everyone _______ their phones here.",
+    "options": ["uses", "use", "using", "are using"],
+    "correctAnswer": "uses",
+    "points": 10
+  },
+  {
+    "questionText": "We should balance screen time _______ physical activity.",
+    "options": ["with", "to", "at", "on"],
+    "correctAnswer": "with",
+    "points": 10
+  },
+  {
+    "questionText": "I am excited _______ the new project.",
+    "options": ["about", "with", "of", "in"],
+    "correctAnswer": "about",
+    "points": 10
+  },
+  {
+    "questionText": "You _______ use a strong password.",
+    "options": ["must", "mustn't", "can't", "shouldn't"],
+    "correctAnswer": "must",
+    "points": 10
+  },
+  {
+    "questionText": "You _______ make noise in class.",
+    "options": ["must", "mustn't", "should", "can"],
+    "correctAnswer": "mustn't",
+    "points": 10
+  },
+  {
+    "questionText": "We _______ water plants to grow.",
+    "options": ["must", "mustn't", "can't", "shouldn't"],
+    "correctAnswer": "must",
+    "points": 10
+  },
+  {
+    "questionText": "Your teeth _______ brushed everyday. (Passive)",
+    "options": ["must", "must be", "can", "should"],
+    "correctAnswer": "must be",
+    "points": 10
+  },
+  {
+    "questionText": "You _______ study hard to pass.",
+    "options": ["should", "shouldn't", "mustn't", "can't"],
+    "correctAnswer": "should",
+    "points": 10
+  },
+  {
+    "questionText": "You _______ drink too much cola.",
+    "options": ["should", "shouldn't", "must", "can"],
+    "correctAnswer": "shouldn't",
+    "points": 10
+  },
+  {
+    "questionText": "Vegetables _______ washed. (Passive)",
+    "options": ["should be", "should", "must", "can"],
+    "correctAnswer": "should be",
+    "points": 10
+  },
+  {
+    "questionText": "I _______ use AI to help me learn.",
+    "options": ["can", "can't", "mustn't", "shouldn't"],
+    "correctAnswer": "can",
+    "points": 10
+  },
+  {
+    "questionText": "She _______ speak French, only English.",
+    "options": ["can", "can't", "must", "should"],
+    "correctAnswer": "can't",
+    "points": 10
+  },
+  {
+    "questionText": "What _______ we do to win?",
+    "options": ["must", "mustn't", "can't", "shouldn't"],
+    "correctAnswer": "must",
+    "points": 10
+  },
+  {
+    "questionText": "Modern technology _______ used everywhere. (Passive)",
+    "options": ["can be", "can", "must", "should"],
+    "correctAnswer": "can be",
+    "points": 10
+  },
+  {
+    "questionText": "_______ winter is cold, summer is hot.",
+    "options": ["While", "Because", "So", "If"],
+    "correctAnswer": "While",
+    "points": 10
+  },
+  {
+    "questionText": "_______ Nada is clever, she doesn't work hard.",
+    "options": ["Although", "Because", "So", "But"],
+    "correctAnswer": "Although",
+    "points": 10
+  },
+  {
+    "questionText": "I'll buy this phone _______ if it's expensive.",
+    "options": ["even", "although", "but", "so"],
+    "correctAnswer": "even",
+    "points": 10
+  },
+  {
+    "questionText": "On one hand I need a phone, _______ I have no money.",
+    "options": ["on the other hand", "on one hand", "because", "so"],
+    "correctAnswer": "on the other hand",
+    "points": 10
+  },
+  {
+    "questionText": "_______ he is rich, he isn't happy.",
+    "options": ["Although", "If", "When", "Because"],
+    "correctAnswer": "Although",
+    "points": 10
+  },
+  {
+    "questionText": "Studying online is easy; _______, it can be lonely.",
+    "options": ["on the other hand", "on one hand", "because", "so"],
+    "correctAnswer": "on the other hand",
+    "points": 10
+  },
+  {
+    "questionText": "_______ it is raining, we went out.",
+    "options": ["Although", "Because", "So", "If"],
+    "correctAnswer": "Although",
+    "points": 10
+  },
+  {
+    "questionText": "Choose the correct rewrite: 'It is necessary to study.' (Use: must)",
+    "options": ["You must study.", "You can study.", "You should study.", "You mustn't study."],
+    "correctAnswer": "You must study.",
+    "points": 10
+  },
+  {
+    "questionText": "Choose the correct rewrite: 'I advise you to sleep early.' (Use: should)",
+    "options": ["You should sleep early.", "You must sleep early.", "You can sleep early.", "You shouldn't sleep early."],
+    "correctAnswer": "You should sleep early.",
+    "points": 10
+  },
+  {
+    "questionText": "Choose the correct rewrite: 'He was angry but he stayed quiet.' (Use: Although)",
+    "options": ["Although he was angry, he stayed quiet.", "He was angry although he stayed quiet.", "Because he was angry, he stayed quiet.", "He stayed quiet so he was angry."],
+    "correctAnswer": "Although he was angry, he stayed quiet.",
+    "points": 10
+  },
+  {
+    "questionText": "Correct the mistake: 'We must helps each other.'",
+    "options": ["help", "helping", "helped", "helper"],
+    "correctAnswer": "help",
+    "points": 10
+  },
+  {
+    "questionText": "Correct the mistake: 'She should be on screen for a long time.' (Context: Advice against it)",
+    "options": ["shouldn't", "must", "can", "will"],
+    "correctAnswer": "shouldn't",
+    "points": 10
+  },
+  {
+    "questionText": "Correct the mistake: 'Trees must water regularly.'",
+    "options": ["be watered", "water", "watering", "waters"],
+    "correctAnswer": "be watered",
+    "points": 10
+  },
+  {
+    "questionText": "I prefer drinking tea, _______ my sister prefers coffee.",
+    "options": ["while", "so", "because", "if"],
+    "correctAnswer": "while",
+    "points": 10
+  },
+  {
+    "questionText": "_______ she was scared, she spoke well.",
+    "options": ["Although", "Because", "So", "But"],
+    "correctAnswer": "Although",
+    "points": 10
+  },
+  {
+    "questionText": "You _______ run across the road; it's dangerous.",
+    "options": ["mustn't", "must", "should", "can"],
+    "correctAnswer": "mustn't",
+    "points": 10
+  },
+  {
+    "questionText": "He _______ solve the puzzle; he is smart.",
+    "options": ["can", "can't", "mustn't", "shouldn't"],
+    "correctAnswer": "can",
+    "points": 10
+  },
+  {
+    "questionText": "_______ refers to a visual representation of who you are (from Unit 1 recap).",
+    "options": ["Identity map", "Screen time", "Prototype", "Robot"],
+    "correctAnswer": "Identity map",
+    "points": 10
+  },
+  {
+    "questionText": "Zeina was a _______ student at the school.",
+    "options": ["new", "old", "teacher", "parent"],
+    "correctAnswer": "new",
+    "points": 10
+  },
+  {
+    "questionText": "Zeina was always _______ and liked to notice things.",
+    "options": ["curious", "bored", "lazy", "tired"],
+    "correctAnswer": "curious",
+    "points": 10
+  },
+  {
+    "questionText": "The school playground was _______ and gray.",
+    "options": ["empty", "full", "green", "colorful"],
+    "correctAnswer": "empty",
+    "points": 10
+  },
+  {
+    "questionText": "Students threw _______ on the ground.",
+    "options": ["trash", "flowers", "books", "money"],
+    "correctAnswer": "trash",
+    "points": 10
+  },
+  {
+    "questionText": "Zeina wanted to plant a _______.",
+    "options": ["garden", "forest", "tree", "building"],
+    "correctAnswer": "garden",
+    "points": 10
+  },
+  {
+    "questionText": "Nancy thought the area was a little _______.",
+    "options": ["depressing", "exciting", "happy", "fun"],
+    "correctAnswer": "depressing",
+    "points": 10
+  },
+  {
+    "questionText": "Zeina showed _______ by admitting she didn't know how to plant.",
+    "options": ["honesty", "lies", "fear", "pride"],
+    "correctAnswer": "honesty",
+    "points": 10
+  },
+  {
+    "questionText": "Zeina believed the garden could bring the school _______.",
+    "options": ["together", "apart", "down", "away"],
+    "correctAnswer": "together",
+    "points": 10
+  },
+  {
+    "questionText": "To be 'shocked' means to be _______.",
+    "options": ["surprised", "calm", "happy", "sad"],
+    "correctAnswer": "surprised",
+    "points": 10
+  },
+  {
+    "questionText": "_______ means taking action without waiting for others.",
+    "options": ["Initiative", "Laziness", "Waiting", "Sleeping"],
+    "correctAnswer": "Initiative",
+    "points": 10
+  },
+  {
+    "questionText": "Zeina wrote a _______ for the garden.",
+    "options": ["proposal", "book", "letter", "song"],
+    "correctAnswer": "proposal",
+    "points": 10
+  },
+  {
+    "questionText": "Zeina spoke with _______ at the student council.",
+    "options": ["courage", "fear", "shyness", "silence"],
+    "correctAnswer": "courage",
+    "points": 10
+  },
+  {
+    "questionText": "Nancy was good with _______.",
+    "options": ["tools", "painting", "singing", "dancing"],
+    "correctAnswer": "tools",
+    "points": 10
+  },
+  {
+    "questionText": "Noha loved _______.",
+    "options": ["painting", "tools", "sports", "math"],
+    "correctAnswer": "painting",
+    "points": 10
+  },
+  {
+    "questionText": "Zeina asked community leaders for _______.",
+    "options": ["donations", "food", "clothes", "water"],
+    "correctAnswer": "donations",
+    "points": 10
+  },
+  {
+    "questionText": "When plants died due to rain, Amal wanted to _______.",
+    "options": ["quit", "continue", "plant more", "water them"],
+    "correctAnswer": "quit",
+    "points": 10
+  },
+  {
+    "questionText": "Zeina showed _______ and didn't give up.",
+    "options": ["determination", "weakness", "sadness", "fear"],
+    "correctAnswer": "determination",
+    "points": 10
+  },
+  {
+    "questionText": "The team researched plants that grow in their _______.",
+    "options": ["climate", "school", "house", "room"],
+    "correctAnswer": "climate",
+    "points": 10
+  },
+  {
+    "questionText": "They built a better _______ system.",
+    "options": ["watering", "heating", "cooling", "lighting"],
+    "correctAnswer": "watering",
+    "points": 10
+  },
+  {
+    "questionText": "After three months, the garden looked _______.",
+    "options": ["amazing", "bad", "ugly", "dead"],
+    "correctAnswer": "amazing",
+    "points": 10
+  },
+  {
+    "questionText": "Zeina didn't _______ anyone for mistakes.",
+    "options": ["blame", "thank", "praise", "help"],
+    "correctAnswer": "blame",
+    "points": 10
+  },
+  {
+    "questionText": "A leader is _______ for both successes and mistakes.",
+    "options": ["responsible", "happy", "sad", "angry"],
+    "correctAnswer": "responsible",
+    "points": 10
+  },
+  {
+    "questionText": "They used _______ methods, not harmful chemicals.",
+    "options": ["eco-friendly", "dangerous", "bad", "toxic"],
+    "correctAnswer": "eco-friendly",
+    "points": 10
+  },
+  {
+    "questionText": "They used natural _______ instead of chemicals.",
+    "options": ["fertilizers", "paints", "tools", "seeds"],
+    "correctAnswer": "fertilizers",
+    "points": 10
+  },
+  {
+    "questionText": "The biggest change was in the _______.",
+    "options": ["students", "garden", "building", "teachers"],
+    "correctAnswer": "students",
+    "points": 10
+  },
+  {
+    "questionText": "Students showed more _______ for the environment.",
+    "options": ["respect", "hate", "anger", "dislike"],
+    "correctAnswer": "respect",
+    "points": 10
+  },
+  {
+    "questionText": "Nancy wanted to study _______.",
+    "options": ["agriculture", "medicine", "engineering", "art"],
+    "correctAnswer": "agriculture",
+    "points": 10
+  },
+  {
+    "questionText": "Zeina realized that being _______ helps people grow.",
+    "options": ["honest", "rich", "famous", "strong"],
+    "correctAnswer": "honest",
+    "points": 10
+  },
+  {
+    "questionText": "Zeina was chosen _______ of the student council.",
+    "options": ["president", "secretary", "member", "guest"],
+    "correctAnswer": "president",
+    "points": 10
+  },
+  {
+    "questionText": "Real leadership means _______ others.",
+    "options": ["helping", "ignoring", "bossing", "hurting"],
+    "correctAnswer": "helping",
+    "points": 10
+  },
+  {
+    "questionText": "Zeina's _______ was to change the school.",
+    "options": ["ambition", "fear", "dream", "nightmare"],
+    "correctAnswer": "ambition",
+    "points": 10
+  },
+  {
+    "questionText": "The garden became a _______ of teamwork.",
+    "options": ["symbol", "sign", "mark", "logo"],
+    "correctAnswer": "symbol",
+    "points": 10
+  },
+  {
+    "questionText": "Growth happens in _______ too, not just plants.",
+    "options": ["people", "stones", "cars", "tables"],
+    "correctAnswer": "people",
+    "points": 10
+  },
+  {
+    "questionText": "To 'customize' means to make something _______ for you.",
+    "options": ["special", "bad", "general", "common"],
+    "correctAnswer": "special",
+    "points": 10
+  },
+  {
+    "questionText": "_______ means happening immediately.",
+    "options": ["Instantly", "Slowly", "Later", "Never"],
+    "correctAnswer": "Instantly",
+    "points": 10
+  },
+  {
+    "questionText": "If you are _______, you are not sure what to do.",
+    "options": ["confused", "certain", "sure", "confident"],
+    "correctAnswer": "confused",
+    "points": 10
+  },
+  {
+    "questionText": "_______ are messages from apps.",
+    "options": ["Notifications", "Calls", "Letters", "Books"],
+    "correctAnswer": "Notifications",
+    "points": 10
+  },
+  {
+    "questionText": "To be _______ means to have power over something.",
+    "options": ["in control", "lost", "weak", "shy"],
+    "correctAnswer": "in control",
+    "points": 10
+  },
+  {
+    "questionText": "The garden is _______ by a fence.",
+    "options": ["surrounded", "covered", "filled", "made"],
+    "correctAnswer": "surrounded",
+    "points": 10
+  },
+  {
+    "questionText": "_______ is sad feeling when expectations fail.",
+    "options": ["Disappointed", "Happy", "Excited", "Glad"],
+    "correctAnswer": "Disappointed",
+    "points": 10
+  },
+  {
+    "questionText": "A _______ solves a problem.",
+    "options": ["solution", "trouble", "mistake", "error"],
+    "correctAnswer": "solution",
+    "points": 10
+  },
+  {
+    "questionText": "Global _______ means caring for the world.",
+    "options": ["responsibility", "warming", "travel", "news"],
+    "correctAnswer": "responsibility",
+    "points": 10
+  },
+  {
+    "questionText": "We should use _______ fertilizers.",
+    "options": ["natural", "chemical", "bad", "toxic"],
+    "correctAnswer": "natural",
+    "points": 10
+  },
+  {
+    "questionText": "Synonym of 'shocked' is _______.",
+    "options": ["surprised", "calm", "bored", "tired"],
+    "correctAnswer": "surprised",
+    "points": 10
+  },
+  {
+    "questionText": "Synonym of 'stressed' is _______.",
+    "options": ["worried", "relaxed", "happy", "calm"],
+    "correctAnswer": "worried",
+    "points": 10
+  },
+  {
+    "questionText": "Antonym of 'blame' is _______.",
+    "options": ["praise", "accuse", "criticise", "hate"],
+    "correctAnswer": "praise",
+    "points": 10
+  },
+  {
+    "questionText": "Antonym of 'reduce' is _______.",
+    "options": ["increase", "decrease", "lower", "cut"],
+    "correctAnswer": "increase",
+    "points": 10
+  },
+  {
+    "questionText": "Antonym of 'harmful' is _______.",
+    "options": ["beneficial", "bad", "dangerous", "deadly"],
+    "correctAnswer": "beneficial",
+    "points": 10
+  },
+  {
+    "questionText": "Suffix for 'shock' to make adjective: _______.",
+    "options": ["-ed", "-ing", "-ly", "-ness"],
+    "correctAnswer": "-ed",
+    "points": 10
+  },
+  {
+    "questionText": "Suffix for 'lead' to make noun (person): _______.",
+    "options": ["-er", "-or", "-ist", "-ian"],
+    "correctAnswer": "-er",
+    "points": 10
+  },
+  {
+    "questionText": "Suffix for 'notify' to make noun: _______.",
+    "options": ["-cation", "-ment", "-ness", "-ity"],
+    "correctAnswer": "-cation",
+    "points": 10
+  },
+  {
+    "questionText": "Prefix 'eco-' relates to _______.",
+    "options": ["environment", "economy", "echo", "sound"],
+    "correctAnswer": "environment",
+    "points": 10
+  },
+  {
+    "questionText": "I checked my screen time _______.",
+    "options": ["report", "paper", "book", "pen"],
+    "correctAnswer": "report",
+    "points": 10
+  },
+  {
+    "questionText": "I made a new _______ to limit phone use.",
+    "options": ["plan", "phone", "app", "game"],
+    "correctAnswer": "plan",
+    "points": 10
+  },
+  {
+    "questionText": "I will turn off social media _______.",
+    "options": ["notifications", "pictures", "videos", "friends"],
+    "correctAnswer": "notifications",
+    "points": 10
+  },
+  {
+    "questionText": "I plan to spend more time _______.",
+    "options": ["outside", "inside", "online", "asleep"],
+    "correctAnswer": "outside",
+    "points": 10
+  },
+  {
+    "questionText": "Little by little, I believe I can _______.",
+    "options": ["improve", "worsen", "fail", "lose"],
+    "correctAnswer": "improve",
+    "points": 10
+  },
+  {
+    "questionText": "Hana was _______ at her screen time report.",
+    "options": ["shocked", "happy", "glad", "proud"],
+    "correctAnswer": "shocked",
+    "points": 10
+  },
+  {
+    "questionText": "It is important to _______ balance.",
+    "options": ["find", "lose", "break", "hide"],
+    "correctAnswer": "find",
+    "points": 10
+  },
+  {
+    "questionText": "We should _______ our mistakes.",
+    "options": ["accept", "deny", "hide", "love"],
+    "correctAnswer": "accept",
+    "points": 10
+  },
+  {
+    "questionText": "Zeina's hands were _______ because she was scared.",
+    "options": ["shaking", "moving", "clapping", "waving"],
+    "correctAnswer": "shaking",
+    "points": 10
+  },
+  {
+    "questionText": "We should use technology to _______ our lives.",
+    "options": ["improve", "ruin", "waste", "end"],
+    "correctAnswer": "improve",
+    "points": 10
+  },
+  {
+    "questionText": "We need to set _______ times for screen use.",
+    "options": ["specific", "random", "no", "any"],
+    "correctAnswer": "specific",
+    "points": 10
+  },
+  {
+    "questionText": "Outdoor activities are good for _______.",
+    "options": ["health", "screens", "phones", "bed"],
+    "correctAnswer": "health",
+    "points": 10
+  },
+  {
+    "questionText": "Being _______ means saying 'please' and 'thank you'.",
+    "options": ["polite", "rude", "bad", "angry"],
+    "correctAnswer": "polite",
+    "points": 10
+  },
+  {
+    "questionText": "The conversation was _______ and polite.",
+    "options": ["smooth", "rough", "hard", "bad"],
+    "correctAnswer": "smooth",
+    "points": 10
+  },
+  {
+    "questionText": "We should stay _______ when studying.",
+    "options": ["focused", "distracted", "asleep", "bored"],
+    "correctAnswer": "focused",
+    "points": 10
+  },
+  {
+    "questionText": "Try to _______ using screens before bed.",
+    "options": ["avoid", "use", "love", "keep"],
+    "correctAnswer": "avoid",
+    "points": 10
+  },
+  {
+    "questionText": "We can explore Egypt's _______ online.",
+    "options": ["culture", "food", "weather", "games"],
+    "correctAnswer": "culture",
+    "points": 10
+  },
+  {
+    "questionText": "Young people should _______ their history.",
+    "options": ["explore", "ignore", "forget", "hide"],
+    "correctAnswer": "explore",
+    "points": 10
+  },
+  {
+    "questionText": "We should prepare young people to be good _______.",
+    "options": ["citizens", "gamers", "users", "viewers"],
+    "correctAnswer": "citizens",
+    "points": 10
+  },
+  {
+    "questionText": "Synonym of 'entertainment' is _______.",
+    "options": ["amusement", "boredom", "work", "study"],
+    "correctAnswer": "amusement",
+    "points": 10
+  },
+  {
+    "questionText": "Synonym of 'specific' is _______.",
+    "options": ["definite", "vague", "general", "random"],
+    "correctAnswer": "definite",
+    "points": 10
+  },
+  {
+    "questionText": "Synonym of 'smooth' is _______.",
+    "options": ["gentle", "rough", "hard", "tough"],
+    "correctAnswer": "gentle",
+    "points": 10
+  },
+  {
+    "questionText": "Synonym of 'polite' is _______.",
+    "options": ["respectful", "impolite", "rude", "bad"],
+    "correctAnswer": "respectful",
+    "points": 10
+  },
+  {
+    "questionText": "Antonym of 'outdoor' is _______.",
+    "options": ["indoor", "outside", "open", "nature"],
+    "correctAnswer": "indoor",
+    "points": 10
+  },
+  {
+    "questionText": "Antonym of 'focused' is _______.",
+    "options": ["distracted", "alert", "awake", "attentive"],
+    "correctAnswer": "distracted",
+    "points": 10
+  },
+  {
+    "questionText": "Antonym of 'remember' is _______.",
+    "options": ["forget", "recall", "memorise", "keep"],
+    "correctAnswer": "forget",
+    "points": 10
+  },
+  {
+    "questionText": "Antonym of 'useful' is _______.",
+    "options": ["useless", "helpful", "good", "great"],
+    "correctAnswer": "useless",
+    "points": 10
+  },
+  {
+    "questionText": "Antonym of 'connected' is _______.",
+    "options": ["disconnected", "linked", "joined", "tied"],
+    "correctAnswer": "disconnected",
+    "points": 10
+  },
+  {
+    "questionText": "Suffix for 'useful' is _______.",
+    "options": ["-ful", "-less", "-ness", "-ly"],
+    "correctAnswer": "-ful",
+    "points": 10
+  },
+  {
+    "questionText": "Suffix for 'distract' to make noun: _______.",
+    "options": ["-tion", "-ment", "-ness", "-ity"],
+    "correctAnswer": "-tion",
+    "points": 10
+  },
+  {
+    "questionText": "Start _______ to inf or V+ing.",
+    "options": ["doing", "do", "did", "done"],
+    "correctAnswer": "doing",
+    "points": 10
+  },
+  {
+    "questionText": "I hope I _______ a new job.",
+    "options": ["will find", "finds", "found", "finding"],
+    "correctAnswer": "will find",
+    "points": 10
+  },
+  {
+    "questionText": "We must _______ our screen time.",
+    "options": ["manage", "waste", "lose", "break"],
+    "correctAnswer": "manage",
+    "points": 10
+  },
+  {
+    "questionText": "My sister prefers coffee, _______ I prefer tea.",
+    "options": ["while", "so", "because", "if"],
+    "correctAnswer": "while",
+    "points": 10
+  },
+  {
+    "questionText": "On one hand, it's fun. On the _______ hand, it's waste of time.",
+    "options": ["other", "another", "one", "first"],
+    "correctAnswer": "other",
+    "points": 10
+  },
+  {
+    "questionText": "Although he is rich, he is _______.",
+    "options": ["sad", "happy", "glad", "pleased"],
+    "correctAnswer": "sad",
+    "points": 10
+  },
+  {
+    "questionText": "_______ it was raining, we played outside.",
+    "options": ["Although", "Because", "So", "If"],
+    "correctAnswer": "Although",
+    "points": 10
+  },
+  {
+    "questionText": "You _______ eat too much junk food.",
+    "options": ["shouldn't", "should", "must", "can"],
+    "correctAnswer": "shouldn't",
+    "points": 10
+  },
+  {
+    "questionText": "Students _______ follow school rules.",
+    "options": ["must", "can't", "shouldn't", "may"],
+    "correctAnswer": "must",
+    "points": 10
+  },
+  {
+    "questionText": "I _______ play the piano.",
+    "options": ["can", "must", "should", "have"],
+    "correctAnswer": "can",
+    "points": 10
+  },
+  {
+    "questionText": "Don't _______ to call me if you need help.",
+    "options": ["hesitate", "stop", "wait", "fear"],
+    "correctAnswer": "hesitate",
+    "points": 10
+  },
+  {
+    "questionText": "I made a great _______ to reach my goal.",
+    "options": ["effort", "chart", "map", "plan"],
+    "correctAnswer": "effort",
+    "points": 10
+  }
+]
+        }
+      ]
+    },
+    {
+      "id": "g3_u5",
+      "unitName": "Unit 5",
+      "icon": "ime.png",
+      "isFree": false,
+      "resources": [
+        {
+          "type": "pdf",
+          "title": "Unit PDF",
+          "url": "LINK_TO_PDF_HERE"
+        },
+        {
+          "type": "video",
+          "title": "Video Lesson",
+          "url": "LINK_TO_VIDEO_HERE"
+        },
+        {
+          "type": "quiz",
+          "title": "Unit Test",
+          "questions": [
+  {
+    "questionText": "What is a 'prototype'?",
+    "options": ["A final product", "A simple model of a design", "A problem", "A schedule"],
+    "correctAnswer": "A simple model of a design",
+    "points": 10
+  },
+  {
+    "questionText": "_______ means looking at something from a different point of view.",
+    "options": ["Creativity", "Perspective", "Sprint", "Logic"],
+    "correctAnswer": "Perspective",
+    "points": 10
+  },
+  {
+    "questionText": "A _______ is a plan of things to be done and the time for them.",
+    "options": ["schedule", "sketch", "logo", "screen"],
+    "correctAnswer": "schedule",
+    "points": 10
+  },
+  {
+    "questionText": "Something _______ is useful and effective.",
+    "options": ["crazy", "practical", "fancy", "bad"],
+    "correctAnswer": "practical",
+    "points": 10
+  },
+  {
+    "questionText": "_______ means having the ability to create new ideas.",
+    "options": ["Creativity", "Laziness", "Boredom", "Sleep"],
+    "correctAnswer": "Creativity",
+    "points": 10
+  },
+  {
+    "questionText": "A design _______ is a short period to solve a problem quickly.",
+    "options": ["walk", "sprint", "sleep", "dream"],
+    "correctAnswer": "sprint",
+    "points": 10
+  },
+  {
+    "questionText": "To _______ is to explain the meaning of something clearly.",
+    "options": ["define", "confuse", "hide", "lose"],
+    "correctAnswer": "define",
+    "points": 10
+  },
+  {
+    "questionText": "_______ is the process of forming new ideas.",
+    "options": ["Ideation", "Imitation", "Sleep", "Copying"],
+    "correctAnswer": "Ideation",
+    "points": 10
+  },
+  {
+    "questionText": "Something _______ is attractive and fashionable.",
+    "options": ["stylish", "ugly", "old", "boring"],
+    "correctAnswer": "stylish",
+    "points": 10
+  },
+  {
+    "questionText": "The _______ of a room is how the furniture is arranged.",
+    "options": ["layout", "noise", "smell", "color"],
+    "correctAnswer": "layout",
+    "points": 10
+  },
+  {
+    "questionText": "A _______ creates plans for clothes, buildings, or machines.",
+    "options": ["designer", "driver", "farmer", "doctor"],
+    "correctAnswer": "designer",
+    "points": 10
+  },
+  {
+    "questionText": "You carry your books in a _______.",
+    "options": ["backpack", "pocket", "shoe", "hat"],
+    "correctAnswer": "backpack",
+    "points": 10
+  },
+  {
+    "questionText": "A problem _______ helps find answers to difficulties.",
+    "options": ["solver", "maker", "causer", "lover"],
+    "correctAnswer": "solver",
+    "points": 10
+  },
+  {
+    "questionText": "Designers ask: 'Who will _______ this product?'",
+    "options": ["use", "eat", "drink", "sleep"],
+    "correctAnswer": "use",
+    "points": 10
+  },
+  {
+    "questionText": "_______ thinking solves complex problems.",
+    "options": ["Design", "Messy", "Lazy", "Slow"],
+    "correctAnswer": "Design",
+    "points": 10
+  },
+  {
+    "questionText": "Designers focus on the _______ of an object.",
+    "options": ["function", "taste", "smell", "fear"],
+    "correctAnswer": "function",
+    "points": 10
+  },
+  {
+    "questionText": "To _______ means to work together or communicate.",
+    "options": ["interact", "ignore", "sleep", "hide"],
+    "correctAnswer": "interact",
+    "points": 10
+  },
+  {
+    "questionText": "We need to _______ our time well.",
+    "options": ["organize", "waste", "lose", "kill"],
+    "correctAnswer": "organize",
+    "points": 10
+  },
+  {
+    "questionText": "To _______ is to ask someone questions to get information.",
+    "options": ["interview", "ignore", "hit", "run"],
+    "correctAnswer": "interview",
+    "points": 10
+  },
+  {
+    "questionText": "_______ means coming up with many ideas quickly.",
+    "options": ["Brainstorming", "Sleeping", "Eating", "Walking"],
+    "correctAnswer": "Brainstorming",
+    "points": 10
+  },
+  {
+    "questionText": "Synonym of 'stylish' is _______.",
+    "options": ["fashionable", "ugly", "plain", "old"],
+    "correctAnswer": "fashionable",
+    "points": 10
+  },
+  {
+    "questionText": "Antonym of 'stylish' is _______.",
+    "options": ["old-fashioned", "modern", "cool", "chic"],
+    "correctAnswer": "old-fashioned",
+    "points": 10
+  },
+  {
+    "questionText": "Synonym of 'creativity' is _______.",
+    "options": ["innovation", "boredom", "copying", "imitation"],
+    "correctAnswer": "innovation",
+    "points": 10
+  },
+  {
+    "questionText": "Antonym of 'practical' is _______.",
+    "options": ["theoretical", "useful", "good", "effective"],
+    "correctAnswer": "theoretical",
+    "points": 10
+  },
+  {
+    "questionText": "Synonym of 'comfort' is _______.",
+    "options": ["relaxation", "pain", "stress", "work"],
+    "correctAnswer": "relaxation",
+    "points": 10
+  },
+  {
+    "questionText": "Antonym of 'comfort' is _______.",
+    "options": ["discomfort", "ease", "rest", "peace"],
+    "correctAnswer": "discomfort",
+    "points": 10
+  },
+  {
+    "questionText": "Synonym of 'function' is _______.",
+    "options": ["job", "fun", "game", "toy"],
+    "correctAnswer": "job",
+    "points": 10
+  },
+  {
+    "questionText": "Synonym of 'suitable' is _______.",
+    "options": ["fit", "bad", "wrong", "strange"],
+    "correctAnswer": "fit",
+    "points": 10
+  },
+  {
+    "questionText": "Antonym of 'successful' is _______.",
+    "options": ["unsuccessful", "winning", "great", "top"],
+    "correctAnswer": "unsuccessful",
+    "points": 10
+  },
+  {
+    "questionText": "Synonym of 'fancy' is _______.",
+    "options": ["incredible", "plain", "simple", "ugly"],
+    "correctAnswer": "incredible",
+    "points": 10
+  },
+  {
+    "questionText": "Suffix for 'style' to make adjective: _______.",
+    "options": ["-ish", "-tion", "-ment", "-ness"],
+    "correctAnswer": "-ish",
+    "points": 10
+  },
+  {
+    "questionText": "Suffix for 'create' to make adjective: _______.",
+    "options": ["-ive", "-tion", "-er", "-ness"],
+    "correctAnswer": "-ive",
+    "points": 10
+  },
+  {
+    "questionText": "Suffix for 'create' to make noun (concept): _______.",
+    "options": ["-ity", "-ish", "-ous", "-ful"],
+    "correctAnswer": "-ity",
+    "points": 10
+  },
+  {
+    "questionText": "Suffix for 'solve' to make noun (answer): _______.",
+    "options": ["-tion", "-ment", "-ness", "-ity"],
+    "correctAnswer": "-tion",
+    "points": 10
+  },
+  {
+    "questionText": "Suffix for 'design' to make noun (person): _______.",
+    "options": ["-er", "-tion", "-ment", "-ness"],
+    "correctAnswer": "-er",
+    "points": 10
+  },
+  {
+    "questionText": "Suffix for 'amaze' to make adjective: _______.",
+    "options": ["-ing", "-tion", "-ment", "-ness"],
+    "correctAnswer": "-ing",
+    "points": 10
+  },
+  {
+    "questionText": "Suffix for 'relation' to make noun: _______.",
+    "options": ["-ship", "-ness", "-ment", "-ity"],
+    "correctAnswer": "-ship",
+    "points": 10
+  },
+  {
+    "questionText": "Prefix 'proto-' means _______.",
+    "options": ["first", "last", "middle", "end"],
+    "correctAnswer": "first",
+    "points": 10
+  },
+  {
+    "questionText": "This is an _______ problem.",
+    "options": ["everyday", "every day", "day", "daily day"],
+    "correctAnswer": "everyday",
+    "points": 10
+  },
+  {
+    "questionText": "I go to school _______.",
+    "options": ["every day", "everyday", "daily day", "day"],
+    "correctAnswer": "every day",
+    "points": 10
+  },
+  {
+    "questionText": "What is your main _______?",
+    "options": ["objective", "object", "thing", "item"],
+    "correctAnswer": "objective",
+    "points": 10
+  },
+  {
+    "questionText": "You must drive _______.",
+    "options": ["safely", "safety", "safe", "save"],
+    "correctAnswer": "safely",
+    "points": 10
+  },
+  {
+    "questionText": "Your _______ is important to us.",
+    "options": ["safety", "safely", "safe", "save"],
+    "correctAnswer": "safety",
+    "points": 10
+  },
+  {
+    "questionText": "To _______ is to explain exactly what something is.",
+    "options": ["define", "refine", "find", "fine"],
+    "correctAnswer": "define",
+    "points": 10
+  },
+  {
+    "questionText": "_______ means making something.",
+    "options": ["Creation", "Creativity", "Creator", "Create"],
+    "correctAnswer": "Creation",
+    "points": 10
+  },
+  {
+    "questionText": "_______ is the ability to imagine new ideas.",
+    "options": ["Creativity", "Creation", "Creator", "Created"],
+    "correctAnswer": "Creativity",
+    "points": 10
+  },
+  {
+    "questionText": "From my _______, this is a good idea.",
+    "options": ["perspective", "perception", "perceive", "person"],
+    "correctAnswer": "perspective",
+    "points": 10
+  },
+  {
+    "questionText": "He is a good problem _______.",
+    "options": ["solver", "solution", "solve", "solving"],
+    "correctAnswer": "solver",
+    "points": 10
+  },
+  {
+    "questionText": "We need a _______ to this problem.",
+    "options": ["solution", "solver", "solve", "solving"],
+    "correctAnswer": "solution",
+    "points": 10
+  },
+  {
+    "questionText": "That idea is _______! It will never work.",
+    "options": ["crazy", "sane", "wise", "smart"],
+    "correctAnswer": "crazy",
+    "points": 10
+  },
+  {
+    "questionText": "To _______ a drawing means to create a picture.",
+    "options": ["make", "do", "say", "tell"],
+    "correctAnswer": "make",
+    "points": 10
+  },
+  {
+    "questionText": "Designers _______ problems.",
+    "options": ["solve", "make", "create", "start"],
+    "correctAnswer": "solve",
+    "points": 10
+  },
+  {
+    "questionText": "We should _______ ideas.",
+    "options": ["explore", "ignore", "hide", "lose"],
+    "correctAnswer": "explore",
+    "points": 10
+  },
+  {
+    "questionText": "Can you _______ solutions?",
+    "options": ["imagine", "sleep", "eat", "walk"],
+    "correctAnswer": "imagine",
+    "points": 10
+  },
+  {
+    "questionText": "That sounds _______.",
+    "options": ["impossible", "impossibly", "possibility", "possible"],
+    "correctAnswer": "impossible",
+    "points": 10
+  },
+  {
+    "questionText": "It takes a _______ time.",
+    "options": ["long", "tall", "high", "heavy"],
+    "correctAnswer": "long",
+    "points": 10
+  },
+  {
+    "questionText": "We must _______ rules.",
+    "options": ["follow", "break", "ignore", "forget"],
+    "correctAnswer": "follow",
+    "points": 10
+  },
+  {
+    "questionText": "He is interested _______ art.",
+    "options": ["in", "on", "at", "with"],
+    "correctAnswer": "in",
+    "points": 10
+  },
+  {
+    "questionText": "I think _______ my future.",
+    "options": ["about", "on", "in", "at"],
+    "correctAnswer": "about",
+    "points": 10
+  },
+  {
+    "questionText": "Look _______ you.",
+    "options": ["around", "up", "down", "off"],
+    "correctAnswer": "around",
+    "points": 10
+  },
+  {
+    "questionText": "Designers _______ the world better.",
+    "options": ["make", "do", "say", "tell"],
+    "correctAnswer": "make",
+    "points": 10
+  },
+  {
+    "questionText": "_______, wash your hands.",
+    "options": ["First", "Then", "Next", "Finally"],
+    "correctAnswer": "First",
+    "points": 10
+  },
+  {
+    "questionText": "_______, mix the ingredients.",
+    "options": ["Then", "First", "Start", "Begin"],
+    "correctAnswer": "Then",
+    "points": 10
+  },
+  {
+    "questionText": "_______, serve the food.",
+    "options": ["Finally", "First", "Start", "Begin"],
+    "correctAnswer": "Finally",
+    "points": 10
+  },
+  {
+    "questionText": "To start with means _______.",
+    "options": ["Firstly", "Lastly", "Finally", "End"],
+    "correctAnswer": "Firstly",
+    "points": 10
+  },
+  {
+    "questionText": "Next means _______.",
+    "options": ["Then", "First", "Last", "End"],
+    "correctAnswer": "Then",
+    "points": 10
+  },
+  {
+    "questionText": "To sum up means _______.",
+    "options": ["Finally", "First", "Next", "Then"],
+    "correctAnswer": "Finally",
+    "points": 10
+  },
+  {
+    "questionText": "_______ your homework regularly.",
+    "options": ["Do", "Does", "Doing", "Did"],
+    "correctAnswer": "Do",
+    "points": 10
+  },
+  {
+    "questionText": "_______ waste your time.",
+    "options": ["Don't", "Doesn't", "Not", "No"],
+    "correctAnswer": "Don't",
+    "points": 10
+  },
+  {
+    "questionText": "_______ speak loudly in the library.",
+    "options": ["Never", "Always", "Do", "Please"],
+    "correctAnswer": "Never",
+    "points": 10
+  },
+  {
+    "questionText": "_______ open the door.",
+    "options": ["Please", "Don't", "Never", "Not"],
+    "correctAnswer": "Please",
+    "points": 10
+  },
+  {
+    "questionText": "Always _______ your hands.",
+    "options": ["wash", "washing", "washed", "washes"],
+    "correctAnswer": "wash",
+    "points": 10
+  },
+  {
+    "questionText": "_______ forget your keys.",
+    "options": ["Don't", "Do", "Always", "Please"],
+    "correctAnswer": "Don't",
+    "points": 10
+  },
+  {
+    "questionText": "Correct the mistake: 'Then, prepare ingredients. Next wash your hands.' (Order)",
+    "options": ["First, wash your hands.", "Finally, wash your hands.", "End, wash your hands.", "Last, wash your hands."],
+    "correctAnswer": "First, wash your hands.",
+    "points": 10
+  },
+  {
+    "questionText": "Correct the mistake: 'Please, to write your name.'",
+    "options": ["write", "writing", "wrote", "writes"],
+    "correctAnswer": "write",
+    "points": 10
+  },
+  {
+    "questionText": "Correct the mistake: 'Didn't go outside.'",
+    "options": ["Don't", "Not", "No", "Never"],
+    "correctAnswer": "Don't",
+    "points": 10
+  },
+  {
+    "questionText": "Correct the mistake: 'Never doing your work late.'",
+    "options": ["do", "did", "done", "does"],
+    "correctAnswer": "do",
+    "points": 10
+  },
+  {
+    "questionText": "Correct the mistake: 'Always to go to bed early.'",
+    "options": ["go", "going", "went", "gone"],
+    "correctAnswer": "go",
+    "points": 10
+  },
+  {
+    "questionText": "Correct the mistake: 'Don't speaks loudly.'",
+    "options": ["speak", "speaking", "spoke", "spoken"],
+    "correctAnswer": "speak",
+    "points": 10
+  },
+  {
+    "questionText": "Designers are everyday _______.",
+    "options": ["problem-solvers", "problem-makers", "teachers", "doctors"],
+    "correctAnswer": "problem-solvers",
+    "points": 10
+  },
+  {
+    "questionText": "Designers create things that are useful and _______.",
+    "options": ["fun", "boring", "hard", "ugly"],
+    "correctAnswer": "fun",
+    "points": 10
+  },
+  {
+    "questionText": "A designer asks: 'How can I make it _______?'",
+    "options": ["better", "worse", "broken", "lost"],
+    "correctAnswer": "better",
+    "points": 10
+  },
+  {
+    "questionText": "Great designers don't just draw; they _______ ideas.",
+    "options": ["explore", "ignore", "hide", "stop"],
+    "correctAnswer": "explore",
+    "points": 10
+  },
+  {
+    "questionText": "They test simple models called _______.",
+    "options": ["prototypes", "photos", "toys", "games"],
+    "correctAnswer": "prototypes",
+    "points": 10
+  },
+  {
+    "questionText": "_______ is an important skill in design.",
+    "options": ["Empathy", "Anger", "Sleep", "Hunger"],
+    "correctAnswer": "Empathy",
+    "points": 10
+  },
+  {
+    "questionText": "Designers think about how people _______ with things.",
+    "options": ["interact", "fight", "sleep", "eat"],
+    "correctAnswer": "interact",
+    "points": 10
+  },
+  {
+    "questionText": "Designing a backpack is about style and _______.",
+    "options": ["comfort", "taste", "smell", "sound"],
+    "correctAnswer": "comfort",
+    "points": 10
+  },
+  {
+    "questionText": "A designer for life might help people _______ their time.",
+    "options": ["organize", "waste", "lose", "spend"],
+    "correctAnswer": "organize",
+    "points": 10
+  },
+  {
+    "questionText": "Design thinking means _______ about people.",
+    "options": ["caring", "forgetting", "hating", "ignoring"],
+    "correctAnswer": "caring",
+    "points": 10
+  },
+  {
+    "questionText": "A design sprint solves a problem in _______ days.",
+    "options": ["five", "ten", "two", "thirty"],
+    "correctAnswer": "five",
+    "points": 10
+  },
+  {
+    "questionText": "On Sunday, the team _______ the problem.",
+    "options": ["defined", "ignored", "forgot", "lost"],
+    "correctAnswer": "defined",
+    "points": 10
+  },
+  {
+    "questionText": "The challenge was about healthy _______.",
+    "options": ["lunches", "dinners", "breakfasts", "snacks"],
+    "correctAnswer": "lunches",
+    "points": 10
+  },
+  {
+    "questionText": "Monday was _______ day.",
+    "options": ["ideation", "sleeping", "eating", "playing"],
+    "correctAnswer": "ideation",
+    "points": 10
+  },
+  {
+    "questionText": "They brainstormed over _______ ideas.",
+    "options": ["50", "5", "10", "100"],
+    "correctAnswer": "50",
+    "points": 10
+  },
+  {
+    "questionText": "Some ideas were _______, like a robot chef.",
+    "options": ["crazy", "boring", "sad", "bad"],
+    "correctAnswer": "crazy",
+    "points": 10
+  },
+  {
+    "questionText": "Other ideas were _______, like an express line.",
+    "options": ["practical", "impossible", "hard", "useless"],
+    "correctAnswer": "practical",
+    "points": 10
+  },
+  {
+    "questionText": "They created a simple _______ design.",
+    "options": ["app", "car", "house", "shoe"],
+    "correctAnswer": "app",
+    "points": 10
+  },
+  {
+    "questionText": "They created a new cafeteria _______.",
+    "options": ["layout", "food", "drink", "staff"],
+    "correctAnswer": "layout",
+    "points": 10
+  },
+  {
+    "questionText": "Finally, they _______ with real students.",
+    "options": ["tested", "played", "fought", "slept"],
+    "correctAnswer": "tested",
+    "points": 10
+  },
+  {
+    "questionText": "Students loved the _______ line idea.",
+    "options": ["express", "slow", "long", "bad"],
+    "correctAnswer": "express",
+    "points": 10
+  },
+  {
+    "questionText": "Omar loved _______ things.",
+    "options": ["designing", "breaking", "losing", "hiding"],
+    "correctAnswer": "designing",
+    "points": 10
+  },
+  {
+    "questionText": "His teacher said: 'See through their _______.'",
+    "options": ["eyes", "ears", "hands", "feet"],
+    "correctAnswer": "eyes",
+    "points": 10
+  },
+  {
+    "questionText": "Omar spent a day with a _______ student.",
+    "options": ["new", "old", "bad", "mean"],
+    "correctAnswer": "new",
+    "points": 10
+  },
+  {
+    "questionText": "The new student looked _______.",
+    "options": ["confused", "happy", "excited", "proud"],
+    "correctAnswer": "confused",
+    "points": 10
+  },
+  {
+    "questionText": "Omar and his group wrote _______ what they noticed.",
+    "options": ["down", "up", "in", "out"],
+    "correctAnswer": "down",
+    "points": 10
+  },
+  {
+    "questionText": "They created a 'Welcome _______' plan.",
+    "options": ["Buddy", "Enemy", "Stranger", "Guest"],
+    "correctAnswer": "Buddy",
+    "points": 10
+  },
+  {
+    "questionText": "Good design starts with real _______.",
+    "options": ["people", "robots", "money", "cars"],
+    "correctAnswer": "people",
+    "points": 10
+  },
+  {
+    "questionText": "A 'buddy' is a _______.",
+    "options": ["friend", "enemy", "teacher", "parent"],
+    "correctAnswer": "friend",
+    "points": 10
+  },
+  {
+    "questionText": "_______ means farming.",
+    "options": ["Agriculture", "Industry", "Trade", "Mining"],
+    "correctAnswer": "Agriculture",
+    "points": 10
+  },
+  {
+    "questionText": "Someone 'dedicated' is _______.",
+    "options": ["hardworking", "lazy", "bad", "slow"],
+    "correctAnswer": "hardworking",
+    "points": 10
+  },
+  {
+    "questionText": "To 'quit' means to _______.",
+    "options": ["leave", "start", "begin", "stay"],
+    "correctAnswer": "leave",
+    "points": 10
+  },
+  {
+    "questionText": "_______ means looking carefully at something.",
+    "options": ["Noticing", "Ignoring", "Sleeping", "Running"],
+    "correctAnswer": "Noticing",
+    "points": 10
+  },
+  {
+    "questionText": "The word 'newcomer' means _______.",
+    "options": ["new person", "old person", "teacher", "boss"],
+    "correctAnswer": "new person",
+    "points": 10
+  },
+  {
+    "questionText": "We should show _______ to others.",
+    "options": ["respect", "anger", "hate", "fear"],
+    "correctAnswer": "respect",
+    "points": 10
+  },
+  {
+    "questionText": "Dr. Yacoub _______ many young doctors.",
+    "options": ["inspired", "stopped", "hated", "bored"],
+    "correctAnswer": "inspired",
+    "points": 10
+  },
+  {
+    "questionText": "Being honest makes people _______ you.",
+    "options": ["trust", "doubt", "fear", "hate"],
+    "correctAnswer": "trust",
+    "points": 10
+  },
+  {
+    "questionText": "A _______ looks after a garden.",
+    "options": ["gardener", "doctor", "pilot", "nurse"],
+    "correctAnswer": "gardener",
+    "points": 10
+  },
+  {
+    "questionText": "Antonym of 'honest' is _______.",
+    "options": ["dishonest", "truthful", "sincere", "real"],
+    "correctAnswer": "dishonest",
+    "points": 10
+  },
+  {
+    "questionText": "Antonym of 'close' is _______.",
+    "options": ["distant", "near", "next", "by"],
+    "correctAnswer": "distant",
+    "points": 10
+  },
+  {
+    "questionText": "Synonym of 'confused' is _______.",
+    "options": ["puzzled", "clear", "sure", "certain"],
+    "correctAnswer": "puzzled",
+    "points": 10
+  },
+  {
+    "questionText": "Synonym of 'careful' is _______.",
+    "options": ["cautious", "reckless", "fast", "bad"],
+    "correctAnswer": "cautious",
+    "points": 10
+  },
+  {
+    "questionText": "Suffix for 'growth' is _______.",
+    "options": ["-th", "-tion", "-ment", "-ness"],
+    "correctAnswer": "-th",
+    "points": 10
+  },
+  {
+    "questionText": "Suffix for 'leader' is _______.",
+    "options": ["-ship", "-ness", "-ity", "-ment"],
+    "correctAnswer": "-ship",
+    "points": 10
+  },
+  {
+    "questionText": "It's easy _______ this lesson.",
+    "options": ["to understand", "understand", "understanding", "understood"],
+    "correctAnswer": "to understand",
+    "points": 10
+  },
+  {
+    "questionText": "Design thinking means _______ about people.",
+    "options": ["caring", "care", "cares", "cared"],
+    "correctAnswer": "caring",
+    "points": 10
+  },
+  {
+    "questionText": "_______ Saturday, I do activities.",
+    "options": ["On", "In", "At", "By"],
+    "correctAnswer": "On",
+    "points": 10
+  },
+  {
+    "questionText": "She is interested _______ music.",
+    "options": ["in", "on", "at", "with"],
+    "correctAnswer": "in",
+    "points": 10
+  },
+  {
+    "questionText": "I'd love _______ designs.",
+    "options": ["to create", "creating", "create", "created"],
+    "correctAnswer": "to create",
+    "points": 10
+  },
+  {
+    "questionText": "Zeina looked _______.",
+    "options": ["confused", "confusing", "confuse", "confusion"],
+    "correctAnswer": "confused",
+    "points": 10
+  },
+  {
+    "questionText": "He made us _______.",
+    "options": ["laugh", "to laugh", "laughing", "laughed"],
+    "correctAnswer": "laugh",
+    "points": 10
+  },
+  {
+    "questionText": "I saw _______ important.",
+    "options": ["someone", "some", "any", "no"],
+    "correctAnswer": "someone",
+    "points": 10
+  },
+  {
+    "questionText": "Don't _______ trash on the floor.",
+    "options": ["throw", "through", "threw", "thrown"],
+    "correctAnswer": "throw",
+    "points": 10
+  },
+  {
+    "questionText": "We walked _______ the park.",
+    "options": ["through", "throw", "thorough", "though"],
+    "correctAnswer": "through",
+    "points": 10
+  },
+  {
+    "questionText": "He is very _______; he works hard.",
+    "options": ["industrious", "industrial", "industry", "factory"],
+    "correctAnswer": "industrious",
+    "points": 10
+  },
+  {
+    "questionText": "Please be _______.",
+    "options": ["quiet", "quite", "quit", "queen"],
+    "correctAnswer": "quiet",
+    "points": 10
+  },
+  {
+    "questionText": "The lesson was _______.",
+    "options": ["confusing", "confused", "confuse", "confusion"],
+    "correctAnswer": "confusing",
+    "points": 10
+  },
+  {
+    "questionText": "A _______ helps you remember things.",
+    "options": ["reminder chart", "book", "pen", "desk"],
+    "correctAnswer": "reminder chart",
+    "points": 10
+  },
+  {
+    "questionText": "To 'brainstorm' means to _______ ideas.",
+    "options": ["generate", "destroy", "hide", "lose"],
+    "correctAnswer": "generate",
+    "points": 10
+  },
+  {
+    "questionText": "Don't _______ to ask for help.",
+    "options": ["hesitate", "stop", "wait", "run"],
+    "correctAnswer": "hesitate",
+    "points": 10
+  },
+  {
+    "questionText": "I made a great _______.",
+    "options": ["effort", "effect", "affect", "efficient"],
+    "correctAnswer": "effort",
+    "points": 10
+  },
+  {
+    "questionText": "A 'process' is a series of _______.",
+    "options": ["steps", "jumps", "runs", "sleeps"],
+    "correctAnswer": "steps",
+    "points": 10
+  },
+  {
+    "questionText": "Something 'perfect' is _______.",
+    "options": ["ideal", "bad", "wrong", "poor"],
+    "correctAnswer": "ideal",
+    "points": 10
+  },
+  {
+    "questionText": "To 'make sense' means to be _______.",
+    "options": ["logical", "crazy", "silly", "funny"],
+    "correctAnswer": "logical",
+    "points": 10
+  },
+  {
+    "questionText": "To 'come up with' means to _______.",
+    "options": ["invent", "destroy", "lose", "break"],
+    "correctAnswer": "invent",
+    "points": 10
+  },
+  {
+    "questionText": "We need to _______ our prototype.",
+    "options": ["improve", "worsen", "break", "hide"],
+    "correctAnswer": "improve",
+    "points": 10
+  },
+  {
+    "questionText": "A synonym for 'worry' is _______.",
+    "options": ["concern", "happy", "joy", "peace"],
+    "correctAnswer": "concern",
+    "points": 10
+  },
+  {
+    "questionText": "An antonym for 'useful' is _______.",
+    "options": ["useless", "helpful", "good", "great"],
+    "correctAnswer": "useless",
+    "points": 10
+  },
+  {
+    "questionText": "To 'fix' means to _______.",
+    "options": ["repair", "break", "destroy", "ruin"],
+    "correctAnswer": "repair",
+    "points": 10
+  },
+  {
+    "questionText": "Something 'natural' is _______.",
+    "options": ["normal", "artificial", "fake", "made"],
+    "correctAnswer": "normal",
+    "points": 10
+  },
+  {
+    "questionText": "Suffix for 'use' to make adjective: _______.",
+    "options": ["-ful", "-less", "-ness", "-ly"],
+    "correctAnswer": "-ful",
+    "points": 10
+  },
+  {
+    "questionText": "Suffix for 'nature' to make adjective: _______.",
+    "options": ["-al", "-ous", "-ive", "-ful"],
+    "correctAnswer": "-al",
+    "points": 10
+  },
+  {
+    "questionText": "We say _______ when we finish a topic.",
+    "options": ["Lastly", "Firstly", "Start", "Begin"],
+    "correctAnswer": "Lastly",
+    "points": 10
+  },
+  {
+    "questionText": "After reading, I _______ the story.",
+    "options": ["summarized", "forgot", "lost", "hid"],
+    "correctAnswer": "summarized",
+    "points": 10
+  },
+  {
+    "questionText": "We need to make _______ to the plan.",
+    "options": ["changes", "static", "fixed", "same"],
+    "correctAnswer": "changes",
+    "points": 10
+  },
+  {
+    "questionText": "She _______ about her exams.",
+    "options": ["worried", "happy", "glad", "pleased"],
+    "correctAnswer": "worried",
+    "points": 10
+  },
+  {
+    "questionText": "What you say makes no _______.",
+    "options": ["sense", "sensing", "sensed", "senses"],
+    "correctAnswer": "sense",
+    "points": 10
+  },
+  {
+    "questionText": "He kept _______ for his keys.",
+    "options": ["looking", "look", "looked", "looks"],
+    "correctAnswer": "looking",
+    "points": 10
+  },
+  {
+    "questionText": "The manager asked _______ feedback.",
+    "options": ["for", "to", "at", "on"],
+    "correctAnswer": "for",
+    "points": 10
+  },
+  {
+    "questionText": "_______ your drawing skills.",
+    "options": ["Improve", "Improves", "Improving", "Improved"],
+    "correctAnswer": "Improve",
+    "points": 10
+  },
+  {
+    "questionText": "_______ touch the exhibits.",
+    "options": ["Don't", "Not", "No", "Never to"],
+    "correctAnswer": "Don't",
+    "points": 10
+  }
+]
+        }
+      ]
+    },
+    {
+      "id": "g3_u6",
+      "unitName": "Unit 6",
+      "icon": "ime.png",
+      "isFree": false,
+      "resources": [
+        {
+          "type": "pdf",
+          "title": "Unit PDF",
+          "url": "LINK_TO_PDF_HERE"
+        },
+        {
+          "type": "video",
+          "title": "Video Lesson",
+          "url": "LINK_TO_VIDEO_HERE"
+        },
+        {
+          "type": "quiz",
+          "title": "Unit Test",
+          "questions": [
+  {
+    "questionText": "What does 'empathy' mean?",
+    "options": ["To ignore others", "The ability to understand and share feelings", "To be selfish", "To write stories"],
+    "correctAnswer": "The ability to understand and share feelings",
+    "points": 10
+  },
+  {
+    "questionText": "To _______ is to start or cause something to happen.",
+    "options": ["finish", "spark", "end", "stop"],
+    "correctAnswer": "spark",
+    "points": 10
+  },
+  {
+    "questionText": "Someone who is _______ knows or notices something.",
+    "options": ["aware", "asleep", "ignorant", "blind"],
+    "correctAnswer": "aware",
+    "points": 10
+  },
+  {
+    "questionText": "A _______ is a serious disagreement or argument.",
+    "options": ["peace", "harmony", "conflict", "agreement"],
+    "correctAnswer": "conflict",
+    "points": 10
+  },
+  {
+    "questionText": "_______ means many and not the same.",
+    "options": ["Similar", "Various", "One", "Single"],
+    "correctAnswer": "Various",
+    "points": 10
+  },
+  {
+    "questionText": "To think _______ means to think carefully and thoughtfully.",
+    "options": ["critically", "quickly", "badly", "slowly"],
+    "correctAnswer": "critically",
+    "points": 10
+  },
+  {
+    "questionText": "A _______ is a formal discussion on a particular topic.",
+    "options": ["fight", "silence", "debate", "sleep"],
+    "correctAnswer": "debate",
+    "points": 10
+  },
+  {
+    "questionText": "_______ relates to what is right or wrong in behavior.",
+    "options": ["Moral", "Physical", "Mental", "Digital"],
+    "correctAnswer": "Moral",
+    "points": 10
+  },
+  {
+    "questionText": "A _______ is a suggestion or advice on what is best to do.",
+    "options": ["command", "recommendation", "punishment", "lie"],
+    "correctAnswer": "recommendation",
+    "points": 10
+  },
+  {
+    "questionText": "Your _______ of view is the way you see things.",
+    "options": ["point", "dot", "line", "mark"],
+    "correctAnswer": "point",
+    "points": 10
+  },
+  {
+    "questionText": "To _______ is to answer or react.",
+    "options": ["respond", "ignore", "ask", "leave"],
+    "correctAnswer": "respond",
+    "points": 10
+  },
+  {
+    "questionText": "Something _______ gives you fun and pleasure.",
+    "options": ["boring", "enjoyable", "sad", "bad"],
+    "correctAnswer": "enjoyable",
+    "points": 10
+  },
+  {
+    "questionText": "_______ refers to the ability to form new ideas or pictures in the mind.",
+    "options": ["Imagination", "Memory", "History", "Fact"],
+    "correctAnswer": "Imagination",
+    "points": 10
+  },
+  {
+    "questionText": "To _______ means to present something or someone for the first time.",
+    "options": ["finish", "introduce", "hide", "remove"],
+    "correctAnswer": "introduce",
+    "points": 10
+  },
+  {
+    "questionText": "We read stories to _______ different worlds.",
+    "options": ["explore", "destroy", "forget", "lose"],
+    "correctAnswer": "explore",
+    "points": 10
+  },
+  {
+    "questionText": "Reading helps us _______ important life skills.",
+    "options": ["develop", "stop", "break", "cut"],
+    "correctAnswer": "develop",
+    "points": 10
+  },
+  {
+    "questionText": "Stories can help us become _______ and smarter.",
+    "options": ["wiser", "weaker", "sadder", "angrier"],
+    "correctAnswer": "wiser",
+    "points": 10
+  },
+  {
+    "questionText": "To be _______ means unable to move.",
+    "options": ["free", "stuck", "fast", "loose"],
+    "correctAnswer": "stuck",
+    "points": 10
+  },
+  {
+    "questionText": "Something _______ is not right or just.",
+    "options": ["fair", "unfair", "good", "legal"],
+    "correctAnswer": "unfair",
+    "points": 10
+  },
+  {
+    "questionText": "A _______ is a person in a story.",
+    "options": ["character", "letter", "word", "page"],
+    "correctAnswer": "character",
+    "points": 10
+  },
+  {
+    "questionText": "To _______ means to make a loud cry.",
+    "options": ["whisper", "shout", "smile", "sleep"],
+    "correctAnswer": "shout",
+    "points": 10
+  },
+  {
+    "questionText": "_______ means happening in the mind.",
+    "options": ["Physically", "Mentally", "Manually", "Locally"],
+    "correctAnswer": "Mentally",
+    "points": 10
+  },
+  {
+    "questionText": "Synonym of 'various' is _______.",
+    "options": ["different", "same", "one", "similar"],
+    "correctAnswer": "different",
+    "points": 10
+  },
+  {
+    "questionText": "Antonym of 'aware' is _______.",
+    "options": ["conscious", "unaware", "knowing", "alert"],
+    "correctAnswer": "unaware",
+    "points": 10
+  },
+  {
+    "questionText": "Synonym of 'respond' is _______.",
+    "options": ["reply", "ask", "question", "ignore"],
+    "correctAnswer": "reply",
+    "points": 10
+  },
+  {
+    "questionText": "Antonym of 'respectful' is _______.",
+    "options": ["polite", "rude", "kind", "good"],
+    "correctAnswer": "rude",
+    "points": 10
+  },
+  {
+    "questionText": "Synonym of 'spark' is _______.",
+    "options": ["start", "end", "finish", "stop"],
+    "correctAnswer": "start",
+    "points": 10
+  },
+  {
+    "questionText": "Antonym of 'unfair' is _______.",
+    "options": ["just", "wrong", "bad", "illegal"],
+    "correctAnswer": "just",
+    "points": 10
+  },
+  {
+    "questionText": "Synonym of 'debate' is _______.",
+    "options": ["discussion", "agreement", "silence", "peace"],
+    "correctAnswer": "discussion",
+    "points": 10
+  },
+  {
+    "questionText": "To change 'critic' to an adverb, we add _______.",
+    "options": ["-ally", "-ness", "-tion", "-ment"],
+    "correctAnswer": "-ally",
+    "points": 10
+  },
+  {
+    "questionText": "To make 'recommend' a noun, we add _______.",
+    "options": ["-ation", "-ly", "-ful", "-ous"],
+    "correctAnswer": "-ation",
+    "points": 10
+  },
+  {
+    "questionText": "The adjective form of 'value' is _______.",
+    "options": ["valuable", "valuation", "valuably", "values"],
+    "correctAnswer": "valuable",
+    "points": 10
+  },
+  {
+    "questionText": "The noun from 'decide' is _______.",
+    "options": ["decision", "decisive", "deciding", "decided"],
+    "correctAnswer": "decision",
+    "points": 10
+  },
+  {
+    "questionText": "The adjective form of 'emotion' is _______.",
+    "options": ["emotional", "emotionally", "emotive", "emotes"],
+    "correctAnswer": "emotional",
+    "points": 10
+  },
+  {
+    "questionText": "Suffix for 'enjoy' to make adjective: _______.",
+    "options": ["-able", "-ment", "-ness", "-tion"],
+    "correctAnswer": "-able",
+    "points": 10
+  },
+  {
+    "questionText": "We face _______ in life.",
+    "options": ["challenges", "challenging", "challenged", "challenge"],
+    "correctAnswer": "challenges",
+    "points": 10
+  },
+  {
+    "questionText": "He made a good _______.",
+    "options": ["decision", "decide", "deciding", "decided"],
+    "correctAnswer": "decision",
+    "points": 10
+  },
+  {
+    "questionText": "Stories spark our _______.",
+    "options": ["imagination", "imagine", "imagining", "imagined"],
+    "correctAnswer": "imagination",
+    "points": 10
+  },
+  {
+    "questionText": "We should be _______ of others' feelings.",
+    "options": ["aware", "awareness", "away", "awaring"],
+    "correctAnswer": "aware",
+    "points": 10
+  },
+  {
+    "questionText": "Ali said, 'I am happy.' (Change to Reported Speech) -> Ali said that he _______ happy.",
+    "options": ["is", "was", "were", "been"],
+    "correctAnswer": "was",
+    "points": 10
+  },
+  {
+    "questionText": "Mona said, 'I play tennis.' -> Mona said that she _______ tennis.",
+    "options": ["played", "plays", "playing", "play"],
+    "correctAnswer": "played",
+    "points": 10
+  },
+  {
+    "questionText": "He said, 'I have finished.' -> He said that he _______ finished.",
+    "options": ["had", "has", "have", "having"],
+    "correctAnswer": "had",
+    "points": 10
+  },
+  {
+    "questionText": "She said, 'I will travel.' -> She said that she _______ travel.",
+    "options": ["would", "will", "can", "may"],
+    "correctAnswer": "would",
+    "points": 10
+  },
+  {
+    "questionText": "Ahmed said to me, 'I am busy.' -> Ahmed _______ me that he was busy.",
+    "options": ["said", "told", "asked", "ordered"],
+    "correctAnswer": "told",
+    "points": 10
+  },
+  {
+    "questionText": "They said, 'We are studying.' -> They said that they _______ studying.",
+    "options": ["were", "are", "been", "was"],
+    "correctAnswer": "were",
+    "points": 10
+  },
+  {
+    "questionText": "'I lived in Cairo,' he said. -> He said that he _______ in Cairo.",
+    "options": ["had lived", "lived", "living", "lives"],
+    "correctAnswer": "had lived",
+    "points": 10
+  },
+  {
+    "questionText": "She said, 'I must go.' -> She said that she _______ go.",
+    "options": ["had to", "must", "has to", "should"],
+    "correctAnswer": "had to",
+    "points": 10
+  },
+  {
+    "questionText": "In reported speech, 'tomorrow' becomes _______.",
+    "options": ["the next day", "yesterday", "that day", "the previous day"],
+    "correctAnswer": "the next day",
+    "points": 10
+  },
+  {
+    "questionText": "In reported speech, 'now' becomes _______.",
+    "options": ["then", "today", "that day", "before"],
+    "correctAnswer": "then",
+    "points": 10
+  },
+  {
+    "questionText": "In reported speech, 'here' becomes _______.",
+    "options": ["there", "where", "that", "this"],
+    "correctAnswer": "there",
+    "points": 10
+  },
+  {
+    "questionText": "In reported speech, 'this' becomes _______.",
+    "options": ["that", "these", "those", "it"],
+    "correctAnswer": "that",
+    "points": 10
+  },
+  {
+    "questionText": "In reported speech, 'yesterday' becomes _______.",
+    "options": ["the day before", "tomorrow", "today", "the next day"],
+    "correctAnswer": "the day before",
+    "points": 10
+  },
+  {
+    "questionText": "Choose the correct sentence: He said that...",
+    "options": ["he was tired.", "he is tired.", "I am tired.", "he has tired."],
+    "correctAnswer": "he was tired.",
+    "points": 10
+  },
+  {
+    "questionText": "Choose the correct sentence: She told me...",
+    "options": ["she played tennis.", "she plays tennis.", "I play tennis.", "she playing tennis."],
+    "correctAnswer": "she played tennis.",
+    "points": 10
+  },
+  {
+    "questionText": "Correct the mistake: 'He said me he was ill.'",
+    "options": ["told", "says", "tell", "asking"],
+    "correctAnswer": "told",
+    "points": 10
+  },
+  {
+    "questionText": "Correct the mistake: 'She said she is happy then.'",
+    "options": ["was", "be", "were", "been"],
+    "correctAnswer": "was",
+    "points": 10
+  },
+  {
+    "questionText": "Correct the mistake: 'They told they would come.'",
+    "options": ["said", "tell", "telling", "says"],
+    "correctAnswer": "said",
+    "points": 10
+  },
+  {
+    "questionText": "Correct the mistake: 'He said he has done it.' (Reporting a past action)",
+    "options": ["had", "have", "having", "hasn't"],
+    "correctAnswer": "had",
+    "points": 10
+  },
+  {
+    "questionText": "Correct the mistake: 'She said she will see me tomorrow.'",
+    "options": ["would see me the next day", "will see me tomorrow", "would see me tomorrow", "will see me the next day"],
+    "correctAnswer": "would see me the next day",
+    "points": 10
+  },
+  {
+    "questionText": "The _______ is the mouth of a bird.",
+    "options": ["beak", "nose", "lip", "tooth"],
+    "correctAnswer": "beak",
+    "points": 10
+  },
+  {
+    "questionText": "A _______ is a famous or important story.",
+    "options": ["tale", "tail", "tall", "tell"],
+    "correctAnswer": "tale",
+    "points": 10
+  },
+  {
+    "questionText": "A _______ is a short story with a moral, often with animals.",
+    "options": ["fable", "novel", "history", "news"],
+    "correctAnswer": "fable",
+    "points": 10
+  },
+  {
+    "questionText": "_______ stories are about imaginary events.",
+    "options": ["Fiction", "Non-fiction", "Fact", "True"],
+    "correctAnswer": "Fiction",
+    "points": 10
+  },
+  {
+    "questionText": "The _______ is where and when the story happens.",
+    "options": ["setting", "plot", "character", "ending"],
+    "correctAnswer": "setting",
+    "points": 10
+  },
+  {
+    "questionText": "The _______ is the lesson learned from a story.",
+    "options": ["moral", "title", "cover", "author"],
+    "correctAnswer": "moral",
+    "points": 10
+  },
+  {
+    "questionText": "A _______ is a bird with black feathers.",
+    "options": ["crow", "cow", "cat", "crab"],
+    "correctAnswer": "crow",
+    "points": 10
+  },
+  {
+    "questionText": "The fox wanted the _______ in the crow's beak.",
+    "options": ["cheese", "bread", "meat", "fruit"],
+    "correctAnswer": "cheese",
+    "points": 10
+  },
+  {
+    "questionText": "The fox told the crow her voice was _______.",
+    "options": ["sweet", "bad", "ugly", "loud"],
+    "correctAnswer": "sweet",
+    "points": 10
+  },
+  {
+    "questionText": "When the crow sang, the cheese _______.",
+    "options": ["fell", "flew", "ate", "stuck"],
+    "correctAnswer": "fell",
+    "points": 10
+  },
+  {
+    "questionText": "The dog was walking across a _______.",
+    "options": ["bridge", "road", "hill", "roof"],
+    "correctAnswer": "bridge",
+    "points": 10
+  },
+  {
+    "questionText": "The dog saw his _______ in the water.",
+    "options": ["shadow", "friend", "bone", "tail"],
+    "correctAnswer": "shadow",
+    "points": 10
+  },
+  {
+    "questionText": "The dog was _______ and wanted the other bone.",
+    "options": ["greedy", "generous", "full", "kind"],
+    "correctAnswer": "greedy",
+    "points": 10
+  },
+  {
+    "questionText": "When the dog barked, his bone fell into the _______.",
+    "options": ["stream", "ground", "grass", "bowl"],
+    "correctAnswer": "stream",
+    "points": 10
+  },
+  {
+    "questionText": "A _______ is a small river.",
+    "options": ["stream", "ocean", "sea", "lake"],
+    "correctAnswer": "stream",
+    "points": 10
+  },
+  {
+    "questionText": "Something _______ shines brightly.",
+    "options": ["sparkling", "dark", "dull", "black"],
+    "correctAnswer": "sparkling",
+    "points": 10
+  },
+  {
+    "questionText": "The word 'bark' is the sound of a _______.",
+    "options": ["dog", "cat", "bird", "cow"],
+    "correctAnswer": "dog",
+    "points": 10
+  },
+  {
+    "questionText": "To _______ is to move the tail back and forth.",
+    "options": ["wag", "walk", "wig", "way"],
+    "correctAnswer": "wag",
+    "points": 10
+  },
+  {
+    "questionText": "The boy cried '_______' to trick the villagers.",
+    "options": ["Wolf", "Lion", "Bear", "Fox"],
+    "correctAnswer": "Wolf",
+    "points": 10
+  },
+  {
+    "questionText": "No one believed the boy when he told the _______.",
+    "options": ["truth", "lie", "story", "joke"],
+    "correctAnswer": "truth",
+    "points": 10
+  },
+  {
+    "questionText": "We should not tell _______.",
+    "options": ["lies", "truth", "stories", "facts"],
+    "correctAnswer": "lies",
+    "points": 10
+  },
+  {
+    "questionText": "A _______ is a person who lives in a village.",
+    "options": ["villager", "citizen", "tourist", "guest"],
+    "correctAnswer": "villager",
+    "points": 10
+  },
+  {
+    "questionText": "The boy was watching the _______.",
+    "options": ["sheep", "cows", "dogs", "cats"],
+    "correctAnswer": "sheep",
+    "points": 10
+  },
+  {
+    "questionText": "Zeina became the student council _______.",
+    "options": ["president", "member", "secretary", "guest"],
+    "correctAnswer": "president",
+    "points": 10
+  },
+  {
+    "questionText": "Zeina learned that real leadership is about _______ others.",
+    "options": ["helping", "bossing", "ignoring", "hurting"],
+    "correctAnswer": "helping",
+    "points": 10
+  },
+  {
+    "questionText": "The garden became a _______ of teamwork.",
+    "options": ["symbol", "sign", "mark", "logo"],
+    "correctAnswer": "symbol",
+    "points": 10
+  },
+  {
+    "questionText": "Growth happens in _______ too, not just plants.",
+    "options": ["people", "rocks", "tables", "chairs"],
+    "correctAnswer": "people",
+    "points": 10
+  },
+  {
+    "questionText": "Nancy wanted to study _______.",
+    "options": ["agriculture", "engineering", "medicine", "law"],
+    "correctAnswer": "agriculture",
+    "points": 10
+  },
+  {
+    "questionText": "Amal became a _______ gardener.",
+    "options": ["dedicated", "lazy", "bad", "slow"],
+    "correctAnswer": "dedicated",
+    "points": 10
+  },
+  {
+    "questionText": "Honesty helps build _______.",
+    "options": ["trust", "fear", "anger", "doubt"],
+    "correctAnswer": "trust",
+    "points": 10
+  },
+  {
+    "questionText": "To _______ is to give someone the desire to do something.",
+    "options": ["inspire", "stop", "prevent", "block"],
+    "correctAnswer": "inspire",
+    "points": 10
+  },
+  {
+    "questionText": "A _______ is a strong wish to achieve something.",
+    "options": ["ambition", "fear", "laziness", "doubt"],
+    "correctAnswer": "ambition",
+    "points": 10
+  },
+  {
+    "questionText": "To 'quit' means to _______.",
+    "options": ["stop", "start", "begin", "continue"],
+    "correctAnswer": "stop",
+    "points": 10
+  },
+  {
+    "questionText": "Something _______ is based on real events.",
+    "options": ["non-fiction", "fiction", "fantasy", "dream"],
+    "correctAnswer": "non-fiction",
+    "points": 10
+  },
+  {
+    "questionText": "Synonym of 'well-known' is _______.",
+    "options": ["famous", "unknown", "hidden", "secret"],
+    "correctAnswer": "famous",
+    "points": 10
+  },
+  {
+    "questionText": "Synonym of 'bravery' is _______.",
+    "options": ["courage", "fear", "cowardice", "shyness"],
+    "correctAnswer": "courage",
+    "points": 10
+  },
+  {
+    "questionText": "Synonym of 'quiet' is _______.",
+    "options": ["calm", "loud", "noisy", "busy"],
+    "correctAnswer": "calm",
+    "points": 10
+  },
+  {
+    "questionText": "Antonym of 'beautiful' is _______.",
+    "options": ["ugly", "pretty", "nice", "good"],
+    "correctAnswer": "ugly",
+    "points": 10
+  },
+  {
+    "questionText": "Antonym of 'greedy' is _______.",
+    "options": ["generous", "selfish", "hungry", "wanting"],
+    "correctAnswer": "generous",
+    "points": 10
+  },
+  {
+    "questionText": "Antonym of 'true' is _______.",
+    "options": ["false", "right", "correct", "real"],
+    "correctAnswer": "false",
+    "points": 10
+  },
+  {
+    "questionText": "Antonym of 'lucky' is _______.",
+    "options": ["unlucky", "fortunate", "happy", "blessed"],
+    "correctAnswer": "unlucky",
+    "points": 10
+  },
+  {
+    "questionText": "Suffix for 'brave' to make noun: _______.",
+    "options": ["-ry", "-ness", "-ment", "-tion"],
+    "correctAnswer": "-ry",
+    "points": 10
+  },
+  {
+    "questionText": "Suffix for 'strong' to make noun: _______.",
+    "options": ["-th", "-ness", "-ment", "-ity"],
+    "correctAnswer": "-th",
+    "points": 10
+  },
+  {
+    "questionText": "Prefix 're-' in 'retell' means _______.",
+    "options": ["again", "not", "before", "after"],
+    "correctAnswer": "again",
+    "points": 10
+  },
+  {
+    "questionText": "Prefix 'non-' in 'non-fiction' means _______.",
+    "options": ["not", "very", "anti", "pre"],
+    "correctAnswer": "not",
+    "points": 10
+  },
+  {
+    "questionText": "Suffix for 'wood' to make adjective: _______.",
+    "options": ["-en", "-y", "-ful", "-ous"],
+    "correctAnswer": "-en",
+    "points": 10
+  },
+  {
+    "questionText": "The synonym of 'tasty' is _______.",
+    "options": ["delicious", "bad", "tasteless", "awful"],
+    "correctAnswer": "delicious",
+    "points": 10
+  },
+  {
+    "questionText": "To 'frighten' means to make someone _______.",
+    "options": ["afraid", "happy", "glad", "safe"],
+    "correctAnswer": "afraid",
+    "points": 10
+  },
+  {
+    "questionText": "We must _______ our mistakes.",
+    "options": ["admit", "hide", "ignore", "forget"],
+    "correctAnswer": "admit",
+    "points": 10
+  },
+  {
+    "questionText": "Stories help us understand other points of _______.",
+    "options": ["view", "sight", "vision", "look"],
+    "correctAnswer": "view",
+    "points": 10
+  },
+  {
+    "questionText": "We often remember lessons better when they are part of a _______.",
+    "options": ["story", "list", "rule", "law"],
+    "correctAnswer": "story",
+    "points": 10
+  },
+  {
+    "questionText": "Stories spark our _______ and creativity.",
+    "options": ["imagination", "boredom", "sleep", "hunger"],
+    "correctAnswer": "imagination",
+    "points": 10
+  },
+  {
+    "questionText": "Reading stories is a powerful way to become _______.",
+    "options": ["wiser", "richer", "taller", "faster"],
+    "correctAnswer": "wiser",
+    "points": 10
+  },
+  {
+    "questionText": "We should be _______ of the challenges others face.",
+    "options": ["aware", "ignorant", "careless", "blind"],
+    "correctAnswer": "aware",
+    "points": 10
+  },
+  {
+    "questionText": "Stories introduce us to different _______.",
+    "options": ["cultures", "rooms", "boxes", "walls"],
+    "correctAnswer": "cultures",
+    "points": 10
+  },
+  {
+    "questionText": "Seeing how characters solve conflicts helps us think _______.",
+    "options": ["critically", "slowly", "badly", "weakly"],
+    "correctAnswer": "critically",
+    "points": 10
+  },
+  {
+    "questionText": "We should respond to arguments _______.",
+    "options": ["calmly", "loudly", "angrily", "badly"],
+    "correctAnswer": "calmly",
+    "points": 10
+  },
+  {
+    "questionText": "Ali stayed _______ during the debate.",
+    "options": ["calm", "nervous", "angry", "loud"],
+    "correctAnswer": "calm",
+    "points": 10
+  },
+  {
+    "questionText": "To 'stuck with' someone means to _______.",
+    "options": ["be remembered by", "hit", "leave", "forget"],
+    "correctAnswer": "be remembered by",
+    "points": 10
+  },
+  {
+    "questionText": "We should listen to others' _______.",
+    "options": ["opinions", "silence", "sleep", "dreams"],
+    "correctAnswer": "opinions",
+    "points": 10
+  },
+  {
+    "questionText": "Don't _______ others for your own mistakes.",
+    "options": ["blame", "thank", "praise", "help"],
+    "correctAnswer": "blame",
+    "points": 10
+  },
+  {
+    "questionText": "Using 'said to' changes to _______ in reported speech.",
+    "options": ["told", "said", "asked", "spoke"],
+    "correctAnswer": "told",
+    "points": 10
+  },
+  {
+    "questionText": "If the reporting verb is in the past, we change the _______.",
+    "options": ["tenses", "places", "names", "colors"],
+    "correctAnswer": "tenses",
+    "points": 10
+  },
+  {
+    "questionText": "Present simple changes to _______ in reported speech.",
+    "options": ["past simple", "future", "present continuous", "past perfect"],
+    "correctAnswer": "past simple",
+    "points": 10
+  },
+  {
+    "questionText": "Past simple changes to _______ in reported speech.",
+    "options": ["past perfect", "present perfect", "future", "past continuous"],
+    "correctAnswer": "past perfect",
+    "points": 10
+  },
+  {
+    "questionText": "'Will' changes to _______ in reported speech.",
+    "options": ["would", "should", "could", "might"],
+    "correctAnswer": "would",
+    "points": 10
+  },
+  {
+    "questionText": "'Can' changes to _______ in reported speech.",
+    "options": ["could", "can't", "would", "should"],
+    "correctAnswer": "could",
+    "points": 10
+  },
+  {
+    "questionText": "'Must' changes to _______ in reported speech.",
+    "options": ["had to", "mustn't", "should", "could"],
+    "correctAnswer": "had to",
+    "points": 10
+  },
+  {
+    "questionText": "I _______ that I was hungry.",
+    "options": ["said", "told", "asked", "ordered"],
+    "correctAnswer": "said",
+    "points": 10
+  },
+  {
+    "questionText": "She _______ me the news.",
+    "options": ["told", "said", "spoke", "talked"],
+    "correctAnswer": "told",
+    "points": 10
+  },
+  {
+    "questionText": "He said that he _______ busy then.",
+    "options": ["was", "is", "be", "were"],
+    "correctAnswer": "was",
+    "points": 10
+  },
+  {
+    "questionText": "They said they _______ finished.",
+    "options": ["had", "have", "has", "having"],
+    "correctAnswer": "had",
+    "points": 10
+  },
+  {
+    "questionText": "She said she _______ go the next day.",
+    "options": ["would", "will", "can", "may"],
+    "correctAnswer": "would",
+    "points": 10
+  },
+  {
+    "questionText": "He told me he _______ play tennis.",
+    "options": ["could", "can", "will", "may"],
+    "correctAnswer": "could",
+    "points": 10
+  },
+  {
+    "questionText": "Mona said that she _______ pizza.",
+    "options": ["liked", "likes", "liking", "like"],
+    "correctAnswer": "liked",
+    "points": 10
+  },
+  {
+    "questionText": "The teacher said that water _______ at 100 degrees. (Fact)",
+    "options": ["boils", "boiled", "boiling", "boil"],
+    "correctAnswer": "boils",
+    "points": 10
+  },
+  {
+    "questionText": "She said, 'I am watching TV.' -> She said she _______ TV.",
+    "options": ["was watching", "is watching", "watched", "watches"],
+    "correctAnswer": "was watching",
+    "points": 10
+  },
+  {
+    "questionText": "He said, 'I bought a car.' -> He said he _______ a car.",
+    "options": ["had bought", "bought", "buys", "buying"],
+    "correctAnswer": "had bought",
+    "points": 10
+  },
+  {
+    "questionText": "The boys said, 'We are playing.' -> They said _______ were playing.",
+    "options": ["they", "we", "you", "them"],
+    "correctAnswer": "they",
+    "points": 10
+  },
+  {
+    "questionText": "Sara said to me, 'You are my friend.' -> Sara told me I was _______ friend.",
+    "options": ["her", "my", "his", "your"],
+    "correctAnswer": "her",
+    "points": 10
+  },
+  {
+    "questionText": "Correct: 'He said me he was tired.'",
+    "options": ["told", "says", "ask", "tell"],
+    "correctAnswer": "told",
+    "points": 10
+  },
+  {
+    "questionText": "Correct: 'She said she has eaten.' (Past reporting)",
+    "options": ["had", "have", "has", "having"],
+    "correctAnswer": "had",
+    "points": 10
+  },
+  {
+    "questionText": "Correct: 'They said they will come tomorrow.' (Reported)",
+    "options": ["would come the next day", "will come tomorrow", "come tomorrow", "came tomorrow"],
+    "correctAnswer": "would come the next day",
+    "points": 10
+  },
+  {
+    "questionText": "Stories help us show _______.",
+    "options": ["empathy", "anger", "hate", "fear"],
+    "correctAnswer": "empathy",
+    "points": 10
+  },
+  {
+    "questionText": "We should respect the _______.",
+    "options": ["elderly", "youngly", "newly", "badly"],
+    "correctAnswer": "elderly",
+    "points": 10
+  },
+  {
+    "questionText": "A _______ is a lesson from a fable.",
+    "options": ["moral", "story", "book", "page"],
+    "correctAnswer": "moral",
+    "points": 10
+  },
+  {
+    "questionText": "The crow had _______ in its beak.",
+    "options": ["cheese", "meat", "bread", "gold"],
+    "correctAnswer": "cheese",
+    "points": 10
+  },
+  {
+    "questionText": "The fox was _______.",
+    "options": ["clever", "stupid", "kind", "slow"],
+    "correctAnswer": "clever",
+    "points": 10
+  },
+  {
+    "questionText": "The dog saw a _______ in the water.",
+    "options": ["reflection", "fish", "boat", "stone"],
+    "correctAnswer": "reflection",
+    "points": 10
+  },
+  {
+    "questionText": "Greed leads to _______.",
+    "options": ["loss", "gain", "win", "success"],
+    "correctAnswer": "loss",
+    "points": 10
+  },
+  {
+    "questionText": "Always tell the _______.",
+    "options": ["truth", "lie", "story", "joke"],
+    "correctAnswer": "truth",
+    "points": 10
+  },
+  {
+    "questionText": "Small ideas can lead to _______ changes.",
+    "options": ["big", "small", "tiny", "no"],
+    "correctAnswer": "big",
+    "points": 10
+  },
+  {
+    "questionText": "We work together as a _______.",
+    "options": ["team", "enemy", "rival", "solo"],
+    "correctAnswer": "team",
+    "points": 10
+  }
+]
+        }
+      ]
+    }
+  ]
+}
