@@ -23,8 +23,10 @@
         },
         {
           "type": "quiz",
-          "title": "Unit Test",
-          "questions": [
+          "title": "Unit Test"
+        }
+      ],
+      "questions": [
   {
     "questionText": "A person who has grown up with technology is called a .......... .",
     "options": ["digital native", "digital citizen", "foreigner", "stranger"],
@@ -1123,9 +1125,7 @@
     "correctAnswer": "Is",
     "points": 10
   }
-  ]
-        }
-      ]
+]
     },
     {
       "id": "g2_u2",
@@ -1145,8 +1145,10 @@
         },
         {
           "type": "quiz",
-          "title": "Unit Test",
-          "questions": [
+          "title": "Unit Test"
+        }
+      ],
+      "questions": [
   {
     "questionText": "The trail of data you leave behind when you use the internet is called your .......... .",
     "options": ["digital footprint", "fingerprint", "handprint", "paper trail"],
@@ -2102,8 +2104,6 @@
     "points": 10
   }
 ]
-        }
-      ]
     },
     {
       "id": "g2_u3",
@@ -2123,8 +2123,10 @@
         },
         {
           "type": "quiz",
-          "title": "Unit Test",
-          "questions": [
+          "title": "Unit Test"
+        }
+      ],
+      "questions": [
   {
     "questionText": "A '..........' is a difficult situation or task that tests your ability.",
     "options": ["challenge", "picnic", "gift", "meal"],
@@ -3116,8 +3118,6 @@
     "points": 10
   }
 ]
-        }
-      ]
     },
     {
       "id": "g2_u4",
@@ -3137,8 +3137,10 @@
         },
         {
           "type": "quiz",
-          "title": "Unit Test",
-          "questions": [
+          "title": "Unit Test"
+        }
+      ],
+      "questions": [
   {
     "questionText": "A '..........' is a piece of art made by shaping stone, wood, or clay.",
     "options": ["painting", "sculpture", "drawing", "photo"],
@@ -4100,8 +4102,6 @@
     "points": 10
   }
 ]
-        }
-      ]
     },
     {
       "id": "g2_u5",
@@ -4121,8 +4121,10 @@
         },
         {
           "type": "quiz",
-          "title": "Unit Test",
-          "questions": [
+          "title": "Unit Test"
+        }
+      ],
+      "questions": [
   {
     "questionText": "A '..........' is one of the seven large land masses on the Earth.",
     "options": ["country", "continent", "city", "village"],
@@ -5126,8 +5128,6 @@
     "points": 10
   }
 ]
-        }
-      ]
     },
     {
       "id": "g2_u6",
@@ -5147,8 +5147,10 @@
         },
         {
           "type": "quiz",
-          "title": "Unit Test",
-          "questions": [
+          "title": "Unit Test"
+        }
+      ],
+      "questions": [
   {
     "questionText": "An '..........' is a new machine or device that has been created.",
     "options": ["invention", "invitation", "intention", "instruction"],
@@ -5720,8 +5722,6 @@
     "points": 10
   }
 ]
-        }
-      ]
     }
   ]
 }
