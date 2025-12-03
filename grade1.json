@@ -7741,13 +7741,42 @@
   }
       ]
     },
+   {
+  "id": "g1_u6",
+  "unitName": "Unit 6",
+  "icon": "ime.png",
+  "isFree": false,
+  "resources": [
     {
-      "id": "g1_u6",
-      "unitName": "Unit 6",
+      "unitName": "Unit 1",
       "icon": "ime.png",
-      "isFree": false,
+      "isFree": true,
       "resources": [
-       
+        {
+          "type": "pdf",
+          "title": "Unit PDF",
+          "url": "https://files.catbox.moe/3xs6qr.pdf"
+        },
+        {
+          "type": "video",
+          "title": "YouTube Lesson",
+          "url": "https://www.youtube.com/watch?v=1ZbrTflDNm4"
+        },
+        {
+          "type": "video",
+          "title": "our Server Videos",
+          "url": "https://archive.org/download/BigBuckBunny_124/Content/big_buck_bunny_720p_surround.mp4"
+        },
+        {
+          "type": "audio",
+          "title": "شرح صوتي للوحدة",
+          "url": "https://j.top4top.io/m_3508hx2t91.mp3"
+        },
+        {
+          "type": "quiz",
+          "title": "Unit 1 Test",
+          "questions": [
+
   {
     "questionText": "Pollution is a ............ problem.",
     "options": [
@@ -9519,6 +9548,8 @@
     "correctAnswer": "promote",
     "points": 10
   }
+          ]
+        }
       ]
     }
   ]
