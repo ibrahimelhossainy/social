@@ -8,18 +8,8 @@
       "resources": [
         {
           "type": "pdf",
-          "title": "Unit PDF",
-          "url": "LINK_TO_PDF_HERE"
-        },
-        {
-          "type": "video",
-          "title": "Video Lesson",
-          "url": "LINK_TO_VIDEO_HERE"
-        },
-        {
-          "type": "audio",
-          "title": "Audio Lesson",
-          "url": "LINK_TO_AUDIO_HERE"
+          "title": "Unit 1 PDF File",
+          "url": "https://files.catbox.moe/6ha1p3.pdf"
         },
         {
           "type": "quiz",
@@ -1135,13 +1125,8 @@
       "resources": [
         {
           "type": "pdf",
-          "title": "Unit PDF",
-          "url": "LINK_TO_PDF_HERE"
-        },
-        {
-          "type": "video",
-          "title": "Video Lesson",
-          "url": "LINK_TO_VIDEO_HERE"
+          "title": "Unit 2 PDF File",
+          "url": "https://files.catbox.moe/upxm3a.pdf"
         },
         {
           "type": "quiz",
@@ -2113,13 +2098,8 @@
       "resources": [
         {
           "type": "pdf",
-          "title": "Unit PDF",
-          "url": "LINK_TO_PDF_HERE"
-        },
-        {
-          "type": "video",
-          "title": "Video Lesson",
-          "url": "LINK_TO_VIDEO_HERE"
+          "title": "Unit 3 PDF File",
+          "url": "https://files.catbox.moe/zawwj0.pdf"
         },
         {
           "type": "quiz",
@@ -3127,8 +3107,8 @@
       "resources": [
         {
           "type": "pdf",
-          "title": "Unit PDF",
-          "url": "LINK_TO_PDF_HERE"
+          "title": "Unit 4 PDF File",
+          "url": "https://files.catbox.moe/6eamtn.pdf"
         },
         {
           "type": "video",
@@ -4111,13 +4091,8 @@
       "resources": [
         {
           "type": "pdf",
-          "title": "Unit PDF",
-          "url": "LINK_TO_PDF_HERE"
-        },
-        {
-          "type": "video",
-          "title": "Video Lesson",
-          "url": "LINK_TO_VIDEO_HERE"
+          "title": "Unit 5 PDF File",
+          "url": "https://files.catbox.moe/f5csmi.pdf"
         },
         {
           "type": "quiz",
@@ -5137,13 +5112,8 @@
       "resources": [
         {
           "type": "pdf",
-          "title": "Unit PDF",
-          "url": "LINK_TO_PDF_HERE"
-        },
-        {
-          "type": "video",
-          "title": "Video Lesson",
-          "url": "LINK_TO_VIDEO_HERE"
+          "title": "Unit 6 PDF File",
+          "url": "https://files.catbox.moe/luc9qk.pdf"
         },
         {
           "type": "quiz",
