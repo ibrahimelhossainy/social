@@ -1139,7 +1139,7 @@
       "id": "g2_u2",
       "unitName": "Unit 2",
       "icon": "ime.png",
-      "isFree": false,
+      "isFree": true,
       "resources": [
         {
           "type": "pdf",
@@ -2172,7 +2172,7 @@
       "id": "g2_u3",
       "unitName": "Unit 3",
       "icon": "ime.png",
-      "isFree": false,
+      "isFree": true,
       "resources": [
         {
           "type": "pdf",
@@ -3277,7 +3277,7 @@
       "id": "g2_u4",
       "unitName": "Unit 4",
       "icon": "ime.png",
-      "isFree": false,
+      "isFree": true,
       "resources": [
         {
           "type": "pdf",
@@ -4256,7 +4256,7 @@
       "id": "g2_u5",
       "unitName": "Unit 5",
       "icon": "ime.png",
-      "isFree": false,
+      "isFree": true,
       "resources": [
         {
           "type": "pdf",
@@ -5235,7 +5235,7 @@
       "id": "g2_u6",
       "unitName": "Unit 6",
       "icon": "ime.png",
-      "isFree": false,
+      "isFree": true,
       "resources": [
         {
           "type": "pdf",
