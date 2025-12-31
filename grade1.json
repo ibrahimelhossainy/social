@@ -7670,7 +7670,7 @@
       "id": "g1_u6",
       "unitName": "Unit 6",
       "icon": "ime.png",
-      "isFree": true,
+      "isFree": false,
       "resources": [
         {
           "type": "pdf",
